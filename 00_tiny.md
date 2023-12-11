@@ -1,4 +1,4 @@
-## Software Enginerring
+## Software Engineering
 
 [Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
 
@@ -9,6 +9,46 @@ Design URI/URL path to livelong. Keep out:
 - Filename extensions (.html, …)
 
 Good example: `http://www.w3.org/1998/12/01/chairs`
+
+[Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+
+Create a mess to make sure it work, then keep cleaning up later.
+
+> To write code that’s easy to delete: repeat yourself to avoid creating
+> dependencies, but don’t repeat yourself to manage them. Layer your code too:
+> build simple-to-use APIs out of simpler-to-implement but clumsy-to-use parts.
+> Split your code: isolate the hard-to-write and the likely-to-change parts from
+> the rest of the code, and each other. Don’t hard code every choice, and maybe
+> allow changing a few at runtime. Don’t try to do all of these things at the
+> same time, and maybe don’t write so much code in the first place.
+>
+> You’ve copy-pasted, you’ve refactored, you’ve layered, you’ve composed, but
+> the code still has to do something at the end of the day. Sometimes it’s best
+> just to give up and write a substantial amount of trashy code to hold the rest
+> together.
+>
+> Business logic is code characterised by a never ending series of edge cases
+> and quick and dirty hacks. This is fine. I am ok with this. Other styles like
+> ‘game code’, or ‘founder code’ are the same thing: cutting corners to save a
+> considerable amount of time.
+>
+> The reason? Sometimes it’s easier to delete one big mistake than try to delete
+> 18 smaller interleaved mistakes. A lot of programming is exploratory, and it’s
+> quicker to get it wrong a few times and iterate than think to get it right
+> first time.
+>
+> Instead of breaking code into parts with common functionality, we break code
+> apart by what it does not share with the rest. We isolate the most frustrating
+> parts to write, maintain, or delete away from each other.
+>
+> We are not building modules around being able to re-use them, but being able
+> to change them.
+
+### References
+
+- [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227)
+- [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
+- [Tech debt metaphor maximalism](https://apenwarr.ca/log/20230605)
 
 ## Python
 
@@ -29,13 +69,15 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 - [Breaking the Snake: How Python went from 2 to 3](https://www.deusinmachina.net/p/breaking-the-snake-how-python-went)
 - [Thoughts on the Python packaging ecosystem](https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/)
+- [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
 
-## Rust
+## Zig/Rust
 
 ## References
 
 - [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
 - [Rust's BufRead, And When To Use It](https://www.brandons.me/blog/bufread-and-when-to-use-it)
+- [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html#Zig-And-Rust)
 
 ## macOS
 
@@ -44,6 +86,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Distributing Mac apps outside the App Store, a quick start guide](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store)
 - [Making macOS apps uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable)
 - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
+- [Reclaiming storage/space from 'System Data' in macOS: A tutorial on understanding the System Data usage](http://blog.greggant.com/posts/2022/04/10/reclaiming-space-from-system-data-in-macos.html)
 
 ## UI/UX/Beautiful
 
@@ -107,6 +150,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
+- [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 
 ## Hardware
 
