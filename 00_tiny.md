@@ -1,14 +1,6 @@
+# 00_tiny
+
 ## Software Engineering
-
-[Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
-
-Design URI/URL path to livelong. Keep out:
-
-- Author name (author can change name)
-- Status (wip, draft, …)
-- Filename extensions (.html, …)
-
-Good example: `http://www.w3.org/1998/12/01/chairs`
 
 [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 
@@ -44,11 +36,175 @@ Create a mess to make sure it work, then keep cleaning up later.
 > We are not building modules around being able to re-use them, but being able
 > to change them.
 
+[Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
+
+> It’s a vicious cycle of solving imaginary problems, from the CEO who doesn’t
+> realize that stealing another 30 million won’t make his dad love him to the
+> user-experience intern who doesn’t realize that redesigning the “submit”
+> button using Angular-Material-Bootstrap 19.13.5 won’t make the fact that they
+> store passwords in plain text (and use them as part of the auth cookie) go
+> away.
+
+> But everyone needs to keep solving the imaginary problems, because if they
+> stop creating and solving these problems, if they start focusing on the _real_
+> problems, they might realize the whole system is broken. They might realize
+> Debra has been sitting in that corner, staring at uptime graphs of the
+> internal server farm for 10 years, despite the fact that the company moved to
+> AWS five years ago. They might realize 99 percent of their job is to
+> perpetuate the existence of someone else’s job. And that’s a hard realization
+> to digest—impossible for most, I dare say. So, instead, most find a way of
+> coping.
+
 ### References
 
 - [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227)
 - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
 - [Tech debt metaphor maximalism](https://apenwarr.ca/log/20230605)
+- [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
+- [Rewrite, refactor, or reinvent?](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent)
+- [Stop saying “technical debt”](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
+
+## Programming
+
+[Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
+
+Design URI/URL path to livelong. Keep out:
+
+- Author name (author can change name)
+- Status (wip, draft, …)
+- Filename extensions (.html, …)
+
+Good example: `http://www.w3.org/1998/12/01/chairs`
+
+[The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
+> A log is perhaps the simplest possible storage abstraction. It is an
+> append-only, totally-ordered sequence of records ordered by time. It looks
+> like this:
+>
+> Records are appended to the end of the log, and reads proceed left-to-right.
+> Each entry is assigned a unique sequential log entry number.
+>
+> Over-time the usage of the log grew from an implementation detail of ACID to a
+> method for replicating data between databases. It turns out that the sequence
+> of changes that happened on the database is exactly what is needed to keep a
+> remote replica database in sync. Oracle, MySQL, and PostgreSQL include log
+> shipping protocols to transmit portions of log to replica databases which act
+> as slaves.
+>
+> The two problems a log solves—ordering changes and distributing data—are even
+> more important in distributed data systems.
+
+TODO: Read the log to the end !!!
+
+[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
+
+> monitoring and QA are the same thing. You'd never think so until you try doing
+> a big SOA. But when your service says "oh yes, I'm fine", it may well be the
+> case that the only thing still functioning in the server is the little
+> component that knows how to say "I'm fine, roger roger, over and out" in a
+> cheery droid voice. In order to tell whether the service is actually
+> responding, you have to make individual calls. The problem continues
+> recursively until your monitoring is doing comprehensive semantics checking of
+> your entire range of services and data, at which point it's indistinguishable
+> from automated QA. So they're a continuum.
+>
+> if you have hundreds of services, and your code MUST communicate with other
+> groups' code via these services, then you won't be able to find any of them
+> without a service-discovery mechanism. And you can't have that without a
+> service registration mechanism, which itself is another service. So Amazon has
+> a universal service registry where you can find out reflectively
+> (programmatically) about every service, what its APIs are, and also whether it
+> is currently up, and where.
+
+[Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
+
+> The other problem is logs are such a stupid thing to have to store. 99.9999%
+> of them are never useful, the ones that are look exactly like the rest of them
+> and you end up sticking them in object storage forever at some point where no
+> human being will ever interact with them until the end of time. The number of
+> times I've written some variation on "take terabytes of logs nobody has ever
+> looked at from A and move to B" scripts is too high.
+
+[Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
+
+> Use prefixed tokens This took me years to stumble upon, but use a short prefix
+> for each type of random ID you create. Instead of generating an API token of
+> Mk7vuCg9eptiV8qid4mn, make it appMk7vuCg9eptiV8qid4mn. Instead of a user key
+> of zo2iD3x3J9, use userzo2iD3x3J9. Pushover uses a for API tokens, u for user
+> keys, g for group keys, s for subscribed user keys, etc. This makes it easier
+> for users to keep multiple keys/tokens straight when they all look like
+> gibberish and it makes it possible to automate helpful API error responses
+> like "your token parameter has a user key instead of an API token".
+
+[When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
+
+> This scenario is not new to the world of distributed computing and even has a
+> name you may have heard of before: **“The Thundering Herd” problem**. Large
+> distributed systems like Facebook have dealt with far more extreme thundering
+> herds than the Taylor Swift fans. What happened to Ticketmaster is not an
+> unsolved problem.
+
+[Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
+
+### References
+
+- [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
+- [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
+
+## Redis
+
+[How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+vs [Is Redlock safe?](http://antirez.com/news/101)
+
+> Note that Redis uses gettimeofday, not a monotonic clock, to determine the
+> expiry of keys. The man page for gettimeofday explicitly says that the time it
+> returns is subject to discontinuous jumps in system time – that is, it might
+> suddenly jump forwards by a few minutes, or even jump back in time
+>
+> If you need locks only on a best-effort basis (as an efficiency optimization,
+> not for correctness), I would recommend sticking with the straightforward
+> single-node locking algorithm for Redis (conditional set-if-not-exists to
+> obtain a lock, atomic delete-if-value-matches to release a lock), and
+> documenting very clearly in your code that the locks are only approximate and
+> may occasionally fail. Don’t bother with setting up a cluster of five Redis
+> nodes.
+
+### References
+
+- [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
+- [Cache Consistency with Database](https://danielw.cn/cache-consistency-with-database#cache-patterns)
+
+## Database
+
+[My Notes on GitLab Postgres Schema Design](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
+
+> Use of internal and external ids It is generally a good practice to not expose
+> your primary keys to the external world. This is especially important when you
+> use sequential auto-incrementing identifiers with type integer or bigint since
+> they are guessable.
+
+### References
+
+- [How to read MySQL EXPLAINs](https://planetscale.com/blog/how-read-mysql-explains)
+
+## C/C++
+
+[My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
+
+```sh
+cc -Wall -Wextra ...
+cc ... -fsanitize=address,undefined ...
+cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
+	-Wno-unused-parameter -Wno-unused-function -Wno-sign-conversion \
+	-fsanitize=undefined -fsanitize-trap ...
+```
+
+### References
+
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/index.html)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/index.html)
+- [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 
 ## Python
 
@@ -73,7 +229,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 ## Zig/Rust
 
-## References
+### References
 
 - [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
 - [Rust's BufRead, And When To Use It](https://www.brandons.me/blog/bufread-and-when-to-use-it)
@@ -126,6 +282,13 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 > means that someone is inside your network hitting those endpoints. That ought
 > to be a security issue all by itself.)
 
+### References
+
+- [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
+- [Preventing (and fixing) parser mismatch vulnerabilities](https://www.brainonfire.net/blog/2022/04/29/preventing-parser-mismatch/)
+- [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
+- [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
+
 ## Misc
 
 [Dockerignore troubles](https://garrit.xyz/posts/2023-02-22-dockerignore-troubles)
@@ -151,6 +314,8 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
+- [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
+- [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
 
 ## Hardware
 
@@ -161,6 +326,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Wireless is a trap](https://www.benkuhn.net/wireless/)
 - [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
 - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
+- ["What the heck is a Yubikey and why did I buy one?": A user guide](https://gist.github.com/sm-Fifteen/df1a94b6b6e0670e0b5a0c362ef2faa2)
 
 ## Leadership
 
