@@ -288,6 +288,12 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Preventing (and fixing) parser mismatch vulnerabilities](https://www.brainonfire.net/blog/2022/04/29/preventing-parser-mismatch/)
 - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
+- [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+- [What We Do in the /etc/shadow – Cryptography with Passwords](https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/)
+- [Adventures in password hashing + migrating to Argon2id](https://brandur.org/fragments/password-hashing)
+- [Migrating weaker password hashes by nesting them in an outer hash](https://brandur.org/fragments/password-hash-nesting)
+- [Database Cryptography Fur the Rest of Us](https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/)
+- [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 
 ## Misc
 
