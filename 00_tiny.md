@@ -333,3 +333,12 @@ openssl pkey -in private.pem -pubout -out public.pem
 ### References
 
 - [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/)
+
+## Interview
+
+### References
+
+- [The Pragmatic Engineer's Resume Template](https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/)
+- [My Guide To Writing A Killer Cover Letter](https://www.reddit.com/r/datascience/comments/tag8l5/my_guide_to_writing_a_killer_cover_letter/)
+- [NDAs and Contracts That You Should Never Sign](https://www.joelonsoftware.com/2000/03/28/ndas-and-contracts-that-you-should-never-sign/)
+- [Contracts you should never sign](https://vadimkravcenko.com/about-me/)
