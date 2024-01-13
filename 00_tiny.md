@@ -342,3 +342,9 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [My Guide To Writing A Killer Cover Letter](https://www.reddit.com/r/datascience/comments/tag8l5/my_guide_to_writing_a_killer_cover_letter/)
 - [NDAs and Contracts That You Should Never Sign](https://www.joelonsoftware.com/2000/03/28/ndas-and-contracts-that-you-should-never-sign/)
 - [Contracts you should never sign](https://vadimkravcenko.com/about-me/)
+
+## Money
+
+### References
+
+- [Bookkeeping and accounting](https://stripe.com/in/guides/atlas/bookkeeping-and-accounting)
