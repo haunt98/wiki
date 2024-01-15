@@ -322,6 +322,9 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 - [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
+- [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
+- [Faster and enjoyable ZSH (maybe)](https://htr3n.github.io/2018/07/faster-zsh/)
+- [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
 
 ## Hardware
 
