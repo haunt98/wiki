@@ -151,42 +151,7 @@ TODO: Read the log to the end !!!
 
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
-
-## Redis
-
-[How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-vs [Is Redlock safe?](http://antirez.com/news/101)
-
-> Note that Redis uses gettimeofday, not a monotonic clock, to determine the
-> expiry of keys. The man page for gettimeofday explicitly says that the time it
-> returns is subject to discontinuous jumps in system time – that is, it might
-> suddenly jump forwards by a few minutes, or even jump back in time
->
-> If you need locks only on a best-effort basis (as an efficiency optimization,
-> not for correctness), I would recommend sticking with the straightforward
-> single-node locking algorithm for Redis (conditional set-if-not-exists to
-> obtain a lock, atomic delete-if-value-matches to release a lock), and
-> documenting very clearly in your code that the locks are only approximate and
-> may occasionally fail. Don’t bother with setting up a cluster of five Redis
-> nodes.
-
-### References
-
-- [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
-- [Cache Consistency with Database](https://danielw.cn/cache-consistency-with-database#cache-patterns)
-
-## Database
-
-[My Notes on GitLab Postgres Schema Design](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
-
-> Use of internal and external ids It is generally a good practice to not expose
-> your primary keys to the external world. This is especially important when you
-> use sequential auto-incrementing identifiers with type integer or bigint since
-> they are guessable.
-
-### References
-
-- [How to read MySQL EXPLAINs](https://planetscale.com/blog/how-read-mysql-explains)
+- [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
 
 ## C/C++
 
