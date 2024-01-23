@@ -145,8 +145,6 @@ TODO: Read the log to the end !!!
 > herds than the Taylor Swift fans. What happened to Ticketmaster is not an
 > unsolved problem.
 
-[Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
-
 ### References
 
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
