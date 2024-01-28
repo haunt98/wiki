@@ -63,6 +63,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
 - [Rewrite, refactor, or reinvent?](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent)
 - [Stop saying “technical debt”](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
+- [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 
 ## Programming
 
