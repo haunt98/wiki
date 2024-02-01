@@ -290,6 +290,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 - [Faster and enjoyable ZSH (maybe)](https://htr3n.github.io/2018/07/faster-zsh/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
+- [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 
 ## Hardware
 
