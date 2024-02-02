@@ -259,6 +259,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Migrating weaker password hashes by nesting them in an outer hash](https://brandur.org/fragments/password-hash-nesting)
 - [Database Cryptography Fur the Rest of Us](https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/)
 - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
+- [A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 
 ## Misc
 
