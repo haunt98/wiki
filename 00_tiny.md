@@ -152,6 +152,7 @@ TODO: Read the log to the end !!!
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
 - [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
+- [The Real Hash Was the Friends We Made along the Way](https://vaibhavsagar.com/blog/2024/02/14/minimal-perfect-hashing/)
 
 ## C/C++
 
@@ -261,6 +262,8 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Database Cryptography Fur the Rest of Us](https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/)
 - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 - [A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+- [RSA is deceptively simple (and fun)](https://ntietz.com/blog/rsa-deceptively-simple/)
+- [PINs for Cryptography with Hardware Secure Elements](https://words.filippo.io/dispatches/secure-elements/)
 
 ## Misc
 
@@ -293,6 +296,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Faster and enjoyable ZSH (maybe)](https://htr3n.github.io/2018/07/faster-zsh/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
 - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
+- [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
 
 ## Hardware
 
@@ -325,3 +329,4 @@ openssl pkey -in private.pem -pubout -out public.pem
 ### References
 
 - [Bookkeeping and accounting](https://stripe.com/in/guides/atlas/bookkeeping-and-accounting)
+- https://moov.io/resources/dictionary/

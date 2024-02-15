@@ -289,6 +289,31 @@ Server exchange server using 2 RPC:
 - RequestVote
 - AppendEntries
 
+## Load balancer
+
+### Round-Robin
+
+Naive approach, first request to first server, second request to second server,
+... and so on.
+
+No need to keep state, just fair distribution.
+
+If a server is down, all current and future requests to that server will fail.
+
+### Least Connections
+
+TODO
+
+### Power of Two Choices
+
+TODO
+
+### References
+
+- [The Power of Two Random Choices: A Survey of Techniques and Results](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf)
+- [NGINX and the “Power of Two Choices” Load-Balancing Algorithm](https://www.nginx.com/blog/nginx-power-of-two-choices-load-balancing-algorithm/)
+- [Load Balancing: The Intuition Behind the Power of Two Random Choices](https://medium.com/the-intuition-project/load-balancing-the-intuition-behind-the-power-of-two-random-choices-6de2e139ac2f)
+
 ## Data structure
 
 ### Priority queue
