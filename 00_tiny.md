@@ -154,6 +154,7 @@ TODO: Read the log to the end !!!
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
 - [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
 - [The Real Hash Was the Friends We Made along the Way](https://vaibhavsagar.com/blog/2024/02/14/minimal-perfect-hashing/)
+- [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html)
 
 ## C/C++
 
