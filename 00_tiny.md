@@ -149,6 +149,7 @@ TODO: Read the log to the end !!!
 
 ### References
 
+- [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
 - [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
@@ -297,6 +298,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
 - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 - [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
+- [State of input method](https://dorotac.eu/posts/input_broken/)
 
 ## Hardware
 
