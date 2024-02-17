@@ -151,6 +151,8 @@ TODO: Read the log to the end !!!
 
 - [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
+- [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
+- [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
 - [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
 - [The Real Hash Was the Friends We Made along the Way](https://vaibhavsagar.com/blog/2024/02/14/minimal-perfect-hashing/)
@@ -193,8 +195,6 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 - [Breaking the Snake: How Python went from 2 to 3](https://www.deusinmachina.net/p/breaking-the-snake-how-python-went)
 - [Thoughts on the Python packaging ecosystem](https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/)
-- [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
-- [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 
 ## Zig/Rust
 
@@ -289,16 +289,17 @@ openssl pkey -in private.pem -pubout -out public.pem
 
 ### References
 
+- [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
+- [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 - [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 - [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
 - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 - [Faster and enjoyable ZSH (maybe)](https://htr3n.github.io/2018/07/faster-zsh/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
 - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
-- [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
 - [State of input method](https://dorotac.eu/posts/input_broken/)
 
 ## Hardware
