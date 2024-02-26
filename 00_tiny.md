@@ -198,6 +198,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 - [Breaking the Snake: How Python went from 2 to 3](https://www.deusinmachina.net/p/breaking-the-snake-how-python-went)
 - [Thoughts on the Python packaging ecosystem](https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/)
+- [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
 
 ## Zig/Rust
 
