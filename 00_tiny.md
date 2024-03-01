@@ -178,6 +178,7 @@ cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/index.html)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/index.html)
 - [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+- [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html#write-down-the-platforms-you-support)
 
 ## Python
 
