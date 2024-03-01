@@ -327,7 +327,7 @@ Dequeue:
   - Each time enqueue priority, if not bigger priority than it stays behind →
     preserver the order
 
-## Heap data structure
+### Heap data structure
 
 Min heap: root is the min aka arr[0]
 
@@ -346,3 +346,15 @@ What is heapify? Rebalance:
   → swap
 - Heapify from top: compare arr[i] with its children → if bigger then children →
   choose which is smallest → swap
+
+### Swiss Table
+
+TODO
+
+#### References
+
+- [CppCon 2017: Matt Kulukundis “Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step”](https://www.youtube.com/watch?v=ncHmEUmJZf4&t=1449s)
+- [Swiss Tables Design Notes](https://abseil.io/about/design/swisstables)
+- [Swisstable, a Quick and Dirty Description](https://faultlore.com/blah/hashbrown-tldr/)
+- [GopherCon 2016: Keith Randall - Inside the Map Implementation](https://www.youtube.com/watch?v=Tl7mi9QmLns&t=596s)
+- [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
