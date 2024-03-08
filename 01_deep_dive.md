@@ -64,6 +64,7 @@ t := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
 - [Strings, bytes, runes and characters in Go](https://go.dev/blog/strings)
 - [UTF-8: Bits, Bytes, and Benefits](https://research.swtch.com/utf8)
 - [Hello World or Καλημέρα κόσμε or こんにちは 世界](https://9p.io/sys/doc/utf.html)
+- [Flexible and Economical UTF-8 Decoder](https://bjoern.hoehrmann.de/utf-8/decoder/dfa/)
 
 ## Rate limit
 
