@@ -277,6 +277,10 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 [Dockerignore troubles](https://garrit.xyz/posts/2023-02-22-dockerignore-troubles)
 Use `.dockerignore` not `.Dockerignore`.
 
+[How to access docker container from host WITHOUT port mapping?](https://stackoverflow.com/q/71820845)
+
+Use `docker inspect $id` to get container ip.
+
 [OpenSSH client side key management for better privacy and security](https://tim.siosm.fr/blog/2023/01/13/openssh-key-management/)
 Edit `~/.ssh/config`
 
