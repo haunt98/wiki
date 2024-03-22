@@ -200,6 +200,8 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Breaking the Snake: How Python went from 2 to 3](https://www.deusinmachina.net/p/breaking-the-snake-how-python-went)
 - [Thoughts on the Python packaging ecosystem](https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/)
 - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
+- [An Illustrated Guide to Shape and Strides (Part 1)](https://ajcr.net/stride-guide-part-1/)
+- [An Illustrated Guide to Shape and Strides (Part 2)](https://ajcr.net/stride-guide-part-2/)
 
 ## Zig/Rust
 
@@ -303,6 +305,8 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+- [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
+- [The Myers diff algorithm: part 2](https://blog.jcoglan.com/2017/02/15/the-myers-diff-algorithm-part-2/)
 - [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 - [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
 - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
