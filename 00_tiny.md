@@ -314,6 +314,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
 - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 - [State of input method](https://dorotac.eu/posts/input_broken/)
+- [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 
 ## Hardware
 
