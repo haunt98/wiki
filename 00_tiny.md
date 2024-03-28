@@ -160,6 +160,7 @@ TODO: Read the log to the end !!!
 - [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
 - [The Real Hash Was the Friends We Made along the Way](https://vaibhavsagar.com/blog/2024/02/14/minimal-perfect-hashing/)
 - [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html)
+- [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 
 ## C/C++
 
