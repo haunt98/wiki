@@ -161,6 +161,7 @@ TODO: Read the log to the end !!!
 - [The Real Hash Was the Friends We Made along the Way](https://vaibhavsagar.com/blog/2024/02/14/minimal-perfect-hashing/)
 - [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html)
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
+- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 
 ## C/C++
 
@@ -200,6 +201,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 - [Breaking the Snake: How Python went from 2 to 3](https://www.deusinmachina.net/p/breaking-the-snake-how-python-went)
 - [Thoughts on the Python packaging ecosystem](https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/)
+- [Why not tell people to "simply" use pyenv, poetry or anaconda](https://www.bitecode.dev/p/why-not-tell-people-to-simply-use)
 - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
 - [An Illustrated Guide to Shape and Strides (Part 1)](https://ajcr.net/stride-guide-part-1/)
 - [An Illustrated Guide to Shape and Strides (Part 2)](https://ajcr.net/stride-guide-part-2/)
@@ -274,6 +276,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 - [RSA is deceptively simple (and fun)](https://ntietz.com/blog/rsa-deceptively-simple/)
 - [PINs for Cryptography with Hardware Secure Elements](https://words.filippo.io/dispatches/secure-elements/)
+- [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
 
 ## Misc
 
@@ -316,6 +319,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 - [State of input method](https://dorotac.eu/posts/input_broken/)
 - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
+- [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 
 ## Hardware
 
