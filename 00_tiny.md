@@ -309,6 +309,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+- [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109)
 - [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 - [The Myers diff algorithm: part 2](https://blog.jcoglan.com/2017/02/15/the-myers-diff-algorithm-part-2/)
 - [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
