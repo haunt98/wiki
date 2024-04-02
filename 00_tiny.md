@@ -287,6 +287,10 @@ Use `.dockerignore` not `.Dockerignore`.
 
 Use `docker inspect $id` to get container ip.
 
+[From inside of a Docker container, how do I connect to the localhost of the machine?](https://stackoverflow.com/a/24326540)
+
+Use `host.docker.internal` to connect to localhost from inside container.
+
 [OpenSSH client side key management for better privacy and security](https://tim.siosm.fr/blog/2023/01/13/openssh-key-management/)
 Edit `~/.ssh/config`
 
