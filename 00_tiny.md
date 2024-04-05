@@ -277,6 +277,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [RSA is deceptively simple (and fun)](https://ntietz.com/blog/rsa-deceptively-simple/)
 - [PINs for Cryptography with Hardware Secure Elements](https://words.filippo.io/dispatches/secure-elements/)
 - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
+- [HTTP/2 CONTINUATION Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 
 ## Misc
 
