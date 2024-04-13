@@ -300,6 +300,13 @@ Host *
     IdentitiesOnly yes
 ```
 
+[Git keeps asking me for my ssh key passphrase](https://stackoverflow.com/a/41576222)
+
+```ssh
+Host *
+    UseKeychain yes
+```
+
 openssl gen key:
 
 ```sh
@@ -326,6 +333,8 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [State of input method](https://dorotac.eu/posts/input_broken/)
 - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
+- [How do I run a docker instance from a DockerFile?](https://stackoverflow.com/a/36076856)
+- [What even is a JSON Number?](https://blog.trl.sn/blog/what-is-a-json-number/)
 
 ## Hardware
 
