@@ -233,6 +233,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [About Chinese Type Design - 1/3](https://www.lisahuang.work/about-chinese-type-design-1-3)
 - [Việtnamese Typography](https://vietnamesetypography.com/introduction/)
 - [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
+- [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 - [Shipping system fonts to GitHub.com](https://markdotto.com/2018/02/07/github-system-fonts/)
 - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
 
