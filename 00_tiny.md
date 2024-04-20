@@ -150,6 +150,7 @@ TODO: Read the log to the end !!!
 ### References
 
 - [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
 - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
@@ -162,6 +163,7 @@ TODO: Read the log to the end !!!
 - [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html)
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
+- [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
 
 ## C/C++
 
@@ -336,6 +338,8 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 - [How do I run a docker instance from a DockerFile?](https://stackoverflow.com/a/36076856)
 - [What even is a JSON Number?](https://blog.trl.sn/blog/what-is-a-json-number/)
+- [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
+- [systemd by example](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
 
 ## Hardware
 
@@ -347,12 +351,6 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
 - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 - ["What the heck is a Yubikey and why did I buy one?": A user guide](https://gist.github.com/sm-Fifteen/df1a94b6b6e0670e0b5a0c362ef2faa2)
-
-## Leadership
-
-### References
-
-- [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/)
 
 ## Interview
 
@@ -369,3 +367,4 @@ openssl pkey -in private.pem -pubout -out public.pem
 
 - [Bookkeeping and accounting](https://stripe.com/in/guides/atlas/bookkeeping-and-accounting)
 - https://moov.io/resources/dictionary/
+- [The Guide to Stock Options conversations](https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations)
