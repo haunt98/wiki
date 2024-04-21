@@ -164,6 +164,7 @@ TODO: Read the log to the end !!!
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 - [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
+- [What is tail recursion?](https://stackoverflow.com/a/37010)
 
 ## C/C++
 
@@ -351,6 +352,8 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
 - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 - ["What the heck is a Yubikey and why did I buy one?": A user guide](https://gist.github.com/sm-Fifteen/df1a94b6b6e0670e0b5a0c362ef2faa2)
+- [Erasure Coding For The Masses/More Math, Less Money To Keep Your Data Safe](https://towardsdatascience.com/erasure-coding-for-the-masses-2c23c74bf87e)
+- [DO NOT BUY HISENSE TV'S LOL (Or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 
 ## Interview
 
