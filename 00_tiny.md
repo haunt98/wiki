@@ -301,21 +301,6 @@ Use `docker inspect $id` to get container ip.
 
 Use `host.docker.internal` to connect to localhost from inside container.
 
-[OpenSSH client side key management for better privacy and security](https://tim.siosm.fr/blog/2023/01/13/openssh-key-management/)
-Edit `~/.ssh/config`
-
-```ssh
-Host *
-    IdentitiesOnly yes
-```
-
-[Git keeps asking me for my ssh key passphrase](https://stackoverflow.com/a/41576222)
-
-```ssh
-Host *
-    UseKeychain yes
-```
-
 openssl gen key:
 
 ```sh
