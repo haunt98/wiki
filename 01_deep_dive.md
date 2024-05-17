@@ -125,6 +125,8 @@ Implement:
 ### References
 
 - [An alternative approach to rate limiting](https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/)
+- [How we built rate limiting capable of scaling to millions of domains](https://blog.cloudflare.com/counting-things-a-lot-of-different-things)
+- [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
 - [Designing and implementing a sliding window based rate limiter](https://arpitbhayani.me/blogs/sliding-window-ratelimiter)
 
 ## OAuth
