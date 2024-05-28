@@ -171,6 +171,7 @@ TODO: Read the log to the end !!!
 - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 - [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
 - [Universally Unique IDentifiers (UUIDs)](https://www.rfc-editor.org/rfc/rfc9562.html)
+- [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
 
 ## C/C++
 
@@ -245,6 +246,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 - [Shipping system fonts to GitHub.com](https://markdotto.com/2018/02/07/github-system-fonts/)
 - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
+- [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
 
 ## Security
 
@@ -288,6 +290,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [PINs for Cryptography with Hardware Secure Elements](https://words.filippo.io/dispatches/secure-elements/)
 - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
 - [HTTP/2 CONTINUATION Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
+- [Community Cryptography Specification Project](https://github.com/C2SP/C2SP)
 
 ## Misc
 
