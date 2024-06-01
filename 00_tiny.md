@@ -317,27 +317,33 @@ openssl pkey -in private.pem -pubout -out public.pem
 ### References
 
 - [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
-- [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
+- [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
+- [What even is a JSON Number?](https://blog.trl.sn/blog/what-is-a-json-number/)
+
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 - [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109)
 - [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 - [The Myers diff algorithm: part 2](https://blog.jcoglan.com/2017/02/15/the-myers-diff-algorithm-part-2/)
 - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
-- [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
-- [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
+
 - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 - [Faster and enjoyable ZSH (maybe)](https://htr3n.github.io/2018/07/faster-zsh/)
-- [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
-- [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 - [State of input method](https://dorotac.eu/posts/input_broken/)
-- [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
-- [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
-- [How do I run a docker instance from a DockerFile?](https://stackoverflow.com/a/36076856)
-- [What even is a JSON Number?](https://blog.trl.sn/blog/what-is-a-json-number/)
-- [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 - [systemd by example](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
+- [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
+
+- [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
+- [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
+- [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
+- [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
+
+- [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
+- [How do I run a docker instance from a DockerFile?](https://stackoverflow.com/a/36076856)
+
+- [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
+- [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 
 ## Hardware
 
