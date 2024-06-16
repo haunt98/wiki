@@ -310,6 +310,41 @@ Use `docker inspect $id` to get container ip.
 
 Use `host.docker.internal` to connect to localhost from inside container.
 
+[Set specific IP addresses to docker containers created with docker-compose](https://alejandrocelaya.blog/2017/04/21/set-specific-ip-addresses-to-docker-containers-created-with-docker-compose/)
+
+```yaml
+version: "3"
+
+services:
+  test_1:
+    container_name: test_1
+    image: some:image
+    networks:
+      testing_net:
+        ipv4_address: 172.28.1.1
+
+  test_2:
+    container_name: test_2
+    image: some:image
+    networks:
+      testing_net:
+        ipv4_address: 172.28.1.2
+
+  test_3:
+    container_name: test_3
+    image: some:image
+    networks:
+      testing_net:
+        ipv4_address: 172.28.1.3
+
+networks:
+  testing_net:
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.28.0.0/16
+```
+
 openssl gen key:
 
 ```sh
