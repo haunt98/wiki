@@ -169,11 +169,14 @@ TODO: Read the log to the end !!!
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 - [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
 - [What is tail recursion?](https://stackoverflow.com/a/37010)
+- [Performance tip: avoid unnecessary copies](https://lemire.me/blog/2024/06/22/performance-tip-avoid-unnecessary-copies/)
 - [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
 - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 - [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
 - [Universally Unique IDentifiers (UUIDs)](https://www.rfc-editor.org/rfc/rfc9562.html)
+- [UUIDv7 in 32 languages](https://antonz.org/uuidv7/)
 - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
+- [Overflow in consistent hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
 
 ## C/C++
 
@@ -358,6 +361,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
 - [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
+- [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
 - [What even is a JSON Number?](https://blog.trl.sn/blog/what-is-a-json-number/)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
