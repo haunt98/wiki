@@ -63,8 +63,15 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
 - [Rewrite, refactor, or reinvent?](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent)
 - [Stop saying “technical debt”](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
+- [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
+
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
+- [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
+- [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
+- [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
 - [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
+- [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
+- [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 
 ## Programming
 
@@ -151,13 +158,9 @@ TODO: Read the log to the end !!!
 
 - [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
-- [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
-- [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
-- [Zed Decoded: Rope & SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
-- [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
-- [Ultimate Go Service](https://www.ardanlabs.com/blog/2018/06/ultimate-go-service.html)
 - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
 - [0.1 + 0.2](https://rtfeldman.com/0.1-plus-0.2)
@@ -362,6 +365,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
 - [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
 - [What even is a JSON Number?](https://blog.trl.sn/blog/what-is-a-json-number/)
+- [Fun with IP address parsing](https://blog.dave.tf/post/ip-addr-parsing/)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
