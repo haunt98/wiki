@@ -379,6 +379,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [State of input method](https://dorotac.eu/posts/input_broken/)
 - [systemd by example](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
 - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
+- [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
