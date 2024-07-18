@@ -284,24 +284,27 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 ### References
 
+- [Community Cryptography Specification Project](https://github.com/C2SP/C2SP)
+
+- [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+- [Adventures in password hashing + migrating to Argon2id](https://brandur.org/fragments/password-hashing)
+- [Migrating weaker password hashes by nesting them in an outer hash](https://brandur.org/fragments/password-hash-nesting)
+- [Database Cryptography Fur the Rest of Us](https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/)
+- [What We Do in the /etc/shadow – Cryptography with Passwords](https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/)
+- [RSA is deceptively simple (and fun)](https://ntietz.com/blog/rsa-deceptively-simple/)
+- [PINs for Cryptography with Hardware Secure Elements](https://words.filippo.io/dispatches/secure-elements/)
+- [The most common 4-digit PIN numbers](https://informationisbeautiful.net/visualizations/most-common-pin-codes/)
+- [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
+- [A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+- [How I would do auth](https://pilcrowonpaper.com/blog/how-i-would-do-auth/)
+
 - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 - [Preventing (and fixing) parser mismatch vulnerabilities](https://www.brainonfire.net/blog/2022/04/29/preventing-parser-mismatch/)
 - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
-- [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
-- [What We Do in the /etc/shadow – Cryptography with Passwords](https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/)
-- [Adventures in password hashing + migrating to Argon2id](https://brandur.org/fragments/password-hashing)
-- [Migrating weaker password hashes by nesting them in an outer hash](https://brandur.org/fragments/password-hash-nesting)
-- [Database Cryptography Fur the Rest of Us](https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/)
 - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
-- [A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
-- [RSA is deceptively simple (and fun)](https://ntietz.com/blog/rsa-deceptively-simple/)
-- [PINs for Cryptography with Hardware Secure Elements](https://words.filippo.io/dispatches/secure-elements/)
-- [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
-- [The most common 4-digit PIN numbers](https://informationisbeautiful.net/visualizations/most-common-pin-codes/)
 - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
 - [HTTP/2 CONTINUATION Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
-- [Community Cryptography Specification Project](https://github.com/C2SP/C2SP)
 
 ## Misc
 
