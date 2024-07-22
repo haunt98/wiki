@@ -178,6 +178,7 @@ TODO: Read the log to the end !!!
 - [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
 - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
 - [Overflow in consistent hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
+- [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 
 ## C/C++
 
@@ -238,6 +239,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Making macOS apps uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable)
 - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 - [Reclaiming storage/space from 'System Data' in macOS: A tutorial on understanding the System Data usage](http://blog.greggant.com/posts/2022/04/10/reclaiming-space-from-system-data-in-macos.html)
+- [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
 
 ## UI/UX/Beautiful
 
@@ -296,15 +298,17 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [The most common 4-digit PIN numbers](https://informationisbeautiful.net/visualizations/most-common-pin-codes/)
 - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 - [A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
-- [How I would do auth](https://pilcrowonpaper.com/blog/how-i-would-do-auth/)
+- [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
+- [HTTP/2 CONTINUATION Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 
 - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 - [Preventing (and fixing) parser mismatch vulnerabilities](https://www.brainonfire.net/blog/2022/04/29/preventing-parser-mismatch/)
 - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
 - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
-- [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
-- [HTTP/2 CONTINUATION Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
+- [How I would do auth](https://pilcrowonpaper.com/blog/how-i-would-do-auth/)
+- [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
+- [The Six Dumbest Ideas in Computer Security](http://www.ranum.com/security/computer_security/editorials/dumb/)
 
 ## Misc
 
@@ -383,6 +387,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [systemd by example](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
 - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
+- [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
@@ -394,6 +399,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 
 - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+- [Adding GeoIP alerting to your SSH logins](https://ivo.palli.nl/2024/07/18/adding-geoip-alerting-to-your-ssh-logins/)
 
 ## Hardware
 
