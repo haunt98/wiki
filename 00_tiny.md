@@ -258,6 +258,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
 - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
+- [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 
 ## Security
 
