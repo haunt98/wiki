@@ -169,6 +169,7 @@ TODO: Read the log to the end !!!
 - [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html)
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
+- [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 - [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
 - [What is tail recursion?](https://stackoverflow.com/a/37010)
@@ -374,6 +375,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
 - [What even is a JSON Number?](https://blog.trl.sn/blog/what-is-a-json-number/)
 - [Fun with IP address parsing](https://blog.dave.tf/post/ip-addr-parsing/)
+- [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
