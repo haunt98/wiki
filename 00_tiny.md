@@ -416,6 +416,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - ["What the heck is a Yubikey and why did I buy one?": A user guide](https://gist.github.com/sm-Fifteen/df1a94b6b6e0670e0b5a0c362ef2faa2)
 - [Erasure Coding For The Masses/More Math, Less Money To Keep Your Data Safe](https://towardsdatascience.com/erasure-coding-for-the-masses-2c23c74bf87e)
 - [DO NOT BUY HISENSE TV'S LOL (Or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
+- [Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 
 ## Interview
 
