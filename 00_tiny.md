@@ -44,7 +44,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 > button using Angular-Material-Bootstrap 19.13.5 won’t make the fact that they
 > store passwords in plain text (and use them as part of the auth cookie) go
 > away.
-
+>
 > But everyone needs to keep solving the imaginary problems, because if they
 > stop creating and solving these problems, if they start focusing on the _real_
 > problems, they might realize the whole system is broken. They might realize
@@ -54,6 +54,23 @@ Create a mess to make sure it work, then keep cleaning up later.
 > perpetuate the existence of someone else’s job. And that’s a hard realization
 > to digest—impossible for most, I dare say. So, instead, most find a way of
 > coping.
+
+[What it means to design a platform](https://matthewstrom.com/writing/platform-design)
+
+> Incentives Designing applications requires understanding the balance between
+> motivation and friction. It’s almost mathematical: if a user’s motivation is
+> greater than the friction they experience, the user will complete a task. If
+> users aren’t completing a task, you can increase the motivation through
+> marketing and guidance, or decrease the friction through usability
+> improvements or automation.
+>
+> Second-order thinking Platform design requires second-order thinking, where
+> first-order effects are causes, too. A great example of this is attributed to
+> Warren Buffett: imagine a crowd watching a parade. A few people stand on their
+> tiptoes — that’s a first-order cause. Now, they can see better — the
+> first-order effect. What happens next? All the people behind them have to
+> stand on their tiptoes, too — that’s the second-order effect. In the end,
+> everyone is worse off, and nobody can see any better.2
 
 ### References
 
