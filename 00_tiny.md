@@ -263,9 +263,6 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 ### References
 
-- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
-- [The invisible problem](https://jenson.org/text/)
-- [Design can be free](https://jenson.org/free/)
 - [About Chinese Type Design - 1/3](https://www.lisahuang.work/about-chinese-type-design-1-3)
 - [About Chinese Type Design - 2/3](https://www.lisahuang.work/about-chinese-type-design-2-3)
 - [Việtnamese Typography](https://vietnamesetypography.com/introduction/)
@@ -273,10 +270,15 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Font hinting](https://www.typotheque.com/articles/hinting)
 - [Modern handwriting: a historical survey](https://www.typotheque.com/articles/modern-handwriting-a-historical-survey-1)
 - [Shipping system fonts to GitHub.com](https://markdotto.com/2018/02/07/github-system-fonts/)
+
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
+- [The invisible problem](https://jenson.org/text/)
+- [Design can be free](https://jenson.org/free/)
 - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
 - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
 - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
+- [The polish paradox](https://matthewstrom.com/writing/the-polish-paradox/)
 
 ## Security
 
