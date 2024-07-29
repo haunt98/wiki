@@ -183,20 +183,25 @@ TODO: Read the log to the end !!!
 - [0.1 + 0.2](https://rtfeldman.com/0.1-plus-0.2)
 - [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
 - [The Real Hash Was the Friends We Made along the Way](https://vaibhavsagar.com/blog/2024/02/14/minimal-perfect-hashing/)
-- [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html)
+- [Overflow in consistent hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
+- [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
+- [What is tail recursion?](https://stackoverflow.com/a/37010)
+- [Performance tip: avoid unnecessary copies](https://lemire.me/blog/2024/06/22/performance-tip-avoid-unnecessary-copies/)
+- [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
+
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
-- [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
-- [What is tail recursion?](https://stackoverflow.com/a/37010)
-- [Performance tip: avoid unnecessary copies](https://lemire.me/blog/2024/06/22/performance-tip-avoid-unnecessary-copies/)
+
+- [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
+- [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
+- [How CRDTs make multiplayer text editing part of Zed's DNA](https://zed.dev/blog/crdts)
+
 - [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
 - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 - [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
 - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
-- [Overflow in consistent hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
-- [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 
 ## C/C++
 
