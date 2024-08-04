@@ -195,6 +195,10 @@ TODO: Read the log to the end !!!
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 
 - [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
+- [CRDT: Fractional Indexing](https://madebyevan.com/algos/crdt-fractional-indexing/)
+- [CRDT: Tree-Based Indexing](https://madebyevan.com/algos/crdt-tree-based-indexing/)
+- [CRDT: Mutable Tree Hierarchy](https://madebyevan.com/algos/crdt-mutable-tree-hierarchy/)
+- [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
 - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
 - [How CRDTs make multiplayer text editing part of Zed's DNA](https://zed.dev/blog/crdts)
 
