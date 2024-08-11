@@ -163,7 +163,8 @@ TODO: Read the log to the end !!!
 > gibberish and it makes it possible to automate helpful API error responses
 > like "your token parameter has a user key instead of an API token".
 
-[When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
+- [When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
+- [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 
 > This scenario is not new to the world of distributed computing and even has a
 > name you may have heard of before: **“The Thundering Herd” problem**. Large
@@ -175,6 +176,7 @@ TODO: Read the log to the end !!!
 
 - [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+- [TCP Fast Open: expediting web services](https://lwn.net/Articles/508865/)
 
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
@@ -188,11 +190,13 @@ TODO: Read the log to the end !!!
 - [What is tail recursion?](https://stackoverflow.com/a/37010)
 - [Performance tip: avoid unnecessary copies](https://lemire.me/blog/2024/06/22/performance-tip-avoid-unnecessary-copies/)
 - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
+- [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+- [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
+- [Multi-Threading & Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
-- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 
 - [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 - [CRDT: Fractional Indexing](https://madebyevan.com/algos/crdt-fractional-indexing/)
@@ -206,6 +210,7 @@ TODO: Read the log to the end !!!
 - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 - [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
 - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
+- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 
 ## C/C++
 
@@ -224,7 +229,6 @@ cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/index.html)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/index.html)
 - [How to C in 2016](https://matt.sh/howto-c)
-- [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html#write-down-the-platforms-you-support)
 
 ## Python
@@ -408,6 +412,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [What even is a JSON Number?](https://blog.trl.sn/blog/what-is-a-json-number/)
 - [Fun with IP address parsing](https://blog.dave.tf/post/ip-addr-parsing/)
 - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
+- [The Fastest, Safest PNG Decoder in the World](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
@@ -449,6 +454,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Erasure Coding For The Masses/More Math, Less Money To Keep Your Data Safe](https://towardsdatascience.com/erasure-coding-for-the-masses-2c23c74bf87e)
 - [DO NOT BUY HISENSE TV'S LOL (Or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 - [Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
+- [Why you should fall in love with the RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 
 ## Interview
 
