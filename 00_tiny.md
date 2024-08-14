@@ -441,6 +441,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [Adding GeoIP alerting to your SSH logins](https://ivo.palli.nl/2024/07/18/adding-geoip-alerting-to-your-ssh-logins/)
+- [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
 
 ## Hardware
 
