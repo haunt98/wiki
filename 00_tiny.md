@@ -194,6 +194,8 @@ TODO: Read the log to the end !!!
 - [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 - [Multi-Threading & Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
+- [Sort, sweep, and prune: Collision detection algorithms](https://leanrada.com/notes/sweep-and-prune/)
+- [Sort, sweep, and prune: Part 2](https://leanrada.com/notes/sweep-and-prune-2/)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
