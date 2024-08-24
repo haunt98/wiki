@@ -235,6 +235,9 @@ cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
 - [How to C in 2016](https://matt.sh/howto-c)
 - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html#write-down-the-platforms-you-support)
 
+- [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
+- [isdigit: simple function, multiple implementation](https://nrk.neocities.org/articles/isdigit-multi-implementation)
+
 ## Python
 
 [Stop using utcnow and utcfromtimestamp](https://blog.ganssle.io/articles/2019/11/utcnow.html)
@@ -266,6 +269,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
 - [Rust's BufRead, And When To Use It](https://www.brandons.me/blog/bufread-and-when-to-use-it)
 - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html#Zig-And-Rust)
+- [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 
 ## macOS
 
