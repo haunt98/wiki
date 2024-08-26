@@ -104,25 +104,6 @@ Design URI/URL path to livelong. Keep out:
 
 Good example: `http://www.w3.org/1998/12/01/chairs`
 
-[The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
-
-> A log is perhaps the simplest possible storage abstraction. It is an
-> append-only, totally-ordered sequence of records ordered by time. It looks
-> like this:
->
-> Records are appended to the end of the log, and reads proceed left-to-right.
-> Each entry is assigned a unique sequential log entry number.
->
-> Over-time the usage of the log grew from an implementation detail of ACID to a
-> method for replicating data between databases. It turns out that the sequence
-> of changes that happened on the database is exactly what is needed to keep a
-> remote replica database in sync. Oracle, MySQL, and PostgreSQL include log
-> shipping protocols to transmit portions of log to replica databases which act
-> as slaves.
->
-> The two problems a log solves—ordering changes and distributing data—are even
-> more important in distributed data systems.
-
 [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
 
 > monitoring and QA are the same thing. You'd never think so until you try doing
