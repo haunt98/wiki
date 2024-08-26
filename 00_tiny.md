@@ -123,8 +123,6 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 > The two problems a log solves—ordering changes and distributing data—are even
 > more important in distributed data systems.
 
-TODO: Read the log to the end !!!
-
 [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
 
 > monitoring and QA are the same thing. You'd never think so until you try doing
@@ -215,6 +213,7 @@ TODO: Read the log to the end !!!
 - [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
 - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
+- [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 
 ## C/C++
 
