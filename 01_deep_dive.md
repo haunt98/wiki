@@ -128,6 +128,8 @@ Implement:
 - [How we built rate limiting capable of scaling to millions of domains](https://blog.cloudflare.com/counting-things-a-lot-of-different-things)
 - [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
 - [Designing and implementing a sliding window based rate limiter](https://arpitbhayani.me/blogs/sliding-window-ratelimiter)
+- [GCRA: leaky buckets without the buckets](https://dotat.at/@/2024-08-30-gcra.html)
+- [exponential rate limiting](https://dotat.at/@/2024-09-02-ewma.html)
 
 ## OAuth
 

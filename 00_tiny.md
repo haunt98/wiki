@@ -411,6 +411,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [The Myers diff algorithm: part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/)
 - [The Myers diff algorithm: part 2](https://blog.jcoglan.com/2017/02/15/the-myers-diff-algorithm-part-2/)
 - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
+- [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
 
 - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 - [Faster and enjoyable ZSH (maybe)](https://htr3n.github.io/2018/07/faster-zsh/)
