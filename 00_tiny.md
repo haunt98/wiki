@@ -158,8 +158,10 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [TCP Fast Open: expediting web services](https://lwn.net/Articles/508865/)
+  - [Multipath TCP](https://www.mptcp.dev/)
 
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
+- [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
@@ -195,6 +197,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
+- [ATProto for distributed systems engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
 
 ## C/C++
 
@@ -329,6 +332,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
   - [Explain Parquet like I'm Five](https://dev.to/parseable/explain-parquet-like-im-five-n9h)
 - [HTTP/2 CONTINUATION Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
+- [The Cryptographic Doom Principle](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
 
 - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 - [Preventing (and fixing) parser mismatch vulnerabilities](https://www.brainonfire.net/blog/2022/04/29/preventing-parser-mismatch/)
