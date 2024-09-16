@@ -429,6 +429,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
 - [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 - [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
+- [Automatic dark mode for terminal applications](https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/)
 
 - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 - [How do I run a docker instance from a DockerFile?](https://stackoverflow.com/a/36076856)
@@ -452,6 +453,10 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [DO NOT BUY HISENSE TV'S LOL (Or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 - [Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 - [Why you should fall in love with the RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
+
+- [My 2022 high-end Linux PC 🐧 (2022)](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
+- [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
+- [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 
 ## Interview
 
