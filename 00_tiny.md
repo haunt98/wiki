@@ -153,6 +153,11 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 > herds than the Taylor Swift fans. What happened to Ticketmaster is not an
 > unsolved problem.
 
+[Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
+
+> Shift is_active to something more generic: a status field, so we can expand it
+> down the line for other parts of the state space.
+
 ### References
 
 - [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
