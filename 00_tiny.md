@@ -82,6 +82,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Stop saying “technical debt”](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
 - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
 - [The LMAX Architecture](https://martinfowler.com/articles/lmax.html)
+- [Paying down tech debt: further learnings](https://blog.pragmaticengineer.com/paying-down-tech-debt-further-learnings/)
 
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
@@ -443,6 +444,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [Adding GeoIP alerting to your SSH logins](https://ivo.palli.nl/2024/07/18/adding-geoip-alerting-to-your-ssh-logins/)
 - [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
+- [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
 
 ## Hardware
 
@@ -458,6 +460,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [DO NOT BUY HISENSE TV'S LOL (Or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 - [Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 - [Why you should fall in love with the RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
+- [How I Designed a Dieter Rams inspired iPhone Dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 
 - [My 2022 high-end Linux PC 🐧 (2022)](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
 - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
