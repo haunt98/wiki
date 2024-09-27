@@ -205,7 +205,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 - [ATProto for distributed systems engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
 
-## C/C++
+## C
 
 [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 
@@ -222,6 +222,7 @@ cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/index.html)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/index.html)
 - [How to C in 2016](https://matt.sh/howto-c)
+- [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html#write-down-the-platforms-you-support)
 
 - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
