@@ -247,6 +247,7 @@ sequenceDiagram
 - [Stop using JWT for sessions, part 2: Why your solution doesn't work](http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)
 - [Tailescale: Introducing Custom OIDC](https://tailscale.com/blog/custom-oidc)
 - [The Copenhagen Book](https://github.com/pilcrowonpaper/copenhagen)
+- [SAML: A technical primer](https://ssoready.com/docs/saml/saml-technical-primer)
 
 ## [RAFT Consensus Algorithm](https://raft.github.io/)
 
