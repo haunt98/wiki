@@ -463,6 +463,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 - [Why you should fall in love with the RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 - [How I Designed a Dieter Rams inspired iPhone Dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
+- [The challenge of updating InsydeH2O UEFI with Linux](https://thebrokenrail.com/2024/09/29/the-challenge-of-insyde-h2o.html)
 
 - [My 2022 high-end Linux PC 🐧 (2022)](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
 - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
