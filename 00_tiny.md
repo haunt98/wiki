@@ -162,6 +162,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 ### References
 
 - [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
+  - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [TCP Fast Open: expediting web services](https://lwn.net/Articles/508865/)
   - [Multipath TCP](https://www.mptcp.dev/)
@@ -415,6 +416,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Fun with IP address parsing](https://blog.dave.tf/post/ip-addr-parsing/)
 - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 - [The Fastest, Safest PNG Decoder in the World](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
+- [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
@@ -464,6 +466,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Why you should fall in love with the RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
 - [How I Designed a Dieter Rams inspired iPhone Dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 - [The challenge of updating InsydeH2O UEFI with Linux](https://thebrokenrail.com/2024/09/29/the-challenge-of-insyde-h2o.html)
+- [DDR4 memory organization and how it affects memory bandwidth](https://blog.cloudflare.com/ddr4-memory-organization-and-how-it-affects-memory-bandwidth/)
 
 - [My 2022 high-end Linux PC 🐧 (2022)](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
 - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
