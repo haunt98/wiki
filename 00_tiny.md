@@ -269,7 +269,6 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Distributing Mac apps outside the App Store, a quick start guide](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store)
 - [Making macOS apps uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable)
 - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
-- [Reclaiming storage/space from 'System Data' in macOS: A tutorial on understanding the System Data usage](http://blog.greggant.com/posts/2022/04/10/reclaiming-space-from-system-data-in-macos.html)
 - [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
 
 ## UI/UX/Beautiful
