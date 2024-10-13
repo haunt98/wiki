@@ -205,6 +205,8 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 - [ATProto for distributed systems engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
+- [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
+- [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 
 ## C
 
