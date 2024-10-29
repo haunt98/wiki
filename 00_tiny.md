@@ -83,6 +83,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
 - [The LMAX Architecture](https://martinfowler.com/articles/lmax.html)
 - [Paying down tech debt: further learnings](https://blog.pragmaticengineer.com/paying-down-tech-debt-further-learnings/)
+- [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
@@ -185,6 +186,17 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Multi-Threading & Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
 - [Sort, sweep, and prune: Collision detection algorithms](https://leanrada.com/notes/sweep-and-prune/)
 - [Sort, sweep, and prune: Part 2](https://leanrada.com/notes/sweep-and-prune-2/)
+- [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
+- [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
+- [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
+- [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
+- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
+- [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
+- [ATProto for distributed systems engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
+- [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
+- [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
+- [Confusing or misunderstood topics in systems programming: Part 0](https://pthorpe92.dev/programming/systems/common-misunderstandings/)
+- [Confusing or misunderstood topics in systems programming: Part 1](https://pthorpe92.dev/programming/systems/threads-async-runtimes-part0/)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
@@ -197,16 +209,6 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
 - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
 - [How CRDTs make multiplayer text editing part of Zed's DNA](https://zed.dev/blog/crdts)
-
-- [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
-- [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
-- [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
-- [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
-- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
-- [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
-- [ATProto for distributed systems engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
-- [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
-- [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 
 ## C
 
@@ -259,10 +261,12 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 ### References
 
+- [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html#Zig-And-Rust)
+
 - [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
 - [Rust's BufRead, And When To Use It](https://www.brandons.me/blog/bufread-and-when-to-use-it)
-- [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html#Zig-And-Rust)
 - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
+- [Trimming down a rust binary in half](https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/)
 
 ## macOS
 
