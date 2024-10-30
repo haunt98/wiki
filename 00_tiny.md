@@ -452,6 +452,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 
 - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 - [How do I run a docker instance from a DockerFile?](https://stackoverflow.com/a/36076856)
+- [Understanding DNS resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
 
 - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
