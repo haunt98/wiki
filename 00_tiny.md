@@ -477,6 +477,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [The challenge of updating InsydeH2O UEFI with Linux](https://thebrokenrail.com/2024/09/29/the-challenge-of-insyde-h2o.html)
 - [DDR4 memory organization and how it affects memory bandwidth](https://blog.cloudflare.com/ddr4-memory-organization-and-how-it-affects-memory-bandwidth/)
 - [Using an 8K TV as a monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
+- [Using a Samsung QN700B 8k TV as a Monitor](https://scottstuff.net/posts/2023/10/10/samsung-8k/)
 
 - [My 2022 high-end Linux PC 🐧 (2022)](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
 - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
