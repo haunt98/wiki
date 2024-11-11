@@ -93,6 +93,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 - [7 Things I've learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
+- [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
 
 ## Programming
 
