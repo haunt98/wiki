@@ -347,6 +347,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
   - [Explain Parquet like I'm Five](https://dev.to/parseable/explain-parquet-like-im-five-n9h)
 - [HTTP/2 CONTINUATION Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 - [The Cryptographic Doom Principle](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
+- [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
 
 - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 - [Preventing (and fixing) parser mismatch vulnerabilities](https://www.brainonfire.net/blog/2022/04/29/preventing-parser-mismatch/)
