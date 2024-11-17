@@ -444,7 +444,6 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 - [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
-- [No more blurry fonts in linux](https://blog.aktsbot.in/no-more-blurry-fonts.html)
 - [SVG cursors: everything that you need to know about them](https://blog.vladzahorodnii.com/2024/10/06/svg-cursors-everything-that-you-need-to-know-about-them/)
 
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
