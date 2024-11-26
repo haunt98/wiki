@@ -94,6 +94,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 - [7 Things I've learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
 - [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
+- [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 
 ## Programming
 
@@ -198,6 +199,9 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 - [Confusing or misunderstood topics in systems programming: Part 0](https://pthorpe92.dev/programming/systems/common-misunderstandings/)
 - [Confusing or misunderstood topics in systems programming: Part 1](https://pthorpe92.dev/programming/systems/threads-async-runtimes-part0/)
+- [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
+- [Peeking into VALORANT's Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode)
+- [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
@@ -455,12 +459,12 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 - [How do I run a docker instance from a DockerFile?](https://stackoverflow.com/a/36076856)
 - [Understanding DNS resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
-
 - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [Adding GeoIP alerting to your SSH logins](https://ivo.palli.nl/2024/07/18/adding-geoip-alerting-to-your-ssh-logins/)
 - [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
 - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
+- [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 
 ## Hardware
 
