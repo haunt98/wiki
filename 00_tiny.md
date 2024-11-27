@@ -432,6 +432,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 - [The Fastest, Safest PNG Decoder in the World](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
 - [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
+- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
@@ -483,6 +484,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [How I Designed a Dieter Rams inspired iPhone Dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 - [The challenge of updating InsydeH2O UEFI with Linux](https://thebrokenrail.com/2024/09/29/the-challenge-of-insyde-h2o.html)
 - [DDR4 memory organization and how it affects memory bandwidth](https://blog.cloudflare.com/ddr4-memory-organization-and-how-it-affects-memory-bandwidth/)
+- [Can Dell’s 6K monitor beat their 8K monitor? (2023)](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 - [Using an 8K TV as a monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
 - [Using a Samsung QN700B 8k TV as a Monitor](https://scottstuff.net/posts/2023/10/10/samsung-8k/)
 
