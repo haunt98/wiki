@@ -294,6 +294,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Font hinting](https://www.typotheque.com/articles/hinting)
 - [Modern handwriting: a historical survey](https://www.typotheque.com/articles/modern-handwriting-a-historical-survey-1)
 - [Shipping system fonts to GitHub.com](https://markdotto.com/2018/02/07/github-system-fonts/)
+- [Practical Typography](https://practicaltypography.com/)
 
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 - [The invisible problem](https://jenson.org/text/)
