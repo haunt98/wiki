@@ -492,6 +492,25 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
 - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 
+## Kindle
+
+Remove ads on Kindle:
+
+```sh
+rm -r /Volumes/Kindle/system/.assets
+rm -r /Volumes/Kindle/system/._.assets
+
+touch /Volumes/Kindle/system/.assets
+touch /Volumes/Kindle/system/._.assets
+```
+
+### References
+
+- https://github.com/mariopepe/KindleAdRemover
+- https://github.com/ciromattia/kcc
+- https://github.com/innocenat/kindle-epub-fix
+- https://s3.amazonaws.com/kindlepreviewer/UG_ReleaseNotes_EN.txt
+
 ## Interview
 
 ### References
