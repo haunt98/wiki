@@ -246,9 +246,12 @@ sequenceDiagram
 - [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
 - [Stop using JWT for sessions, part 2: Why your solution doesn't work](http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)
 - [Refresh vs. Long-lived Access Tokens](https://grayduck.mn/2023/04/17/refresh-vs-long-lived-access-tokens/)
-- [The Copenhagen Book](https://github.com/pilcrowonpaper/copenhagen)
 - [Tailescale: Introducing Custom OIDC](https://tailscale.com/blog/custom-oidc)
 - [SAML: A technical primer](https://ssoready.com/docs/saml/saml-technical-primer)
+- [The Copenhagen Book](https://github.com/pilcrowonpaper/copenhagen)
+- [How I would do auth](https://pilcrowonpaper.com/blog/how-i-would-do-auth/)
+- [A beginner's guide to OAuth 2.0](https://pilcrowonpaper.com/blog/oauth-guide/)
+- [Dear OAuth providers](https://pilcrowonpaper.com/blog/dear-oauth-providers/)
 
 ## [RAFT Consensus Algorithm](https://raft.github.io/)
 

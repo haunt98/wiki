@@ -359,7 +359,6 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
 - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
-- [How I would do auth](https://pilcrowonpaper.com/blog/how-i-would-do-auth/)
 - [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
 - [The Six Dumbest Ideas in Computer Security](http://www.ranum.com/security/computer_security/editorials/dumb/)
 - [How I hacked hundreds of companies through their helpdesk](https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c)
@@ -520,6 +519,8 @@ touch /Volumes/Kindle/system/._.assets
 - [My Guide To Writing A Killer Cover Letter](https://www.reddit.com/r/datascience/comments/tag8l5/my_guide_to_writing_a_killer_cover_letter/)
 - [NDAs and Contracts That You Should Never Sign](https://www.joelonsoftware.com/2000/03/28/ndas-and-contracts-that-you-should-never-sign/)
 - [Contracts you should never sign](https://vadimkravcenko.com/about-me/)
+
+- [This is how we make slides at Apple.](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d)
 
 ## Money
 
