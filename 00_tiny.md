@@ -84,6 +84,8 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [The LMAX Architecture](https://martinfowler.com/articles/lmax.html)
 - [Paying down tech debt: further learnings](https://blog.pragmaticengineer.com/paying-down-tech-debt-further-learnings/)
 - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
+- [Egoless Engineering](https://egoless.engineering/)
+- [Slime Mold](https://komoroske.com/slime-mold/)
 
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
@@ -202,10 +204,12 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 - [Peeking into VALORANT's Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode)
 - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
+- [Inside NGINX: How We Designed for Performance & Scale](https://blog.nginx.org/blog/inside-nginx-how-we-designed-for-performance-scale)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
+- [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 
 - [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 - [CRDT: Fractional Indexing](https://madebyevan.com/algos/crdt-fractional-indexing/)
@@ -433,6 +437,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [The Fastest, Safest PNG Decoder in the World](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
 - [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+- [The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
@@ -511,7 +516,7 @@ touch /Volumes/Kindle/system/._.assets
 - https://github.com/innocenat/kindle-epub-fix
 - https://s3.amazonaws.com/kindlepreviewer/UG_ReleaseNotes_EN.txt
 
-## Interview
+## Soft skill
 
 ### References
 
@@ -519,7 +524,6 @@ touch /Volumes/Kindle/system/._.assets
 - [My Guide To Writing A Killer Cover Letter](https://www.reddit.com/r/datascience/comments/tag8l5/my_guide_to_writing_a_killer_cover_letter/)
 - [NDAs and Contracts That You Should Never Sign](https://www.joelonsoftware.com/2000/03/28/ndas-and-contracts-that-you-should-never-sign/)
 - [Contracts you should never sign](https://vadimkravcenko.com/about-me/)
-
 - [This is how we make slides at Apple.](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d)
 
 ## Money
