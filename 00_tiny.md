@@ -164,6 +164,40 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 > Shift is_active to something more generic: a status field, so we can expand it
 > down the line for other parts of the state space.
 
+[Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
+
+AoE
+
+```zig
+const Thing = union(enum) {
+   spam: Spam,
+   eggs: Eggs
+}
+
+// With a level of abstraction peeled:
+const Thing = struct {
+   tag: u8,
+   payload: union {
+       spam: Spam,
+       eggs: Eggs,
+   }
+};
+
+const AoE = []Thing;
+```
+
+EoA
+
+```zig
+const EoA = struct {
+   tag: u8, // Sic!
+   payload: union {
+       spam: []Spam,
+       eggs: []Eggs,
+   }
+}
+```
+
 ### References
 
 - [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
