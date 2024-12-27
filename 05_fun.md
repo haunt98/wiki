@@ -45,6 +45,7 @@
 
 - [My Neighbor Totoro](https://www.imdb.com/title/tt0096283/)
 - [Future Boy Conan](https://www.imdb.com/title/tt0077013/)
+- [The Boy and the Heron](https://www.imdb.com/title/tt6587046/)
 
 ## Classic Anime
 
