@@ -238,7 +238,6 @@ const EoA = struct {
 - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
 - [Inside NGINX: How We Designed for Performance & Scale](https://blog.nginx.org/blog/inside-nginx-how-we-designed-for-performance-scale)
 - [The LMAX Architecture](https://martinfowler.com/articles/lmax.html)
-- [Two-phase commit and beyond](https://muratbuffalo.blogspot.com/2018/12/2-phase-commit-and-beyond.html)
 - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 - [Stripe V2](https://brandur.org/fragments/stripe-v2)
 
@@ -410,6 +409,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [How we Outsmarted CSGO Cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
 - [Hacking 700 Million Electronic Arts Accounts](https://battleda.sh/blog/ea-account-takeover)
 - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
+- [Unique Identifiers That Don’t Expire](https://harishpillay.com/2024/12/18/unique-identifier-that-dont-expire/)
 
 ## Misc
 
@@ -573,7 +573,11 @@ touch /Volumes/Kindle/system/._.assets
 
 - [Bookkeeping and accounting](https://stripe.com/in/guides/atlas/bookkeeping-and-accounting)
 - https://moov.io/resources/dictionary/
+- [ACH File Details](https://achdevguide.nacha.org/ach-file-details)
+
 - [Engineers Do Not Get To Make Startup Mistakes When They Build Ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
 - [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
+- [Visa: half a century of high availability](https://increase.com/articles/visa-redundancy)
+- [ISO 8583: The language of credit cards](https://increase.com/articles/iso-8583-the-language-of-credit-cards)
 
 - [The Guide to Stock Options conversations](https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations)
