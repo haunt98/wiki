@@ -240,6 +240,7 @@ const EoA = struct {
 - [The LMAX Architecture](https://martinfowler.com/articles/lmax.html)
 - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 - [Stripe V2](https://brandur.org/fragments/stripe-v2)
+- [How to Secure Webhooks?](https://newsletter.scalablethread.com/p/how-to-secure-the-webhooks)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
