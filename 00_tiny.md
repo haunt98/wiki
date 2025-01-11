@@ -238,6 +238,7 @@ const EoA = struct {
 - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
 - [Inside NGINX: How We Designed for Performance & Scale](https://blog.nginx.org/blog/inside-nginx-how-we-designed-for-performance-scale)
 - [The LMAX Architecture](https://martinfowler.com/articles/lmax.html)
+  - [LMAX - How to Do 100K TPS at Less than 1ms Latency](https://www.infoq.com/presentations/LMAX/)
 - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 - [Stripe V2](https://brandur.org/fragments/stripe-v2)
 - [How to Secure Webhooks?](https://newsletter.scalablethread.com/p/how-to-secure-the-webhooks)
