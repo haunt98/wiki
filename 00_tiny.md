@@ -515,6 +515,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
 - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
 - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
+- [Building Container Images FROM Scratch: 6 Pitfalls That Are Often Overlooked](https://labs.iximiuz.com/tutorials/pitfalls-of-from-scratch-images)
 
 ## Hardware
 
