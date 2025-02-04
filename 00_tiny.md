@@ -560,9 +560,7 @@ touch /Volumes/Kindle/system/._.assets
 ### References
 
 - https://github.com/mariopepe/KindleAdRemover
-- https://github.com/ciromattia/kcc
 - https://github.com/innocenat/kindle-epub-fix
-- https://s3.amazonaws.com/kindlepreviewer/UG_ReleaseNotes_EN.txt
 
 ## Soft skill
 
