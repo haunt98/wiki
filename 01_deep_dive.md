@@ -122,14 +122,35 @@ Track all timestamp of user requests in a sorted sets.
 
 Implement:
 
+- Add new timestamp to sorted set.
+- Expire old timestamp in sorted set.
+- Return length of sorted set to check limit.
+
+### Generic Cell Rate Algorithm (GCRA)
+
+Only stores 1 timestamp per user request.
+
+Need to calculate TAT (Theoretical Arrival Time) everytime there is a new
+request.
+
+For example rate is 1 request per second, burst is 3 requests.
+
+- At time 0, 1 request -> TAT is 1, allow request
+- At time 1, 2 request -> TAT is 1 + 2 = 3 then 3 - burst = 3 - 3 = 0 < now 1
+  then allow request
+- At time 2, 3 request -> TAT is 3 + 3 = 6 then 6 - burst = 6 - 3 = 3 > now 2
+  then reject request
+
 ### References
 
 - [An alternative approach to rate limiting](https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/)
-- [How we built rate limiting capable of scaling to millions of domains](https://blog.cloudflare.com/counting-things-a-lot-of-different-things)
 - [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
 - [Designing and implementing a sliding window based rate limiter](https://arpitbhayani.me/blogs/sliding-window-ratelimiter)
+- [Rate Limiting, Cells, and GCRA](https://brandur.org/rate-limiting)
 - [GCRA: leaky buckets without the buckets](https://dotat.at/@/2024-08-30-gcra.html)
 - [exponential rate limiting](https://dotat.at/@/2024-09-02-ewma.html)
+- [How we built rate limiting capable of scaling to millions of domains](https://blog.cloudflare.com/counting-things-a-lot-of-different-things)
+- [Scaling Our Rate Limits to Prepare for a Billion Active Certificates](https://letsencrypt.org/2025/01/30/scaling-rate-limits/)
 
 ## OAuth
 
