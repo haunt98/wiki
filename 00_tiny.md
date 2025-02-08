@@ -485,6 +485,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)
+- [getaddrinfo sucks. everything else is much worse](https://valentin.gosu.se/blog/2025/02/getaddrinfo-sucks-everything-else-is-much-worse)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
