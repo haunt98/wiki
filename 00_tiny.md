@@ -415,6 +415,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Hacking 700 Million Electronic Arts Accounts](https://battleda.sh/blog/ea-account-takeover)
 - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
 - [Unique Identifiers That Don’t Expire](https://harishpillay.com/2024/12/18/unique-identifier-that-dont-expire/)
+- [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 
 ## Misc
 
