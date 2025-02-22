@@ -1,5 +1,4 @@
 all: format
 
 format:
-    # deno upgrade
-    deno fmt *.md
+    deno fmt ./*.md
