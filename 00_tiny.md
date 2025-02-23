@@ -85,6 +85,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 - [Egoless Engineering](https://egoless.engineering/)
 - [Slime Mold](https://komoroske.com/slime-mold/)
+- [Every Line Is a Potential Bug](https://www.teamten.com/lawrence/writings/every_line_is_a_potential_bug.html)
 
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
@@ -245,6 +246,8 @@ const EoA = struct {
 - [How to Secure Webhooks?](https://newsletter.scalablethread.com/p/how-to-secure-the-webhooks)
 - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 - [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://blog.codingconfessions.com/p/bloom-filters-and-beyond)
+- [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+  - https://news.ycombinator.com/item?id=3058327
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
