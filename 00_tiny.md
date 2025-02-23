@@ -285,6 +285,7 @@ cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
 
 - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 - [isdigit: simple function, multiple implementation](https://nrk.neocities.org/articles/isdigit-multi-implementation)
+- [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
 
 ## Python
 
@@ -309,6 +310,8 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
 - [An Illustrated Guide to Shape and Strides (Part 1)](https://ajcr.net/stride-guide-part-1/)
 - [An Illustrated Guide to Shape and Strides (Part 2)](https://ajcr.net/stride-guide-part-2/)
+- [UV tricks](https://www.bitecode.dev/p/uv-tricks)
+- [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
 
 ## Zig/Rust
 
@@ -416,6 +419,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Breaking the 4Chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
 - [Unique Identifiers That Don’t Expire](https://harishpillay.com/2024/12/18/unique-identifier-that-dont-expire/)
 - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
+- [League of Legends data scraping the hard and tedious way for fun](https://maknee.github.io/blog/2025/League-Data-Scraping/)
 
 ## Misc
 
