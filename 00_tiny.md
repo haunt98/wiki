@@ -257,6 +257,7 @@ const EoA = struct {
 - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 - [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
 - [Understanding SIMD: Infinite Complexity of Trivial Problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
+- [Fast columnar JSON decoding with arrow-rs](https://www.arroyo.dev/blog/fast-arrow-json-decoding)
 
 - [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 - [CRDT: Fractional Indexing](https://madebyevan.com/algos/crdt-fractional-indexing/)

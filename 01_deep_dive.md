@@ -393,4 +393,5 @@ TODO
 - [Swisstable, a Quick and Dirty Description](https://faultlore.com/blah/hashbrown-tldr/)
 - [GopherCon 2016: Keith Randall - Inside the Map Implementation](https://www.youtube.com/watch?v=Tl7mi9QmLns&t=596s)
 - [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
-- https://github.com/golang/go/issues/54766
+- [Faster Go maps with Swiss Tables](https://go.dev/blog/swisstable)
+  - https://github.com/golang/go/issues/54766
