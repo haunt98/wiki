@@ -248,6 +248,8 @@ const EoA = struct {
 - [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://blog.codingconfessions.com/p/bloom-filters-and-beyond)
 - [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
   - https://news.ycombinator.com/item?id=3058327
+- [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
+- ["A calculator app? Anyone could make that."](https://chadnauseam.com/coding/random/calculator-app)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
@@ -571,6 +573,7 @@ touch /Volumes/Kindle/system/._.assets
 
 - https://github.com/mariopepe/KindleAdRemover
 - https://github.com/innocenat/kindle-epub-fix
+- https://github.com/treetrum/amazon-kindle-bulk-downloader
 
 ## Soft skill
 
