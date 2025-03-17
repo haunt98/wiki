@@ -2,7 +2,7 @@
 
 ## Software Engineering
 
-[Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+[Write code that is easy to delete, not easy to extend.](https://web.archive.org/web/20250314140146/https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 
 Create a mess to make sure it work, then keep cleaning up later.
 
@@ -151,8 +151,8 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 > gibberish and it makes it possible to automate helpful API error responses
 > like "your token parameter has a user key instead of an API token".
 
-- [When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
-- [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
+- [When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://web.archive.org/web/20230601145822/https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
+- [Good Retry, Bad Retry: An Incident Story](https://web.archive.org/web/20250314184453/https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 
 > This scenario is not new to the world of distributed computing and even has a
 > name you may have heard of before: **“The Thundering Herd” problem**. Large
@@ -232,8 +232,8 @@ const EoA = struct {
 - [ATProto for distributed systems engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
 - [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
 - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
-- [Confusing or misunderstood topics in systems programming: Part 0](https://pthorpe92.dev/programming/systems/common-misunderstandings/)
-- [Confusing or misunderstood topics in systems programming: Part 1](https://pthorpe92.dev/programming/systems/threads-async-runtimes-part0/)
+- [Confusing or misunderstood topics in systems programming: Part 0](https://web.archive.org/web/20250206164606/http://pthorpe92.dev/programming/systems/common-misunderstandings/)
+- [Confusing or misunderstood topics in systems programming: Part 1](https://web.archive.org/web/20250221072059/http://pthorpe92.dev/programming/systems/threads-async-runtimes-part0/)
 - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 - [Peeking into VALORANT's Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode)
 - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
