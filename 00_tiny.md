@@ -251,6 +251,7 @@ const EoA = struct {
 - [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
 - ["A calculator app? Anyone could make that."](https://chadnauseam.com/coding/random/calculator-app)
 - [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+- [Counting the digits of 64-bit integers](https://lemire.me/blog/2025/01/07/counting-the-digits-of-64-bit-integers/)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
