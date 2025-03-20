@@ -556,9 +556,11 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Using a Samsung QN700B 8k TV as a Monitor](https://scottstuff.net/posts/2023/10/10/samsung-8k/)
 - [How Do AirTags Work ](https://newsletter.systemdesign.one/p/how-do-airtags-work)
 
+- [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
 - [My 2022 high-end Linux PC 🐧 (2022)](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
 - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
 - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
+- [Intel 9 285K on ASUS Z890: not stable!](https://michael.stapelberg.ch/posts/2025-03-19-intel-core-ultra-9-285k-on-asus-z890-not-stable/)
 
 ## Kindle
 
