@@ -326,6 +326,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 ### References
 
 - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html#Zig-And-Rust)
+- [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
 
 - [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
 - [Rust's BufRead, And When To Use It](https://www.brandons.me/blog/bufread-and-when-to-use-it)
