@@ -227,7 +227,7 @@ const EoA = struct {
 - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 - [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
 - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
-- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
+- [Optimizing Javascript for fun and for profit](https://web.archive.org/web/20250315223213/https://romgrk.com/posts/optimizing-javascript)
 - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 - [ATProto for distributed systems engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
 - [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
