@@ -394,6 +394,14 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 > means that someone is inside your network hitting those endpoints. That ought
 > to be a security issue all by itself.)
 
+[TLS/SSL Certificates - For The Rest Of Us](https://tusharf5.com/posts/ssl-certificates-for-the-rest-of-us/)
+
+> The CA verifies this information and issues a certificate, which contains your
+> website’s public key and relevant details like allowed domain names. The CA
+> signs the certificate using its private key and adds the signature to the
+> certificate, allowing browsers to verify its authenticity using the CA’s
+> public key.
+
 ### References
 
 - [Community Cryptography Specification Project](https://github.com/C2SP/C2SP)
