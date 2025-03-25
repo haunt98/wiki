@@ -140,7 +140,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 > times I've written some variation on "take terabytes of logs nobody has ever
 > looked at from A and move to B" scripts is too high.
 
-[Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
+[Advice for Operating a Public-Facing API](https://web.archive.org/web/20250313110928/https://jcs.org/2023/07/12/api)
 
 > Use prefixed tokens This took me years to stumble upon, but use a short prefix
 > for each type of random ID you create. Instead of generating an API token of
@@ -223,7 +223,7 @@ const EoA = struct {
 - [Multi-Threading & Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
 - [Sort, sweep, and prune: Collision detection algorithms](https://leanrada.com/notes/sweep-and-prune/)
 - [Sort, sweep, and prune: Part 2](https://leanrada.com/notes/sweep-and-prune-2/)
-- [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
+- [The Design of Everyday APIs](https://web.archive.org/web/20250315201628/https://www.roguelynn.com/talks/everyday-apis/)
 - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 - [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
 - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
