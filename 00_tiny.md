@@ -94,7 +94,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
 - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
-- [7 Things I've learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
+- [7 Things I've learned building a modern TUI Framework](https://web.archive.org/web/20250105164614/https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
 - [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
 - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
@@ -262,7 +262,7 @@ const EoA = struct {
 - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 - [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
 - [Understanding SIMD: Infinite Complexity of Trivial Problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
-- [Fast columnar JSON decoding with arrow-rs](https://www.arroyo.dev/blog/fast-arrow-json-decoding)
+- [Fast columnar JSON decoding with arrow-rs](https://web.archive.org/web/20250326184006/https://www.arroyo.dev/blog/fast-arrow-json-decoding)
 
 - [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 - [CRDT: Fractional Indexing](https://madebyevan.com/algos/crdt-fractional-indexing/)
