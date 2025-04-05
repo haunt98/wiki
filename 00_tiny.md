@@ -369,6 +369,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Heart of dark mode: done, and still in progress](https://tailscale.com/blog/heart-of-dark-mode)
 - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 - [The polish paradox](https://matthewstrom.com/writing/the-polish-paradox/)
+- [The Design of the New Swiss Passport](https://kottke.org/25/03/the-design-of-the-new-swiss-passport)
 
 ## Security
 
