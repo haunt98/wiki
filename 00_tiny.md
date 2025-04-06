@@ -396,7 +396,8 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 > means that someone is inside your network hitting those endpoints. That ought
 > to be a security issue all by itself.)
 
-[TLS/SSL Certificates - For The Rest Of Us](https://tusharf5.com/posts/ssl-certificates-for-the-rest-of-us/)
+- [TLS/SSL Certificates - For The Rest Of Us](https://tusharf5.com/posts/ssl-certificates-for-the-rest-of-us/)
+- [Intuiting TLS](https://kprotty.me/2025/04/01/intuiting-tls.html)
 
 > The CA verifies this information and issues a certificate, which contains your
 > website’s public key and relevant details like allowed domain names. The CA
