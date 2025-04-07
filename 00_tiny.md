@@ -342,6 +342,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Making macOS apps uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable)
 - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 - [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
+- [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 
 ## UI/UX/Beautiful
 
@@ -440,6 +441,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Unique Identifiers That Don’t Expire](https://harishpillay.com/2024/12/18/unique-identifier-that-dont-expire/)
 - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 - [League of Legends data scraping the hard and tedious way for fun](https://maknee.github.io/blog/2025/League-Data-Scraping/)
+- [Technical Analysis - Improper Use of Private iOS APIs in some Vietnamese Banking Apps](https://blog.verichains.io/p/technical-analysis-improper-use-of)
 
 ## Misc
 
