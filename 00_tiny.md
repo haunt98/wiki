@@ -2,7 +2,7 @@
 
 ## Software Engineering
 
-[Write code that is easy to delete, not easy to extend.](https://web.archive.org/web/20250314140146/https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+[Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 
 Create a mess to make sure it work, then keep cleaning up later.
 
@@ -94,7 +94,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
 - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
-- [7 Things I've learned building a modern TUI Framework](https://web.archive.org/web/20250105164614/https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
+- [7 Things I've learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
 - [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
 - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
@@ -140,7 +140,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 > times I've written some variation on "take terabytes of logs nobody has ever
 > looked at from A and move to B" scripts is too high.
 
-[Advice for Operating a Public-Facing API](https://web.archive.org/web/20250313110928/https://jcs.org/2023/07/12/api)
+[Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 
 > Use prefixed tokens This took me years to stumble upon, but use a short prefix
 > for each type of random ID you create. Instead of generating an API token of
@@ -151,8 +151,8 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 > gibberish and it makes it possible to automate helpful API error responses
 > like "your token parameter has a user key instead of an API token".
 
-- [When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://web.archive.org/web/20230601145822/https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
-- [Good Retry, Bad Retry: An Incident Story](https://web.archive.org/web/20250314184453/https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
+- [When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
+- [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 
 > This scenario is not new to the world of distributed computing and even has a
 > name you may have heard of before: **“The Thundering Herd” problem**. Large
@@ -223,17 +223,15 @@ const EoA = struct {
 - [Multi-Threading & Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
 - [Sort, sweep, and prune: Collision detection algorithms](https://leanrada.com/notes/sweep-and-prune/)
 - [Sort, sweep, and prune: Part 2](https://leanrada.com/notes/sweep-and-prune-2/)
-- [The Design of Everyday APIs](https://web.archive.org/web/20250315201628/https://www.roguelynn.com/talks/everyday-apis/)
+- [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
 - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 - [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
 - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
-- [Optimizing Javascript for fun and for profit](https://web.archive.org/web/20250315223213/https://romgrk.com/posts/optimizing-javascript)
+- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 - [ATProto for distributed systems engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
 - [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
 - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
-- [Confusing or misunderstood topics in systems programming: Part 0](https://web.archive.org/web/20250206164606/http://pthorpe92.dev/programming/systems/common-misunderstandings/)
-- [Confusing or misunderstood topics in systems programming: Part 1](https://web.archive.org/web/20250221072059/http://pthorpe92.dev/programming/systems/threads-async-runtimes-part0/)
 - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 - [Peeking into VALORANT's Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode)
 - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
@@ -262,7 +260,7 @@ const EoA = struct {
 - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 - [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
 - [Understanding SIMD: Infinite Complexity of Trivial Problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
-- [Fast columnar JSON decoding with arrow-rs](https://web.archive.org/web/20250326184006/https://www.arroyo.dev/blog/fast-arrow-json-decoding)
+- [Fast columnar JSON decoding with arrow-rs](https://www.arroyo.dev/blog/fast-arrow-json-decoding)
 
 - [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 - [CRDT: Fractional Indexing](https://madebyevan.com/algos/crdt-fractional-indexing/)
@@ -343,7 +341,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Making macOS apps uninstallable](https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable)
 - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 - [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
-- [Apple’s Darwin OS and XNU Kernel Deep Dive](https://web.archive.org/web/20250406120546/https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
+- [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 
 ## UI/UX/Beautiful
 
@@ -356,7 +354,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
 - [Font hinting](https://www.typotheque.com/articles/hinting)
 - [Modern handwriting: a historical survey](https://www.typotheque.com/articles/modern-handwriting-a-historical-survey-1)
-- [Shipping system fonts to GitHub.com](https://web.archive.org/web/20241002190100/https://markdotto.com/2018/02/07/github-system-fonts/)
+- [Shipping system fonts to GitHub.com](https://markdotto.com/blog/github-system-fonts/)
 - [Practical Typography](https://practicaltypography.com/)
 
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
@@ -431,10 +429,10 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Preventing (and fixing) parser mismatch vulnerabilities](https://www.brainonfire.net/blog/2022/04/29/preventing-parser-mismatch/)
 - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
-- [Testing a new encrypted messaging app's extraordinary claims](https://web.archive.org/web/20250314122311/https://crnkovic.dev/testing-converso/)
+- [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 - [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
 - [The Six Dumbest Ideas in Computer Security](https://www.ranum.com/security/computer_security/editorials/dumb/)
-- [How I hacked hundreds of companies through their helpdesk](https://web.archive.org/web/20250317191413/https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c)
+- [How I hacked hundreds of companies through their helpdesk](https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c)
 - [1 bug, $50,000+ in bounties, how Zendesk intentionally left a backdoor in hundreds of Fortune 500 companies](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 - [How we Outsmarted CSGO Cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
 - [Hacking 700 Million Electronic Arts Accounts](https://battleda.sh/blog/ea-account-takeover)
