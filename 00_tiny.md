@@ -251,6 +251,8 @@ const EoA = struct {
 - [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 - [Counting the digits of 64-bit integers](https://lemire.me/blog/2025/01/07/counting-the-digits-of-64-bit-integers/)
 - [A brief history of the User-Agent string](https://nielsleenheer.com/articles/2024/a-brief-history-of-the-user-agent-string/)
+- [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
+- [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
@@ -514,6 +516,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [The mistakes and missed opportunities in the design of IPv6 - episode 1](https://ipv6.hanazo.no/posts/ipv6-missed-opportunities-1/)
 - [100 years to solve an integral](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
 - [Prototyping a Smoother Map](https://medium.com/google-design/google-maps-cb0326d165f5)
+- [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
