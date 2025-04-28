@@ -322,6 +322,8 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [UV tricks](https://www.bitecode.dev/p/uv-tricks)
 - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
 - [Python Performance: Why 'if not list' is 2x Faster Than Using len()](https://blog.codingconfessions.com/p/python-performance-why-if-not-list)
+- [Sneak peek: A new ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
+- [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 
 ## Zig/Rust
 
@@ -372,6 +374,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 - [The polish paradox](https://matthewstrom.com/writing/the-polish-paradox/)
 - [The Design of the New Swiss Passport](https://kottke.org/25/03/the-design-of-the-new-swiss-passport)
+- [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
 
 ## Security
 
@@ -443,6 +446,8 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 - [League of Legends data scraping the hard and tedious way for fun](https://maknee.github.io/blog/2025/League-Data-Scraping/)
 - [Technical Analysis - Improper Use of Private iOS APIs in some Vietnamese Banking Apps](https://blog.verichains.io/p/technical-analysis-improper-use-of)
+- [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
+- [Creative usernames and Spotify account hijacking](https://engineering.atspotify.com/2013/06/creative-usernames/)
 
 ## Misc
 
@@ -517,6 +522,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [100 years to solve an integral](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
 - [Prototyping a Smoother Map](https://medium.com/google-design/google-maps-cb0326d165f5)
 - [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
+- [Searchable Linux Syscall Table](https://filippo.io/linux-syscall-table/)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)

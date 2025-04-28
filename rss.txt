@@ -20,8 +20,10 @@ https://lemire.me/blog/feed/
 https://lucumr.pocoo.org/feed.atom
 https://matklad.github.io/feed.xml
 https://matthewstrom.com/feed.xml
+https://mcyoung.xyz/atom.xml
 https://michael.stapelberg.ch/feed.xml
 https://mitchellh.com/feed.xml
+https://notes.eatonphil.com/rss.xml
 https://oppi.li/index.xml
 https://raphlinus.github.io/feed.xml
 https://registerspill.thorstenball.com/feed
