@@ -33,6 +33,7 @@ https://sirupsen.com/atom.xml
 https://stephango.com/feed.xml
 https://tonsky.me/atom.xml
 https://words.filippo.io/rss
+https://www.airs.com/blog/feed
 https://www.imperialviolet.org/iv-rss.xml
 
 https://go.dev/blog/feed.atom

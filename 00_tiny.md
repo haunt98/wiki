@@ -448,6 +448,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Technical Analysis - Improper Use of Private iOS APIs in some Vietnamese Banking Apps](https://blog.verichains.io/p/technical-analysis-improper-use-of)
 - [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
 - [Creative usernames and Spotify account hijacking](https://engineering.atspotify.com/2013/06/creative-usernames/)
+- [How Broken OTPs and Open Endpoints Turned a Dating App Into a Stalker’s Playground](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously)
 
 ## Misc
 
