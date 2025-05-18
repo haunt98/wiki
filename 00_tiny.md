@@ -253,6 +253,7 @@ const EoA = struct {
 - [A brief history of the User-Agent string](https://nielsleenheer.com/articles/2024/a-brief-history-of-the-user-agent-string/)
 - [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
+- [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
