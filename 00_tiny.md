@@ -98,6 +98,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
 - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
+- [The Ingredients of a Productive Monorepo](https://blog.swgillespie.me/posts/monorepo-ingredients/)
 
 ## Programming
 
@@ -254,11 +255,14 @@ const EoA = struct {
 - [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+- [Dividing an array into fair sized chunks](https://lemire.me/blog/2025/05/22/dividing-an-array-into-fair-sized-chunks/)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
+- [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
+- [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
 
 - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 - [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
@@ -414,7 +418,6 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 ### References
 
 - [Community Cryptography Specification Project](https://github.com/C2SP/C2SP)
-
 - [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 - [Adventures in password hashing + migrating to Argon2id](https://brandur.org/fragments/password-hashing)
 - [Migrating weaker password hashes by nesting them in an outer hash](https://brandur.org/fragments/password-hash-nesting)
@@ -430,6 +433,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [HTTP/2 CONTINUATION Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 - [The Cryptographic Doom Principle](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
 - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
+- [The cryptography behind passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/)
 
 - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 - [Preventing (and fixing) parser mismatch vulnerabilities](https://www.brainonfire.net/blog/2022/04/29/preventing-parser-mismatch/)
@@ -581,6 +585,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Using an 8K TV as a monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
 - [Using a Samsung QN700B 8k TV as a Monitor](https://scottstuff.net/posts/2023/10/10/samsung-8k/)
 - [How Do AirTags Work ](https://newsletter.systemdesign.one/p/how-do-airtags-work)
+- [Japan's IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
 
 - [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)

@@ -6,6 +6,7 @@ https://arslan.io/rss
 https://beej.us/blog/rss.xml
 https://blog.arrowtype.com/rss.xml
 https://blog.codinghorror.com/rss/
+https://blog.trailofbits.com/index.xml
 https://brandur.org/articles.atom
 https://brandur.org/fragments.atom
 https://code.dblock.org/feed.xml
