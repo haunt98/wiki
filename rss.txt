@@ -24,7 +24,6 @@ https://matthewstrom.com/feed.xml
 https://mcyoung.xyz/atom.xml
 https://michael.stapelberg.ch/feed.xml
 https://mitchellh.com/feed.xml
-https://ngobaochau.wordpress.com/feed/
 https://notes.eatonphil.com/rss.xml
 https://oppi.li/index.xml
 https://raphlinus.github.io/feed.xml
@@ -34,10 +33,13 @@ https://rosenzweig.io/feed.xml
 https://sirupsen.com/atom.xml
 https://stephango.com/feed.xml
 https://tonsky.me/atom.xml
-https://vnhacker.substack.com/feed
 https://words.filippo.io/rss
 https://www.airs.com/blog/feed
 https://www.imperialviolet.org/iv-rss.xml
+
+https://ngobaochau.wordpress.com/feed/
+https://vnhacker.substack.com/feed
+https://vuhavan.wordpress.com/feed/
 
 https://go.dev/blog/feed.atom
 https://golangweekly.com/rss/
