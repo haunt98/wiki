@@ -37,6 +37,7 @@ https://words.filippo.io/rss
 https://www.airs.com/blog/feed
 https://www.imperialviolet.org/iv-rss.xml
 
+https://5xublog.com/feed/
 https://ngobaochau.wordpress.com/feed/
 https://vnhacker.substack.com/feed
 https://vuhavan.wordpress.com/feed/
