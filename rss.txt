@@ -53,5 +53,6 @@ https://kbd.news/rss.php
 https://www.theremingoat.com/blog?format=rss
 
 https://hnrss.org/threads?id=FiloSottile
+https://hnrss.org/threads?id=antirez
 https://hnrss.org/threads?id=mitchellh
 https://ln.ht/_/feed/~ddevault
