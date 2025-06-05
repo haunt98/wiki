@@ -276,6 +276,7 @@ const EoA = struct {
 - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
 - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
 - [How CRDTs make multiplayer text editing part of Zed's DNA](https://zed.dev/blog/crdts)
+- [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
 
 ## C
 
