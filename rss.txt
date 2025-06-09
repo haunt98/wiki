@@ -16,6 +16,7 @@ https://dotat.at/@/blog.atom
 https://drewdevault.com/blog/index.xml
 https://feeds.feedburner.com/ThePragmaticEngineer
 https://gpanders.com/index.xml
+https://jepsen.io/blog.atom
 https://jvns.ca/atom.xml
 https://lemire.me/blog/feed/
 https://lucumr.pocoo.org/feed.atom
@@ -26,6 +27,7 @@ https://michael.stapelberg.ch/feed.xml
 https://mitchellh.com/feed.xml
 https://notes.eatonphil.com/rss.xml
 https://oppi.li/index.xml
+https://randomascii.wordpress.com/feed/
 https://raphlinus.github.io/feed.xml
 https://registerspill.thorstenball.com/feed
 https://research.swtch.com/feed.atom
