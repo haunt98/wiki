@@ -2,45 +2,38 @@
 
 ## Unicode
 
-Unicode is a table which assign **character** (a, b, c, emoji, ...) to number
-aka **code point**.
+Unicode is a table which assign **character** (a, b, c, emoji, ...) to number aka **code point**.
 
-Private Use is up to developer to define, Unicode does not define that global.
-For example icon fonts.
+Private Use is up to developer to define, Unicode does not define that global. For example icon fonts.
 
-UTF-8 is **variable-length** encoding. Each character can be encoded to 1, 2, 3
-or 4 bytes.
+UTF-8 is **variable-length** encoding. Each character can be encoded to 1, 2, 3 or 4 bytes.
 
 - English is encoded using 1 bytes.
 - Chinese, Japanese, Emoji need 3 or 4 bytes.
 
-ASCII is compatible with UTF-8 because ASCII using code points 0..127 which is
-exact 1 byte and represents same character in UTF-8. So pure ASCII text is also
-valid UTF-8 text.
+ASCII is compatible with UTF-8 because ASCII using code points 0..127 which is exact 1 byte and represents same
+character in UTF-8. So pure ASCII text is also valid UTF-8 text.
 
-U don't want to work with code points, u need to work with graphene. A graphene
-is the smallest distinct unit of writing in specific context.
+U don't want to work with code points, u need to work with graphene. A graphene is the smallest distinct unit of writing
+in specific context.
 
 - `ả`, `ẻ` is a graphene in Vietnamese text.
 
-The problem is 1 graphene can be encoded by many code points (No limit). So many
-programming languages show that length of 1 graphene can be more than 1. But
-human only count as 1.
+The problem is 1 graphene can be encoded by many code points (No limit). So many programming languages show that length
+of 1 graphene can be more than 1. But human only count as 1.
 
-Sometimes, same character can be encoded multiple way, 1 code point or combined
-2 code points. So there need some **normalization** to guarantee that a
-character is always represented by **same** code points.
+Sometimes, same character can be encoded multiple way, 1 code point or combined 2 code points. So there need some
+**normalization** to guarantee that a character is always represented by **same** code points.
 
 |                           | Composing | Decomposing |
 | ------------------------- | --------- | ----------- |
 | Canonical equivalence     | NFC       | NFD         |
 | Compatibility equivalence | NFKC      | NFKD        |
 
-Go rune is code point in `int32` because Unicode code point can be up to 4 bytes
-aka (2^8)^4 = 2^32.
+Go rune is code point in `int32` because Unicode code point can be up to 4 bytes aka (2^8)^4 = 2^32.
 
-The following creates a `transform.Transformer` that decomposes text into its
-smallest parts, removes all accents, and then recomposes the text into NFC:
+The following creates a `transform.Transformer` that decomposes text into its smallest parts, removes all accents, and
+then recomposes the text into NFC:
 
 ```go
 import (
@@ -71,50 +64,42 @@ t := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
 
 ### Token bucket / Leaky bucket
 
-Each user has bucket with default token count. Each time user arrives, bucket
-**decrease** token count. After some time, bucket get **refill** with default
-token count.
+Each user has bucket with default token count. Each time user arrives, bucket **decrease** token count. After some time,
+bucket get **refill** with default token count.
 
 Implement:
 
 - Save timestamp user arrives and current token count.
-- If user arrives, check if user bucket need to refill base on timestamp, then
-  decrease token count.
+- If user arrives, check if user bucket need to refill base on timestamp, then decrease token count.
 - If token count reach 0 then user hit/exceed rate limit.
 
 Consider:
 
-- Read (current token count) then write (refill/decrease token count) is
-  problematic in distributed system.
-  - User A hit 2 requests at the same time, then system read current user token
-    count at the same time (== 1) then 2 requests shall pass but it should not.
-  - Need to use **distributed lock**.
+- Read (current token count) then write (refill/decrease token count) is problematic in distributed system.
+    - User A hit 2 requests at the same time, then system read current user token count at the same time (== 1) then 2
+      requests shall pass but it should not.
+    - Need to use **distributed lock**.
 
 ### Fixed window counters
 
-Divide time to duration (each minute, each 30s, ...). In each duration, user has
-default limit token count, initially 0. Each time user arrives, **increase**
-user duration token count.
+Divide time to duration (each minute, each 30s, ...). In each duration, user has default limit token count, initially 0.
+Each time user arrives, **increase** user duration token count.
 
 Implement:
 
-- If user arrives, round arrive timestamp to timestamp of start duration, then
-  use that at a key.
-  - Check if key is exist or not, if not then user token count is 0, otherwise
-    user token count is key value.
-  - Increase token count.
+- If user arrives, round arrive timestamp to timestamp of start duration, then use that at a key.
+    - Check if key is exist or not, if not then user token count is 0, otherwise user token count is key value.
+    - Increase token count.
 - If token count reach default limit then user hit rate limit.
-- The key is only valid in duration so we need to delete old key. Because 1 user
-  arrives in different time can create many different keys.
+- The key is only valid in duration so we need to delete old key. Because 1 user arrives in different time can create
+  many different keys.
 
 Consider:
 
-- Because Redis allow increase and return value in atomic operation so we don't
-  need distributed lock.
+- Because Redis allow increase and return value in atomic operation so we don't need distributed lock.
 - Use Redis expired to auto delete old key.
-- Problem is user can bypass up to **2x** default limit, because we only count
-  in 1 duration, if user fires all requests near the end of duration, then fires
-  another after the start of new duration then we let it through.
+- Problem is user can bypass up to **2x** default limit, because we only count in 1 duration, if user fires all requests
+  near the end of duration, then fires another after the start of new duration then we let it through.
 
 ### Sliding window log
 
@@ -130,16 +115,13 @@ Implement:
 
 Only stores 1 timestamp per user request.
 
-Need to calculate TAT (Theoretical Arrival Time) everytime there is a new
-request.
+Need to calculate TAT (Theoretical Arrival Time) everytime there is a new request.
 
 For example rate is 1 request per second, burst is 3 requests.
 
 - At time 0, 1 request -> TAT is 1, allow request
-- At time 1, 2 request -> TAT is 1 + 2 = 3 then 3 - burst = 3 - 3 = 0 < now 1
-  then allow request
-- At time 2, 3 request -> TAT is 3 + 3 = 6 then 6 - burst = 6 - 3 = 3 > now 2
-  then reject request
+- At time 1, 2 request -> TAT is 1 + 2 = 3 then 3 - burst = 3 - 3 = 0 < now 1 then allow request
+- At time 2, 3 request -> TAT is 3 + 3 = 6 then 6 - burst = 6 - 3 = 3 > now 2 then reject request
 
 ### References
 
@@ -156,9 +138,8 @@ For example rate is 1 request per second, burst is 3 requests.
 
 [PKCE: What and Why?](https://dropbox.tech/developers/pkce--what-and-why-)
 
-> PKCE provides dynamic client secrets, meaning your app’s client secrets can
-> stay secret (even without a back end for your app). PKCE is better and more
-> secure than the implicit flow (AKA the “token flow”).
+> PKCE provides dynamic client secrets, meaning your app’s client secrets can stay secret (even without a back end for
+> your app). PKCE is better and more secure than the implicit flow (AKA the “token flow”).
 
 - `code_verifier`: random string
 - `code_challenge`: `base64_rawurl_encode(sha256(code_verifier))`
@@ -177,7 +158,7 @@ sequenceDiagram
 	c ->> s: Send access token request with authorization code, code_verifier
 	s ->> s: Compare code_challenge_method(request_code_verifier) with previous code_challenge
 	alt not equal
-		s -->> c: return access deny		
+		s -->> c: return access deny
 	else equal
 		s -->> c: return access token
 	end
@@ -201,7 +182,7 @@ sequenceDiagram
 
 	zps ->> zs: Register app with callback_url
 	zs -->> zps: Return app_id, secret_key
-	
+
 	u ->> zpa: Login by Zalo
 	zpa ->> zpa: Create code_verifier, code_challenge
 	zpa ->> za: Send authorization request with code_challenge, app_id,
@@ -223,7 +204,7 @@ sequenceDiagram
 	u ->> zpi: Open
 	zpi ->> zps: Send authorization request with permission, callback_url
 	zps ->> zps: Create state
-	zps ->> zs: Send authorization request with permission, callback_url, state, app_id, 
+	zps ->> zs: Send authorization request with permission, callback_url, state, app_id,
 	zs ->> zps: Redirect callback_url with oauth_code, state
 	zps ->> zps: Verify state
 	zps ->> zs: Send access token request with oauth_code
@@ -276,8 +257,7 @@ sequenceDiagram
 
 ## [RAFT Consensus Algorithm](https://raft.github.io/)
 
-Replicated state machines is implemented by replicated logs. It is
-deterministic.
+Replicated state machines is implemented by replicated logs. It is deterministic.
 
 …, y = 1, x = 2, y = 3, x = 3 → final x = 3, y = 3
 
@@ -287,8 +267,8 @@ Each servers with same replicated logs will produce same results → consistent.
 
 First choose leader → give it all the control of replicated logs.
 
-Clients push logs leader → Leader replicates to other servers then tell servers
-when is safe to play replicated logs (Log replication).
+Clients push logs leader → Leader replicates to other servers then tell servers when is safe to play replicated logs
+(Log replication).
 
 Leader decide without consulting other servers.
 
@@ -307,11 +287,9 @@ Term begins with election.
 - If a candidate win → become leader.
 - If split vote (50/50 I guess) → no leader → init new term shorly after.
 
-Terms act as logical clock. Each server stores current term number, which
-increases over time.
+Terms act as logical clock. Each server stores current term number, which increases over time.
 
-Server exchange server with term number. The bigger term number, the more
-powerful.
+Server exchange server with term number. The bigger term number, the more powerful.
 
 A (term 2) exchange B (term 3) → update A to term 3.
 
@@ -328,8 +306,7 @@ Server exchange server using 2 RPC:
 
 ### Round-Robin
 
-Naive approach, first request to first server, second request to second server,
-... and so on.
+Naive approach, first request to first server, second request to second server, ... and so on.
 
 No need to keep state, just fair distribution.
 
@@ -359,8 +336,7 @@ Dequeue:
 
 - Travese all to get max priority → remove that → O(n)
 - Use heap data structure → O(logn)
-  - Each time enqueue priority, if not bigger priority than it stays behind →
-    preserver the order
+    - Each time enqueue priority, if not bigger priority than it stays behind → preserver the order
 
 ### Heap data structure
 
@@ -372,15 +348,12 @@ arr[i] always < its children
 
 Add: add to the end of arr → heapify from bottom
 
-Remove: remove from the begin of arr → put the end of arr to the top → heapify
-from top
+Remove: remove from the begin of arr → put the end of arr to the top → heapify from top
 
 What is heapify? Rebalance:
 
-- Heapify from bottom: compare arr[i] with it’s parent → if smaller than parent
-  → swap
-- Heapify from top: compare arr[i] with its children → if bigger then children →
-  choose which is smallest → swap
+- Heapify from bottom: compare arr[i] with it’s parent → if smaller than parent → swap
+- Heapify from top: compare arr[i] with its children → if bigger then children → choose which is smallest → swap
 
 ### Swiss Table
 
@@ -394,4 +367,4 @@ TODO
 - [GopherCon 2016: Keith Randall - Inside the Map Implementation](https://www.youtube.com/watch?v=Tl7mi9QmLns&t=596s)
 - [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
 - [Faster Go maps with Swiss Tables](https://go.dev/blog/swisstable)
-  - https://github.com/golang/go/issues/54766
+    - https://github.com/golang/go/issues/54766

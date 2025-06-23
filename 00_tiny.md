@@ -6,71 +6,55 @@
 
 Create a mess to make sure it work, then keep cleaning up later.
 
-> To write code that’s easy to delete: repeat yourself to avoid creating
-> dependencies, but don’t repeat yourself to manage them. Layer your code too:
-> build simple-to-use APIs out of simpler-to-implement but clumsy-to-use parts.
-> Split your code: isolate the hard-to-write and the likely-to-change parts from
-> the rest of the code, and each other. Don’t hard code every choice, and maybe
-> allow changing a few at runtime. Don’t try to do all of these things at the
-> same time, and maybe don’t write so much code in the first place.
+> To write code that’s easy to delete: repeat yourself to avoid creating dependencies, but don’t repeat yourself to
+> manage them. Layer your code too: build simple-to-use APIs out of simpler-to-implement but clumsy-to-use parts. Split
+> your code: isolate the hard-to-write and the likely-to-change parts from the rest of the code, and each other. Don’t
+> hard code every choice, and maybe allow changing a few at runtime. Don’t try to do all of these things at the same
+> time, and maybe don’t write so much code in the first place.
 >
-> You’ve copy-pasted, you’ve refactored, you’ve layered, you’ve composed, but
-> the code still has to do something at the end of the day. Sometimes it’s best
-> just to give up and write a substantial amount of trashy code to hold the rest
+> You’ve copy-pasted, you’ve refactored, you’ve layered, you’ve composed, but the code still has to do something at the
+> end of the day. Sometimes it’s best just to give up and write a substantial amount of trashy code to hold the rest
 > together.
 >
-> Business logic is code characterised by a never ending series of edge cases
-> and quick and dirty hacks. This is fine. I am ok with this. Other styles like
-> ‘game code’, or ‘founder code’ are the same thing: cutting corners to save a
+> Business logic is code characterised by a never ending series of edge cases and quick and dirty hacks. This is fine. I
+> am ok with this. Other styles like ‘game code’, or ‘founder code’ are the same thing: cutting corners to save a
 > considerable amount of time.
 >
-> The reason? Sometimes it’s easier to delete one big mistake than try to delete
-> 18 smaller interleaved mistakes. A lot of programming is exploratory, and it’s
-> quicker to get it wrong a few times and iterate than think to get it right
+> The reason? Sometimes it’s easier to delete one big mistake than try to delete 18 smaller interleaved mistakes. A lot
+> of programming is exploratory, and it’s quicker to get it wrong a few times and iterate than think to get it right
 > first time.
 >
-> Instead of breaking code into parts with common functionality, we break code
-> apart by what it does not share with the rest. We isolate the most frustrating
-> parts to write, maintain, or delete away from each other.
+> Instead of breaking code into parts with common functionality, we break code apart by what it does not share with the
+> rest. We isolate the most frustrating parts to write, maintain, or delete away from each other.
 >
-> We are not building modules around being able to re-use them, but being able
-> to change them.
+> We are not building modules around being able to re-use them, but being able to change them.
 
 [Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 
-> It’s a vicious cycle of solving imaginary problems, from the CEO who doesn’t
-> realize that stealing another 30 million won’t make his dad love him to the
-> user-experience intern who doesn’t realize that redesigning the “submit”
-> button using Angular-Material-Bootstrap 19.13.5 won’t make the fact that they
-> store passwords in plain text (and use them as part of the auth cookie) go
-> away.
+> It’s a vicious cycle of solving imaginary problems, from the CEO who doesn’t realize that stealing another 30 million
+> won’t make his dad love him to the user-experience intern who doesn’t realize that redesigning the “submit” button
+> using Angular-Material-Bootstrap 19.13.5 won’t make the fact that they store passwords in plain text (and use them as
+> part of the auth cookie) go away.
 >
-> But everyone needs to keep solving the imaginary problems, because if they
-> stop creating and solving these problems, if they start focusing on the _real_
-> problems, they might realize the whole system is broken. They might realize
-> Debra has been sitting in that corner, staring at uptime graphs of the
-> internal server farm for 10 years, despite the fact that the company moved to
-> AWS five years ago. They might realize 99 percent of their job is to
-> perpetuate the existence of someone else’s job. And that’s a hard realization
-> to digest—impossible for most, I dare say. So, instead, most find a way of
-> coping.
+> But everyone needs to keep solving the imaginary problems, because if they stop creating and solving these problems,
+> if they start focusing on the _real_ problems, they might realize the whole system is broken. They might realize Debra
+> has been sitting in that corner, staring at uptime graphs of the internal server farm for 10 years, despite the fact
+> that the company moved to AWS five years ago. They might realize 99 percent of their job is to perpetuate the
+> existence of someone else’s job. And that’s a hard realization to digest—impossible for most, I dare say. So, instead,
+> most find a way of coping.
 
 [What it means to design a platform](https://matthewstrom.com/writing/platform-design)
 
-> Incentives Designing applications requires understanding the balance between
-> motivation and friction. It’s almost mathematical: if a user’s motivation is
-> greater than the friction they experience, the user will complete a task. If
-> users aren’t completing a task, you can increase the motivation through
-> marketing and guidance, or decrease the friction through usability
-> improvements or automation.
+> Incentives Designing applications requires understanding the balance between motivation and friction. It’s almost
+> mathematical: if a user’s motivation is greater than the friction they experience, the user will complete a task. If
+> users aren’t completing a task, you can increase the motivation through marketing and guidance, or decrease the
+> friction through usability improvements or automation.
 >
-> Second-order thinking Platform design requires second-order thinking, where
-> first-order effects are causes, too. A great example of this is attributed to
-> Warren Buffett: imagine a crowd watching a parade. A few people stand on their
-> tiptoes — that’s a first-order cause. Now, they can see better — the
-> first-order effect. What happens next? All the people behind them have to
-> stand on their tiptoes, too — that’s the second-order effect. In the end,
-> everyone is worse off, and nobody can see any better.2
+> Second-order thinking Platform design requires second-order thinking, where first-order effects are causes, too. A
+> great example of this is attributed to Warren Buffett: imagine a crowd watching a parade. A few people stand on their
+> tiptoes — that’s a first-order cause. Now, they can see better — the first-order effect. What happens next? All the
+> people behind them have to stand on their tiptoes, too — that’s the second-order effect. In the end, everyone is worse
+> off, and nobody can see any better.2
 
 ### References
 
@@ -114,57 +98,46 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 
 [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
 
-> monitoring and QA are the same thing. You'd never think so until you try doing
-> a big SOA. But when your service says "oh yes, I'm fine", it may well be the
-> case that the only thing still functioning in the server is the little
-> component that knows how to say "I'm fine, roger roger, over and out" in a
-> cheery droid voice. In order to tell whether the service is actually
-> responding, you have to make individual calls. The problem continues
-> recursively until your monitoring is doing comprehensive semantics checking of
-> your entire range of services and data, at which point it's indistinguishable
-> from automated QA. So they're a continuum.
+> monitoring and QA are the same thing. You'd never think so until you try doing a big SOA. But when your service says
+> "oh yes, I'm fine", it may well be the case that the only thing still functioning in the server is the little
+> component that knows how to say "I'm fine, roger roger, over and out" in a cheery droid voice. In order to tell
+> whether the service is actually responding, you have to make individual calls. The problem continues recursively until
+> your monitoring is doing comprehensive semantics checking of your entire range of services and data, at which point
+> it's indistinguishable from automated QA. So they're a continuum.
 >
-> if you have hundreds of services, and your code MUST communicate with other
-> groups' code via these services, then you won't be able to find any of them
-> without a service-discovery mechanism. And you can't have that without a
-> service registration mechanism, which itself is another service. So Amazon has
-> a universal service registry where you can find out reflectively
-> (programmatically) about every service, what its APIs are, and also whether it
-> is currently up, and where.
+> if you have hundreds of services, and your code MUST communicate with other groups' code via these services, then you
+> won't be able to find any of them without a service-discovery mechanism. And you can't have that without a service
+> registration mechanism, which itself is another service. So Amazon has a universal service registry where you can find
+> out reflectively (programmatically) about every service, what its APIs are, and also whether it is currently up, and
+> where.
 
 [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 
-> The other problem is logs are such a stupid thing to have to store. 99.9999%
-> of them are never useful, the ones that are look exactly like the rest of them
-> and you end up sticking them in object storage forever at some point where no
-> human being will ever interact with them until the end of time. The number of
-> times I've written some variation on "take terabytes of logs nobody has ever
-> looked at from A and move to B" scripts is too high.
+> The other problem is logs are such a stupid thing to have to store. 99.9999% of them are never useful, the ones that
+> are look exactly like the rest of them and you end up sticking them in object storage forever at some point where no
+> human being will ever interact with them until the end of time. The number of times I've written some variation on
+> "take terabytes of logs nobody has ever looked at from A and move to B" scripts is too high.
 
 [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 
-> Use prefixed tokens This took me years to stumble upon, but use a short prefix
-> for each type of random ID you create. Instead of generating an API token of
-> Mk7vuCg9eptiV8qid4mn, make it appMk7vuCg9eptiV8qid4mn. Instead of a user key
-> of zo2iD3x3J9, use userzo2iD3x3J9. Pushover uses a for API tokens, u for user
-> keys, g for group keys, s for subscribed user keys, etc. This makes it easier
-> for users to keep multiple keys/tokens straight when they all look like
-> gibberish and it makes it possible to automate helpful API error responses
-> like "your token parameter has a user key instead of an API token".
+> Use prefixed tokens This took me years to stumble upon, but use a short prefix for each type of random ID you create.
+> Instead of generating an API token of Mk7vuCg9eptiV8qid4mn, make it appMk7vuCg9eptiV8qid4mn. Instead of a user key of
+> zo2iD3x3J9, use userzo2iD3x3J9. Pushover uses a for API tokens, u for user keys, g for group keys, s for subscribed
+> user keys, etc. This makes it easier for users to keep multiple keys/tokens straight when they all look like gibberish
+> and it makes it possible to automate helpful API error responses like "your token parameter has a user key instead of
+> an API token".
 
 - [When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
 - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 
-> This scenario is not new to the world of distributed computing and even has a
-> name you may have heard of before: **“The Thundering Herd” problem**. Large
-> distributed systems like Facebook have dealt with far more extreme thundering
-> herds than the Taylor Swift fans. What happened to Ticketmaster is not an
-> unsolved problem.
+> This scenario is not new to the world of distributed computing and even has a name you may have heard of before:
+> **“The Thundering Herd” problem**. Large distributed systems like Facebook have dealt with far more extreme thundering
+> herds than the Taylor Swift fans. What happened to Ticketmaster is not an unsolved problem.
 
 [Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
 
-> Shift is_active to something more generic: a status field, so we can expand it
-> down the line for other parts of the state space.
+> Shift is_active to something more generic: a status field, so we can expand it down the line for other parts of the
+> state space.
 
 [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
 
@@ -203,10 +176,10 @@ const EoA = struct {
 ### References
 
 - [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
-  - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+    - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [TCP Fast Open: expediting web services](https://lwn.net/Articles/508865/)
-  - [Multipath TCP](https://www.mptcp.dev/)
+    - [Multipath TCP](https://www.mptcp.dev/)
 
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
@@ -238,16 +211,16 @@ const EoA = struct {
 - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
 - [Inside NGINX: How We Designed for Performance & Scale](https://blog.nginx.org/blog/inside-nginx-how-we-designed-for-performance-scale)
 - [LMAX Disruptor](https://lmax-exchange.github.io/disruptor/)
-  - [The LMAX Architecture](https://martinfowler.com/articles/lmax.html)
-  - [LMAX - How to Do 100K TPS at Less than 1ms Latency](https://www.infoq.com/presentations/LMAX/)
-  - [How does LMAX's disruptor pattern work?](https://stackoverflow.com/q/6559308)
+    - [The LMAX Architecture](https://martinfowler.com/articles/lmax.html)
+    - [LMAX - How to Do 100K TPS at Less than 1ms Latency](https://www.infoq.com/presentations/LMAX/)
+    - [How does LMAX's disruptor pattern work?](https://stackoverflow.com/q/6559308)
 - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 - [Stripe V2](https://brandur.org/fragments/stripe-v2)
 - [How to Secure Webhooks?](https://newsletter.scalablethread.com/p/how-to-secure-the-webhooks)
 - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 - [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://blog.codingconfessions.com/p/bloom-filters-and-beyond)
 - [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
-  - https://news.ycombinator.com/item?id=3058327
+    - https://news.ycombinator.com/item?id=3058327
 - [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
 - ["A calculator app? Anyone could make that."](https://chadnauseam.com/coding/random/calculator-app)
 - [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
@@ -387,35 +360,28 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 [I have questions about MFA push notification fatigue](https://utcc.utoronto.ca/~cks/space/blog/tech/MFAPushFatigueQuestions)
 
-> I tend to think push-based approval is the least secure of the three. I've
-> read several incident reports where the attacker got a user's password and
-> then repeatedly tried to log in, **spamming them with approval requests**
-> until they gave in and tapped Approve.
+> I tend to think push-based approval is the least secure of the three. I've read several incident reports where the
+> attacker got a user's password and then repeatedly tried to log in, **spamming them with approval requests** until
+> they gave in and tapped Approve.
 >
-> In this environment, getting a surprise MFA push request (or worse, several)
-> out of the blue means that someone else has your password, which should cause
-> you to hit some sort of big red security problem button to trigger at least a
-> password change. It would also mean that **if someone explicitly rejects one**
-> (or several) MFA push authentications, that should be a **red alert** to the
-> security team (even if the person being spammed by notifications doesn't
-> report it themselves). An MFA push notification might time out on its own for
-> various reasons, but an active rejection is a very bad sign; it's the person
-> telling you (the security system) that they did not make this request and
-> actively rejected it.
+> In this environment, getting a surprise MFA push request (or worse, several) out of the blue means that someone else
+> has your password, which should cause you to hit some sort of big red security problem button to trigger at least a
+> password change. It would also mean that **if someone explicitly rejects one** (or several) MFA push authentications,
+> that should be a **red alert** to the security team (even if the person being spammed by notifications doesn't report
+> it themselves). An MFA push notification might time out on its own for various reasons, but an active rejection is a
+> very bad sign; it's the person telling you (the security system) that they did not make this request and actively
+> rejected it.
 >
-> (If your organization has internal, non-guarded endpoints that can **trigger
-> MFA push notifications without someone knowing your password**, this at least
-> means that someone is inside your network hitting those endpoints. That ought
+> (If your organization has internal, non-guarded endpoints that can **trigger MFA push notifications without someone
+> knowing your password**, this at least means that someone is inside your network hitting those endpoints. That ought
 > to be a security issue all by itself.)
 
 - [TLS/SSL Certificates - For The Rest Of Us](https://tusharf5.com/posts/ssl-certificates-for-the-rest-of-us/)
 - [Intuiting TLS](https://kprotty.me/2025/04/01/intuiting-tls.html)
 
-> The CA verifies this information and issues a certificate, which contains your
-> website’s public key and relevant details like allowed domain names. The CA
-> signs the certificate using its private key and adds the signature to the
-> certificate, allowing browsers to verify its authenticity using the CA’s
-> public key.
+> The CA verifies this information and issues a certificate, which contains your website’s public key and relevant
+> details like allowed domain names. The CA signs the certificate using its private key and adds the signature to the
+> certificate, allowing browsers to verify its authenticity using the CA’s public key.
 
 ### References
 
@@ -431,7 +397,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 - [A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
-  - [Explain Parquet like I'm Five](https://dev.to/parseable/explain-parquet-like-im-five-n9h)
+    - [Explain Parquet like I'm Five](https://dev.to/parseable/explain-parquet-like-im-five-n9h)
 - [HTTP/2 CONTINUATION Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 - [The Cryptographic Doom Principle](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
 - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
@@ -459,8 +425,8 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 ## Misc
 
-[Dockerignore troubles](https://garrit.xyz/posts/2023-02-22-dockerignore-troubles)
-Use `.dockerignore` not `.Dockerignore`.
+[Dockerignore troubles](https://garrit.xyz/posts/2023-02-22-dockerignore-troubles) Use `.dockerignore` not
+`.Dockerignore`.
 
 [How to access docker container from host WITHOUT port mapping?](https://stackoverflow.com/q/71820845)
 
@@ -476,33 +442,33 @@ Use `host.docker.internal` to connect to localhost from inside container.
 version: "3"
 
 services:
-  test_1:
-    container_name: test_1
-    image: some:image
-    networks:
-      testing_net:
-        ipv4_address: 172.28.1.1
+    test_1:
+        container_name: test_1
+        image: some:image
+        networks:
+            testing_net:
+                ipv4_address: 172.28.1.1
 
-  test_2:
-    container_name: test_2
-    image: some:image
-    networks:
-      testing_net:
-        ipv4_address: 172.28.1.2
+    test_2:
+        container_name: test_2
+        image: some:image
+        networks:
+            testing_net:
+                ipv4_address: 172.28.1.2
 
-  test_3:
-    container_name: test_3
-    image: some:image
-    networks:
-      testing_net:
-        ipv4_address: 172.28.1.3
+    test_3:
+        container_name: test_3
+        image: some:image
+        networks:
+            testing_net:
+                ipv4_address: 172.28.1.3
 
 networks:
-  testing_net:
-    ipam:
-      driver: default
-      config:
-        - subnet: 172.28.0.0/16
+    testing_net:
+        ipam:
+            driver: default
+            config:
+                - subnet: 172.28.0.0/16
 ```
 
 openssl gen key:
