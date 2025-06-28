@@ -10,6 +10,7 @@ https://blog.codinghorror.com/rss/
 https://blog.trailofbits.com/index.xml
 https://brandur.org/articles.atom
 https://brandur.org/fragments.atom
+https://brooker.co.za/blog/atom.xml
 https://code.dblock.org/feed.xml
 https://daniel.haxx.se/blog/feed/
 https://dave.cheney.net/feed/atom
@@ -17,6 +18,7 @@ https://dotat.at/@/blog.atom
 https://drewdevault.com/blog/index.xml
 https://feeds.feedburner.com/ThePragmaticEngineer
 https://gpanders.com/index.xml
+https://gustedt.wordpress.com/feed/
 https://jepsen.io/blog.atom
 https://jvns.ca/atom.xml
 https://lemire.me/blog/feed/

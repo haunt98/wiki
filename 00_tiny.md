@@ -58,9 +58,13 @@ Create a mess to make sure it work, then keep cleaning up later.
 
 ### References
 
+- [Factors in authentication](https://apenwarr.ca/log/20190114)
+- [Forget privacy: you're terrible at targeting anyway](https://apenwarr.ca/log/20190201)
 - [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227)
 - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
 - [Tech debt metaphor maximalism](https://apenwarr.ca/log/20230605)
+- [The evasive evitability of enshittification](https://apenwarr.ca/log/20250530)
+
 - [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
 - [Rewrite, refactor, or reinvent?](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent)
 - [Stop saying “technical debt”](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
@@ -180,6 +184,8 @@ const EoA = struct {
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [TCP Fast Open: expediting web services](https://lwn.net/Articles/508865/)
     - [Multipath TCP](https://www.mptcp.dev/)
+- [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
+- [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
@@ -230,6 +236,7 @@ const EoA = struct {
 - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - [Dividing an array into fair sized chunks](https://lemire.me/blog/2025/05/22/dividing-an-array-into-fair-sized-chunks/)
+- [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
@@ -497,6 +504,8 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Prototyping a Smoother Map](https://medium.com/google-design/google-maps-cb0326d165f5)
 - [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 - [Searchable Linux Syscall Table](https://filippo.io/linux-syscall-table/)
+- [Security Standards and Name Changes in the Browser Wars](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
+- [Why JPEGs Still Rule the Web](https://spectrum.ieee.org/jpeg-image-format-history)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
@@ -558,6 +567,9 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Using a Samsung QN700B 8k TV as a Monitor](https://scottstuff.net/posts/2023/10/10/samsung-8k/)
 - [How Do AirTags Work ](https://newsletter.systemdesign.one/p/how-do-airtags-work)
 - [Japan's IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
+- [Writing a basic Linux device driver when you know nothing about Linux drivers or USB](https://crescentro.se/posts/writing-drivers/)
+- [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
+- [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 
 - [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
