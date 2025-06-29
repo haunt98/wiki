@@ -31,6 +31,7 @@
 - [Mobile Suit Gundam: Char's Counterattack](https://www.imdb.com/title/tt0095262/)
 - [Mobile Suit Gundam: The Origin - Advent of the Red Comet](https://www.imdb.com/title/tt12899130/)
 - [Mobile Suit Gundam: Hathaway](https://www.imdb.com/title/tt13288678/?ref_%3Dplg_rt_1)
+- [Mobile Suit Gundam GQuuuuuuX](https://www.imdb.com/title/tt34880941)
 
 ## [Satoshi Kon](https://www.imdb.com/name/nm0464804/)
 
