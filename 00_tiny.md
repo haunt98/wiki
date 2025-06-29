@@ -2,7 +2,25 @@
 
 ## Software Engineering
 
-[Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
+
+> monitoring and QA are the same thing. You'd never think so until you try doing a big SOA. But when your service says
+> "oh yes, I'm fine", it may well be the case that the only thing still functioning in the server is the little
+> component that knows how to say "I'm fine, roger roger, over and out" in a cheery droid voice. In order to tell
+> whether the service is actually responding, you have to make individual calls. The problem continues recursively until
+> your monitoring is doing comprehensive semantics checking of your entire range of services and data, at which point
+> it's indistinguishable from automated QA. So they're a continuum.
+>
+> if you have hundreds of services, and your code MUST communicate with other groups' code via these services, then you
+> won't be able to find any of them without a service-discovery mechanism. And you can't have that without a service
+> registration mechanism, which itself is another service. So Amazon has a universal service registry where you can find
+> out reflectively (programmatically) about every service, what its APIs are, and also whether it is currently up, and
+> where.
+
+- [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+- [Write code that’s easy to delete, and easy to debug too.](https://programmingisterrible.com/post/173883533613/code-to-debug)
+- [How do you cut a monolith in half?](https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half)
+- [Repeat yourself, do more than one thing, and rewrite everything](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and)
 
 Create a mess to make sure it work, then keep cleaning up later.
 
@@ -28,8 +46,58 @@ Create a mess to make sure it work, then keep cleaning up later.
 > rest. We isolate the most frustrating parts to write, maintain, or delete away from each other.
 >
 > We are not building modules around being able to re-use them, but being able to change them.
+>
+> Using a message broker to distribute work is like a cross between a load balancer with a database, with the
+> disadvantages of both and the advantages of neither.
+>
+> In practice, a message broker is a service that transforms network errors and machine failures into filled disks. Then
+> you add more disks. The advantage of publish-subscribe is that it isolates components from each other, but the problem
+> is usually gluing them together.
+>
+> For short-lived tasks, the persistence is unnecessary: the client sticks around for as long as the work needs to be
+> done, and handles recovery. The queuing isn’t that necessary either.
+>
+> Queues inevitably run in two states: full, or empty. If your queue is running full, you haven’t pushed enough work to
+> the edges, and if it is running empty, it’s working as a slow load balancer.
+>
+> Duplicates in a queue often cause more headaches, as long-lived tasks have more opportunities to overlap. Although
+> we’re using the broker to distribute work, we’re also using it implicitly as a mutex. To stop work from overlapping,
+> you implement a lock atop. After it breaks a couple of times, you replace it with leases, adding timeouts.
+>
+> (Note: This is not why you want a database, using transactions for long running tasks is suffering. Long running
+> processes are best modelled as state machines.)
+>
+> It’s slow is the hardest problem to debug, and often the reason is that something is stuck in a queue. For long and
+> short-lived tasks, we used back-pressure to keep the queue empty, to reduce latency.
+>
+> A replicated log is often about auditing, or recovery: having a central point of truth for decisions. Sometimes a
+> replicated log is about building a pipeline with fan-in (aggregating data), or fan-out (broadcasting data), but always
+> building a system where data flows in one direction.
+>
+> The easiest way to see the difference between a replicated log and a message broker is to ask an engineer to draw a
+> diagram of how the pieces connect.
+>
+> If the diagram looks like a one-way system, it’s a replicated log. If almost every component talks to it, it’s a
+> message broker. If you can draw a flow-chart, it’s a replicated log. If you take all the arrows away and you’re left
+> with a venn diagram of ‘things that talk to each other’, it’s a message broker.
+>
+> Be warned: A distributed system is something you can draw on a whiteboard pretty quickly, but it’ll take hours to
+> explain how all the pieces interact.
+>
+> How you cut a monolith is often more about how you are cutting up responsibility within a team, than cutting it into
+> components. It really does depend, and often more on the social aspects than the technical ones, but you are still
+> responsible for the protocol you create.
+>
+> Distributed systems are messy because of how the pieces interact over time, rather than which pieces are interacting.
+> The complexity of a distributed system does not come from having hundreds of machines, but hundreds of ways for them
+> to interact. A protocol must take into account performance, safety, stability, availability, and most importantly,
+> error handling.
+>
+> It also means carefully avoiding the semi-predicate problem, never using a single value (count) to represent a pair of
+> values (boolean, count). Avoiding things like returning a positive number for a result, and returning -1 when nothing
+> matches.
 
-[Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
+[Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/read/2)
 
 > It’s a vicious cycle of solving imaginary problems, from the CEO who doesn’t realize that stealing another 30 million
 > won’t make his dad love him to the user-experience intern who doesn’t realize that redesigning the “submit” button
@@ -99,21 +167,6 @@ Design URI/URL path to livelong. Keep out:
 - Filename extensions (.html, …)
 
 Good example: `http://www.w3.org/1998/12/01/chairs`
-
-[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
-
-> monitoring and QA are the same thing. You'd never think so until you try doing a big SOA. But when your service says
-> "oh yes, I'm fine", it may well be the case that the only thing still functioning in the server is the little
-> component that knows how to say "I'm fine, roger roger, over and out" in a cheery droid voice. In order to tell
-> whether the service is actually responding, you have to make individual calls. The problem continues recursively until
-> your monitoring is doing comprehensive semantics checking of your entire range of services and data, at which point
-> it's indistinguishable from automated QA. So they're a continuum.
->
-> if you have hundreds of services, and your code MUST communicate with other groups' code via these services, then you
-> won't be able to find any of them without a service-discovery mechanism. And you can't have that without a service
-> registration mechanism, which itself is another service. So Amazon has a universal service registry where you can find
-> out reflectively (programmatically) about every service, what its APIs are, and also whether it is currently up, and
-> where.
 
 [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 
@@ -237,6 +290,7 @@ const EoA = struct {
 - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - [Dividing an array into fair sized chunks](https://lemire.me/blog/2025/05/22/dividing-an-array-into-fair-sized-chunks/)
 - [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
+- [Data types for humans](https://herbcaudill.com/words/20181223-data-types-for-humans)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)

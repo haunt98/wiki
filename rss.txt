@@ -30,6 +30,7 @@ https://michael.stapelberg.ch/feed.xml
 https://mitchellh.com/feed.xml
 https://notes.eatonphil.com/rss.xml
 https://oppi.li/index.xml
+https://programmingisterrible.com/rss
 https://randomascii.wordpress.com/feed/
 https://raphlinus.github.io/feed.xml
 https://registerspill.thorstenball.com/feed
