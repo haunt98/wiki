@@ -3,6 +3,7 @@ https://0pointer.net/blog/index.atom
 https://andrewkelley.me/rss.xml
 https://antirez.com/rss
 https://apenwarr.ca/log/rss.php
+https://ariadne.space/feed.xml
 https://arslan.io/rss
 https://beej.us/blog/rss.xml
 https://blog.arrowtype.com/rss.xml

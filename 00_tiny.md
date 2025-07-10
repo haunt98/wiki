@@ -336,6 +336,7 @@ cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
 - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 - [isdigit: simple function, multiple implementation](https://nrk.neocities.org/articles/isdigit-multi-implementation)
 - [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
+- [C++ engineering decision in SumatraPDF code](https://blog.kowalczyk.info/a-xf4h/c-engineering-decision-in-sumatrapdf-code.html)
 
 ## Python
 
@@ -624,6 +625,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Writing a basic Linux device driver when you know nothing about Linux drivers or USB](https://crescentro.se/posts/writing-drivers/)
 - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 - [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
+- [NVIDIA is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 
 - [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
