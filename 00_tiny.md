@@ -158,6 +158,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Notes from Figma I: How We Succeeded In Design](https://andrewkchan.dev/posts/figma.html)
 - [Notes From Figma II: Engineering Learnings](https://andrewkchan.dev/posts/figma2.html)
 - [Reflections on OpenAI](https://calv.info/openai-reflections)
+- [Keeping Figma fast](https://www.figma.com/blog/keeping-figma-fast/#the-little-macbook-that-could-until-it-could-no)
 
 ## Programming
 
