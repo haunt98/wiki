@@ -155,6 +155,9 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
 - [The Ingredients of a Productive Monorepo](https://blog.swgillespie.me/posts/monorepo-ingredients/)
+- [Notes from Figma I: How We Succeeded In Design](https://andrewkchan.dev/posts/figma.html)
+- [Notes From Figma II: Engineering Learnings](https://andrewkchan.dev/posts/figma2.html)
+- [Reflections on OpenAI](https://calv.info/openai-reflections)
 
 ## Programming
 
@@ -628,6 +631,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 - [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 - [NVIDIA is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
+- [USB-C hubs and my slow descent into madness](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
 
 - [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
