@@ -490,6 +490,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
 - [Creative usernames and Spotify account hijacking](https://engineering.atspotify.com/2013/06/creative-usernames/)
 - [How Broken OTPs and Open Endpoints Turned a Dating App Into a Stalker’s Playground](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously)
+- [Building secure messaging is hard: A nuanced take on the Bitchat security debate](https://blog.trailofbits.com/2025/07/18/building-secure-messaging-is-hard-a-nuanced-take-on-the-bitchat-security-debate/)
 
 ## Misc
 
