@@ -44,6 +44,7 @@ https://stephango.com/feed.xml
 https://tonsky.me/atom.xml
 https://words.filippo.io/rss
 https://www.airs.com/blog/feed
+https://www.engineersneedart.com/rss.xml
 https://www.imperialviolet.org/iv-rss.xml
 
 https://5xublog.com/feed/

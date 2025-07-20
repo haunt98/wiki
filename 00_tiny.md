@@ -158,7 +158,13 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Notes from Figma I: How We Succeeded In Design](https://andrewkchan.dev/posts/figma.html)
 - [Notes From Figma II: Engineering Learnings](https://andrewkchan.dev/posts/figma2.html)
 - [Reflections on OpenAI](https://calv.info/openai-reflections)
-- [Keeping Figma fast](https://www.figma.com/blog/keeping-figma-fast/#the-little-macbook-that-could-until-it-could-no)
+- [Keeping Figma fast](https://www.figma.com/blog/keeping-figma-fast/)
+- [Mastermind: Using Uber Engineering to Combat Fraud in Real Time](https://www.uber.com/en-VN/blog/mastermind/)
+- [Stopping Uber Fraudsters Through Risk Challenges](https://www.uber.com/en-VN/blog/stopping-uber-fraudsters-through-risk-challenges/)
+- [How Uber Processes Early Chargeback Signals](https://www.uber.com/en-VN/blog/how-uber-processes-early-chargeback-signals/)
+- [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
+- [Learned at Figma - design tools and multiplicative complexity](https://digitalfreepen.com/2018/09/29/figma-design-tools.html)
+- [Learned at Figma - what makes a good engineer?](https://digitalfreepen.com/2018/09/29/what-makes-good-engineer.html)
 
 ## Programming
 
