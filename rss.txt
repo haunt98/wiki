@@ -1,4 +1,3 @@
-http://feeds.feedburner.com/martinkl
 https://0pointer.net/blog/index.atom
 https://andrewkelley.me/rss.xml
 https://antirez.com/rss
@@ -19,11 +18,13 @@ https://dave.cheney.net/feed/atom
 https://dotat.at/@/blog.atom
 https://drewdevault.com/blog/index.xml
 https://feeds.feedburner.com/ThePragmaticEngineer
+https://feeds.feedburner.com/martinkl
 https://gpanders.com/index.xml
 https://gustedt.wordpress.com/feed/
 https://jamie-wong.com/atom.xml
 https://jepsen.io/blog.atom
 https://jvns.ca/atom.xml
+https://kristoff.it/index.xml
 https://lemire.me/blog/feed/
 https://lucumr.pocoo.org/feed.atom
 https://matklad.github.io/feed.xml
@@ -56,6 +57,7 @@ https://go.dev/blog/feed.atom
 https://golangweekly.com/rss/
 https://neovim.io/news.xml
 https://zed.dev/blog.rss
+https://devblog.archlinux.page/atom.xml
 https://asahilinux.org/blog/index.xml
 https://developer.apple.com/news/releases/rss/releases.rss
 https://rsshub.app/amazon/kindle/software-updates

@@ -594,6 +594,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [zmv](https://onethingwell.org/post/24608988305/zmv)
 - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
 - [Curate your shell history](https://esham.io/2025/05/shell-history)
+- [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
 
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
