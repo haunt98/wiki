@@ -58,6 +58,7 @@ https://go.dev/blog/feed.atom
 https://golangweekly.com/rss/
 https://neovim.io/news.xml
 https://zed.dev/blog.rss
+https://lwn.net/headlines/weekly_big
 https://devblog.archlinux.page/atom.xml
 https://asahilinux.org/blog/index.xml
 https://developer.apple.com/news/releases/rss/releases.rss
