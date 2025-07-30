@@ -343,11 +343,11 @@ cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
 - [How to C in 2016](https://matt.sh/howto-c)
 - [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html#write-down-the-platforms-you-support)
-
 - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 - [isdigit: simple function, multiple implementation](https://nrk.neocities.org/articles/isdigit-multi-implementation)
 - [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
 - [C++ engineering decision in SumatraPDF code](https://blog.kowalczyk.info/a-xf4h/c-engineering-decision-in-sumatrapdf-code.html)
+- [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 
 ## Python
 
