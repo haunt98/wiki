@@ -389,6 +389,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Rust's BufRead, And When To Use It](https://www.brandons.me/blog/bufread-and-when-to-use-it)
 - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 - [Trimming down a rust binary in half](https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/)
+- [Maybe the Fastest Disk Usage Program on macOS](https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos)
 
 ## macOS
 
@@ -574,6 +575,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Searchable Linux Syscall Table](https://filippo.io/linux-syscall-table/)
 - [Security Standards and Name Changes in the Browser Wars](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 - [Why JPEGs Still Rule the Web](https://spectrum.ieee.org/jpeg-image-format-history)
+- [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
