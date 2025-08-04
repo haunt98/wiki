@@ -64,8 +64,10 @@ https://asahilinux.org/blog/index.xml
 https://developer.apple.com/news/releases/rss/releases.rss
 https://rsshub.app/amazon/kindle/software-updates
 https://pagedout.institute/atom.xml
+
 https://kbd.news/rss.php
 https://www.theremingoat.com/blog?format=rss
+https://github.com/qmk/qmk_firmware/tags.atom
 
 https://hnrss.org/threads?id=FiloSottile
 https://hnrss.org/threads?id=antirez
