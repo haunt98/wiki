@@ -11,6 +11,7 @@ https://blog.trailofbits.com/index.xml
 https://brandur.org/articles.atom
 https://brandur.org/fragments.atom
 https://brooker.co.za/blog/atom.xml
+https://burntsushi.net/index.xml
 https://calv.info/atom.xml
 https://code.dblock.org/feed.xml
 https://daniel.haxx.se/blog/feed/

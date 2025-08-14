@@ -576,6 +576,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Security Standards and Name Changes in the Browser Wars](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 - [Why JPEGs Still Rule the Web](https://spectrum.ieee.org/jpeg-image-format-history)
 - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
+- [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
