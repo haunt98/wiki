@@ -457,6 +457,11 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 > details like allowed domain names. The CA signs the certificate using its private key and adds the signature to the
 > certificate, allowing browsers to verify its authenticity using the CA’s public key.
 
+[Cross-Site Request Forgery](https://words.filippo.io/csrf/)
+
+> https://app.example.com, https://marketing.example.com, and even http://app.example.com (depending on the definition)
+> are all same-site but not same-origin.
+
 ### References
 
 - [Community Cryptography Specification Project](https://github.com/C2SP/C2SP)
@@ -477,6 +482,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
 - [The cryptography behind passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/)
 - [Encrypting Files with Passkeys and age](https://words.filippo.io/passkey-encryption/)
+- [ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption for any CPU](https://kerkour.com/chacha12-blake3)
 
 - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 - [Preventing (and fixing) parser mismatch vulnerabilities](https://www.brainonfire.net/blog/2022/04/29/preventing-parser-mismatch/)
