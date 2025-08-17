@@ -18,6 +18,7 @@ https://daniel.haxx.se/blog/feed/
 https://dave.cheney.net/feed/atom
 https://dotat.at/@/blog.atom
 https://drewdevault.com/blog/index.xml
+https://ericmigi.com/rss.xml
 https://feeds.feedburner.com/ThePragmaticEngineer
 https://feeds.feedburner.com/martinkl
 https://gpanders.com/index.xml
@@ -48,6 +49,7 @@ https://words.filippo.io/rss
 https://www.airs.com/blog/feed
 https://www.engineersneedart.com/rss.xml
 https://www.imperialviolet.org/iv-rss.xml
+https://www.seangoedecke.com/rss.xml
 https://xenodium.com/feed
 
 https://5xublog.com/feed/

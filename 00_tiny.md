@@ -250,6 +250,7 @@ const EoA = struct {
 - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
+- [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
@@ -504,6 +505,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Creative usernames and Spotify account hijacking](https://engineering.atspotify.com/2013/06/creative-usernames/)
 - [How Broken OTPs and Open Endpoints Turned a Dating App Into a Stalker’s Playground](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously)
 - [Building secure messaging is hard: A nuanced take on the Bitchat security debate](https://blog.trailofbits.com/2025/07/18/building-secure-messaging-is-hard-a-nuanced-take-on-the-bitchat-security-debate/)
+- [How I accidentally became PureGym's unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 
 ## Misc
 
@@ -687,6 +689,7 @@ touch /Volumes/Kindle/system/._.assets
 - [NDAs and Contracts That You Should Never Sign](https://www.joelonsoftware.com/2000/03/28/ndas-and-contracts-that-you-should-never-sign/)
 - [Contracts you should never sign](https://vadimkravcenko.com/about-me/)
 - [This is how we make slides at Apple.](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d)
+- [Do Things that Don't Scale](https://paulgraham.com/ds.html)
 
 ## Money
 
