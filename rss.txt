@@ -19,6 +19,7 @@ https://dave.cheney.net/feed/atom
 https://dotat.at/@/blog.atom
 https://drewdevault.com/blog/index.xml
 https://ericmigi.com/rss.xml
+https://ethanding.substack.com/feed
 https://feeds.feedburner.com/ThePragmaticEngineer
 https://feeds.feedburner.com/martinkl
 https://gpanders.com/index.xml
