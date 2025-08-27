@@ -59,6 +59,7 @@ t := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
 - [Hello World or Καλημέρα κόσμε or こんにちは 世界](https://9p.io/sys/doc/utf.html)
 - [Flexible and Economical UTF-8 Decoder](https://bjoern.hoehrmann.de/utf-8/decoder/dfa/)
 - [Decoding UTF8 with Parallel Extract](https://nrk.neocities.org/articles/utf8-pext)
+- [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 
 ## Rate limit
 
