@@ -349,6 +349,7 @@ cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
 - [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
 - [C++ engineering decision in SumatraPDF code](https://blog.kowalczyk.info/a-xf4h/c-engineering-decision-in-sumatrapdf-code.html)
 - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
+- [Object-oriented design patterns](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 
 ## Python
 
@@ -402,7 +403,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
 - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 
-## UI/UX/Beautiful
+## Design/Typography
 
 ### References
 
@@ -418,6 +419,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Why You Hate Comic Sans](https://designforhackers.com/blog/comic-sans-hate/)
 - [In Defense of Papyrus: Avatar Uses the World’s Second-Most-Hated Font to Signal the Downfall of Civilization](https://designforhackers.com/blog/papyrus-font/)
 - [Apple’s San Francisco Font](https://designforhackers.com/blog/san-francisco-font/)
+- [Nokia sans character](https://spiekermann.com/en/nokia-sans-character/)
 
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 - [The invisible problem](https://jenson.org/text/)
