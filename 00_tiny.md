@@ -303,6 +303,7 @@ const EoA = struct {
 - [Dividing an array into fair sized chunks](https://lemire.me/blog/2025/05/22/dividing-an-array-into-fair-sized-chunks/)
 - [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 - [Data types for humans](https://herbcaudill.com/words/20181223-data-types-for-humans)
+- [If I hear "design pattern" one more time, I'll go mad](https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/):
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
@@ -666,6 +667,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 - [Intel 9 285K on ASUS Z890: not stable!](https://michael.stapelberg.ch/posts/2025-03-19-intel-core-ultra-9-285k-on-asus-z890-not-stable/)
 - [My 2025 high-end Linux PC 🐧](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
+- [Bye Intel, hi AMD! I’m done after 2 dead Intels](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 
 ## Kindle
 

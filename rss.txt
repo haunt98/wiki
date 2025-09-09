@@ -2,6 +2,7 @@ https://0pointer.net/blog/index.atom
 https://andrewkelley.me/rss.xml
 https://antirez.com/rss
 https://apenwarr.ca/log/rss.php
+https://aresluna.org/main.rss
 https://ariadne.space/feed.xml
 https://arslan.io/rss
 https://beej.us/blog/rss.xml
