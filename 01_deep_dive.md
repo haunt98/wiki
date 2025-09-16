@@ -60,6 +60,7 @@ t := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
 - [Flexible and Economical UTF-8 Decoder](https://bjoern.hoehrmann.de/utf-8/decoder/dfa/)
 - [Decoding UTF8 with Parallel Extract](https://nrk.neocities.org/articles/utf8-pext)
 - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
+- [UTF-8 is a Brilliant Design](https://iamvishnu.com/posts/utf8-is-brilliant-design):
 
 ## Rate limit
 

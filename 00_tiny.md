@@ -351,6 +351,8 @@ cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
 - [C++ engineering decision in SumatraPDF code](https://blog.kowalczyk.info/a-xf4h/c-engineering-decision-in-sumatrapdf-code.html)
 - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 - [Object-oriented design patterns](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
+- [pthread_cancel - It's always DNS!](https://eissing.org/icing/posts/pthread_cancel/)
+- [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
 
 ## Python
 
@@ -660,6 +662,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 - [NVIDIA is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 - [USB-C hubs and my slow descent into madness](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
+- [Your Wi-Fi might be terrible because of Dynamic Frequency Selection (DFS)](https://ounapuu.ee/posts/2024/11/11/openwrt-dfs/)
 
 - [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
