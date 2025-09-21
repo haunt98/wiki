@@ -142,6 +142,11 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Egoless Engineering](https://egoless.engineering/)
 - [Slime Mold](https://komoroske.com/slime-mold/)
 - [Every Line Is a Potential Bug](https://www.teamten.com/lawrence/writings/every_line_is_a_potential_bug.html)
+- [How to peacefully grow your service](https://rakyll.medium.com/how-to-peacefully-grow-your-service-c40c25fe097f)
+- [Trying to impress people you don't respect](https://www.seangoedecke.com/impressing-people/):
+- [How to become passionate about delivering shareholder value](https://www.seangoedecke.com/shareholder-value/):
+- [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
+- [Finding the low-hanging fruit](https://www.seangoedecke.com/low-hanging-fruit/)
 
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
@@ -251,6 +256,7 @@ const EoA = struct {
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
+- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
@@ -304,6 +310,7 @@ const EoA = struct {
 - [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 - [Data types for humans](https://herbcaudill.com/words/20181223-data-types-for-humans)
 - [If I hear "design pattern" one more time, I'll go mad](https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/):
+- [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
@@ -492,6 +499,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [The cryptography behind passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/)
 - [Encrypting Files with Passkeys and age](https://words.filippo.io/passkey-encryption/)
 - [ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption for any CPU](https://kerkour.com/chacha12-blake3)
+- [Understanding zero-knowledge proofs](https://www.avestura.dev/blog/zero-knowledge-proofs)
 
 - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 - [Preventing (and fixing) parser mismatch vulnerabilities](https://www.brainonfire.net/blog/2022/04/29/preventing-parser-mismatch/)
@@ -665,6 +673,10 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [USB-C hubs and my slow descent into madness](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
 - [Your Wi-Fi might be terrible because of Dynamic Frequency Selection (DFS)](https://ounapuu.ee/posts/2024/11/11/openwrt-dfs/)
 - [Teardown of Apple 40W Dynamic Power Adapter with 60W Max (A3365)](https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/)
+- [The ASUS Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
+- [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
+- [Building the Mouse Logitech Won't Make](https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods)
+- [I uncovered an ACPI bug in my Dell Inspiron 5567. It was plaguing me for 8 years.](https://triangulatedexistence.mataroa.blog/blog/i-uncovered-an-acpi-bug-in-my-dell-inspiron-5667-it-was-plaguing-me-for-8-years/)
 
 - [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
