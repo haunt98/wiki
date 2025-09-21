@@ -61,6 +61,7 @@ t := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
 - [Decoding UTF8 with Parallel Extract](https://nrk.neocities.org/articles/utf8-pext)
 - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 - [UTF-8 is a Brilliant Design](https://iamvishnu.com/posts/utf8-is-brilliant-design):
+- [The history of UTF-8 as told by Rob Pike](https://doc.cat-v.org/bell_labs/utf-8_history)
 
 ## Rate limit
 
@@ -278,16 +279,16 @@ If leader fail → find another leader (Leader election).
 
 Each server has 3 states: **leader**, **follower**, **candidate.**
 
-Nomal: 1 leader, others are followers.
+Normal: 1 leader, others are followers.
 
 Clients make a request to followers → followers redirect to leader.
 
-Time is devided into **terms**.
+Time is divided into **terms**.
 
 Term begins with election.
 
 - If a candidate win → become leader.
-- If split vote (50/50 I guess) → no leader → init new term shorly after.
+- If split vote (50/50 I guess) → no leader → init new term shortly after.
 
 Terms act as logical clock. Each server stores current term number, which increases over time.
 
@@ -336,7 +337,7 @@ Enqueue: add to tail
 
 Dequeue:
 
-- Travese all to get max priority → remove that → O(n)
+- Traverse all to get max priority → remove that → O(n)
 - Use heap data structure → O(logn)
     - Each time enqueue priority, if not bigger priority than it stays behind → preserver the order
 

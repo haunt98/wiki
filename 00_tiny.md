@@ -514,6 +514,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [How Broken OTPs and Open Endpoints Turned a Dating App Into a Stalker’s Playground](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously)
 - [Building secure messaging is hard: A nuanced take on the Bitchat security debate](https://blog.trailofbits.com/2025/07/18/building-secure-messaging-is-hard-a-nuanced-take-on-the-bitchat-security-debate/)
 - [How I accidentally became PureGym's unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
+- [Protect your keys with the Secure Enclave](https://octet-stream.net/b/scb/2025-09-16-protect-your-keys-with-the-secure-enclave.html)
 
 ## Misc
 
@@ -663,6 +664,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [NVIDIA is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 - [USB-C hubs and my slow descent into madness](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
 - [Your Wi-Fi might be terrible because of Dynamic Frequency Selection (DFS)](https://ounapuu.ee/posts/2024/11/11/openwrt-dfs/)
+- [Teardown of Apple 40W Dynamic Power Adapter with 60W Max (A3365)](https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/)
 
 - [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
