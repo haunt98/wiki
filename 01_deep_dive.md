@@ -130,12 +130,14 @@ For example rate is 1 request per second, burst is 3 requests.
 
 - [An alternative approach to rate limiting](https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/)
 - [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
+- [How we built rate limiting capable of scaling to millions of domains](https://blog.cloudflare.com/counting-things-a-lot-of-different-things)
+- [Scaling Our Rate Limits to Prepare for a Billion Active Certificates](https://letsencrypt.org/2025/01/30/scaling-rate-limits/)
 - [Designing and implementing a sliding window based rate limiter](https://arpitbhayani.me/blogs/sliding-window-ratelimiter)
 - [Rate Limiting, Cells, and GCRA](https://brandur.org/rate-limiting)
 - [GCRA: leaky buckets without the buckets](https://dotat.at/@/2024-08-30-gcra.html)
 - [exponential rate limiting](https://dotat.at/@/2024-09-02-ewma.html)
-- [How we built rate limiting capable of scaling to millions of domains](https://blog.cloudflare.com/counting-things-a-lot-of-different-things)
-- [Scaling Our Rate Limits to Prepare for a Billion Active Certificates](https://letsencrypt.org/2025/01/30/scaling-rate-limits/)
+- [Some notes on (Tony Finch's) exponential rate limiting in practice](https://utcc.utoronto.ca/~cks/space/blog/programming/RatelimitExponentialNotes)
+- [2025-09-14 – a few notes on ratelimiting](https://dotat.at/@/2025-09-14-ratelimit.html)
 
 ## OAuth
 
