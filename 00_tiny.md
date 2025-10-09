@@ -147,6 +147,11 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [How to become passionate about delivering shareholder value](https://www.seangoedecke.com/shareholder-value/):
 - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 - [Finding the low-hanging fruit](https://www.seangoedecke.com/low-hanging-fruit/)
+- ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)
+- [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
+- [Protecting your time from predators in large tech companies](https://www.seangoedecke.com/predators/):
+- [Senior engineers should make side bets](https://www.seangoedecke.com/side-bets/)
+- [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
 
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
@@ -311,6 +316,9 @@ const EoA = struct {
 - [Data types for humans](https://herbcaudill.com/words/20181223-data-types-for-humans)
 - [If I hear "design pattern" one more time, I'll go mad](https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/):
 - [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
+- [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/)
+- [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
+- [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
@@ -323,6 +331,7 @@ const EoA = struct {
 - [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
 - [Understanding SIMD: Infinite Complexity of Trivial Problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 - [Fast columnar JSON decoding with arrow-rs](https://www.arroyo.dev/blog/fast-arrow-json-decoding)
+- [Cuckoo hashing improves SIMD hash tables (and other hash table tradeoffs)](https://reiner.org/cuckoo-hashing)
 
 - [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 - [CRDT: Fractional Indexing](https://madebyevan.com/algos/crdt-fractional-indexing/)
@@ -523,6 +532,8 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Building secure messaging is hard: A nuanced take on the Bitchat security debate](https://blog.trailofbits.com/2025/07/18/building-secure-messaging-is-hard-a-nuanced-take-on-the-bitchat-security-debate/)
 - [How I accidentally became PureGym's unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 - [Protect your keys with the Secure Enclave](https://octet-stream.net/b/scb/2025-09-16-protect-your-keys-with-the-secure-enclave.html)
+- [Taming 2,500 compiler warnings with CodeQL, an OpenVPN2 case study](https://blog.trailofbits.com/2025/09/25/taming-2500-compiler-warnings-with-codeql-an-openvpn2-case-study/)
+- [Kể chuyện hack hacker](https://vnhacker.substack.com/p/ke-chuyen-hack-hacker)
 
 ## Misc
 
@@ -625,6 +636,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Curate your shell history](https://esham.io/2025/05/shell-history)
 - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
 - [Why is my Raspberry Pi 4 too slow as a server?](https://ergaster.org/posts/2025/06/24-why-restore-raspi-slow/)
+- [How I maintain release notes for curl](https://daniel.haxx.se/blog/2025/10/01/how-i-maintain-release-notes-for-curl/)
 
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
@@ -677,6 +689,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
 - [Building the Mouse Logitech Won't Make](https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods)
 - [I uncovered an ACPI bug in my Dell Inspiron 5567. It was plaguing me for 8 years.](https://triangulatedexistence.mataroa.blog/blog/i-uncovered-an-acpi-bug-in-my-dell-inspiron-5667-it-was-plaguing-me-for-8-years/)
+- [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
 
 - [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
