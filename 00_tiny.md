@@ -534,6 +534,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Protect your keys with the Secure Enclave](https://octet-stream.net/b/scb/2025-09-16-protect-your-keys-with-the-secure-enclave.html)
 - [Taming 2,500 compiler warnings with CodeQL, an OpenVPN2 case study](https://blog.trailofbits.com/2025/09/25/taming-2500-compiler-warnings-with-codeql-an-openvpn2-case-study/)
 - [Kể chuyện hack hacker](https://vnhacker.substack.com/p/ke-chuyen-hack-hacker)
+- [A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](https://words.filippo.io/compromise-survey/)
 
 ## Misc
 
