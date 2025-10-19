@@ -454,6 +454,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [The polish paradox](https://matthewstrom.com/writing/the-polish-paradox/)
 - [The Design of the New Swiss Passport](https://kottke.org/25/03/the-design-of-the-new-swiss-passport)
 - [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
+- [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 
 ## Security
 
@@ -638,6 +639,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
 - [Why is my Raspberry Pi 4 too slow as a server?](https://ergaster.org/posts/2025/06/24-why-restore-raspi-slow/)
 - [How I maintain release notes for curl](https://daniel.haxx.se/blog/2025/10/01/how-i-maintain-release-notes-for-curl/)
+- [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
