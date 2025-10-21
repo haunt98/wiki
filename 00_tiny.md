@@ -319,6 +319,7 @@ const EoA = struct {
 - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/)
 - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
+- [Why UUIDs won't protect your secrets](https://alexsci.com/blog/uuids-and-idor/)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
@@ -693,6 +694,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Building the Mouse Logitech Won't Make](https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods)
 - [I uncovered an ACPI bug in my Dell Inspiron 5567. It was plaguing me for 8 years.](https://triangulatedexistence.mataroa.blog/blog/i-uncovered-an-acpi-bug-in-my-dell-inspiron-5667-it-was-plaguing-me-for-8-years/)
 - [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
+- [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)
 
 - [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
