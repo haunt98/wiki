@@ -21,6 +21,7 @@ https://dotat.at/@/blog.atom
 https://drewdevault.com/blog/index.xml
 https://ericmigi.com/rss.xml
 https://ethanding.substack.com/feed
+https://evanhahn.com/blog/index.xml
 https://feeds.feedburner.com/ThePragmaticEngineer
 https://feeds.feedburner.com/martinkl
 https://gpanders.com/index.xml
@@ -53,6 +54,7 @@ https://www.engineersneedart.com/rss.xml
 https://www.imperialviolet.org/iv-rss.xml
 https://www.seangoedecke.com/rss.xml
 https://xenodium.com/feed
+https://xn--gckvb8fzb.com/index.xml
 
 https://5xublog.com/feed/
 https://ngobaochau.wordpress.com/feed/
