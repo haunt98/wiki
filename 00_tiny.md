@@ -327,6 +327,7 @@ const EoA = struct {
 - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
 - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
+- [Avoid 2:00 and 3:00 am cron jobs!](https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/)
 
 - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 - [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
