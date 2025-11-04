@@ -152,6 +152,10 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Protecting your time from predators in large tech companies](https://www.seangoedecke.com/predators/):
 - [Senior engineers should make side bets](https://www.seangoedecke.com/side-bets/)
 - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
+- [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
+- [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
+- [Pure and impure software engineering](https://www.seangoedecke.com/pure-and-impure-engineering/)
+- [How projects fail at large tech companies](https://www.seangoedecke.com/how-projects-fail/)
 
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
@@ -320,6 +324,7 @@ const EoA = struct {
 - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
 - [Why UUIDs won't protect your secrets](https://alexsci.com/blog/uuids-and-idor/)
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
@@ -642,6 +647,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Why is my Raspberry Pi 4 too slow as a server?](https://ergaster.org/posts/2025/06/24-why-restore-raspi-slow/)
 - [How I maintain release notes for curl](https://daniel.haxx.se/blog/2025/10/01/how-i-maintain-release-notes-for-curl/)
 - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
+- [Terminal Emulators Battle Royale – Unicode Edition!](https://www.jeffquast.com/post/ucs-detect-test-results/)
 
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
@@ -699,12 +705,14 @@ openssl pkey -in private.pem -pubout -out public.pem
 
 - [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
+- [MacBook Air M1: the best laptop? (2021)](https://michael.stapelberg.ch/posts/2021-11-28-macbook-air-m1/)
 - [My 2022 high-end Linux PC 🐧 (2022)](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
 - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
 - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 - [Intel 9 285K on ASUS Z890: not stable!](https://michael.stapelberg.ch/posts/2025-03-19-intel-core-ultra-9-285k-on-asus-z890-not-stable/)
 - [My 2025 high-end Linux PC 🐧](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
 - [Bye Intel, hi AMD! I’m done after 2 dead Intels](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
+- [My impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
 
 ## Kindle
 
