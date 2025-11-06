@@ -156,6 +156,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 - [Pure and impure software engineering](https://www.seangoedecke.com/pure-and-impure-engineering/)
 - [How projects fail at large tech companies](https://www.seangoedecke.com/how-projects-fail/)
+- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects):
 
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
@@ -702,6 +703,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [I uncovered an ACPI bug in my Dell Inspiron 5567. It was plaguing me for 8 years.](https://triangulatedexistence.mataroa.blog/blog/i-uncovered-an-acpi-bug-in-my-dell-inspiron-5667-it-was-plaguing-me-for-8-years/)
 - [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
 - [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)
+- [How To Build A Smartwatch: Software - Setting Expectations & Roadmap](https://ericmigi.com/blog/how-to-build-a-smartwatch-software-setting-expectations-and-roadmap#pebble-mobile-app)
 
 - [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
 - [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
