@@ -62,6 +62,7 @@ t := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
 - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 - [UTF-8 is a Brilliant Design](https://iamvishnu.com/posts/utf8-is-brilliant-design):
 - [The history of UTF-8 as told by Rob Pike](https://doc.cat-v.org/bell_labs/utf-8_history)
+- [Koan 15: The Invisible Ink](https://pythonkoans.substack.com/p/koan-15-the-invisible-ink)
 
 ## Rate limit
 
