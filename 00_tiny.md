@@ -545,6 +545,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Taming 2,500 compiler warnings with CodeQL, an OpenVPN2 case study](https://blog.trailofbits.com/2025/09/25/taming-2500-compiler-warnings-with-codeql-an-openvpn2-case-study/)
 - [Kể chuyện hack hacker](https://vnhacker.substack.com/p/ke-chuyen-hack-hacker)
 - [A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](https://words.filippo.io/compromise-survey/)
+- [The 2025 Go Cryptography State of the Union ](https://words.filippo.io/2025-state/)
 
 ## Misc
 
