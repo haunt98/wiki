@@ -132,6 +132,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
 - [Tech debt metaphor maximalism](https://apenwarr.ca/log/20230605)
 - [The evasive evitability of enshittification](https://apenwarr.ca/log/20250530)
+- [Systems design 3: LLMs and the semantic revolution](https://apenwarr.ca/log/20251120)
 
 - [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
 - [Rewrite, refactor, or reinvent?](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent)
@@ -180,6 +181,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
 - [Learned at Figma - design tools and multiplicative complexity](https://digitalfreepen.com/2018/09/29/figma-design-tools.html)
 - [Learned at Figma - what makes a good engineer?](https://digitalfreepen.com/2018/09/29/what-makes-good-engineer.html)
+- [The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/):
 
 ## Programming
 
@@ -420,6 +422,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 - [Trimming down a rust binary in half](https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/)
 - [Maybe the Fastest Disk Usage Program on macOS](https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos)
+- [Using unwrap() in Rust is Okay](https://burntsushi.net/unwrap/)
 
 ## macOS
 
