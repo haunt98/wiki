@@ -182,6 +182,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Learned at Figma - design tools and multiplicative complexity](https://digitalfreepen.com/2018/09/29/figma-design-tools.html)
 - [Learned at Figma - what makes a good engineer?](https://digitalfreepen.com/2018/09/29/what-makes-good-engineer.html)
 - [The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/):
+- [Nerd-sniped: Project Search](https://zed.dev/blog/nerd-sniped-project-search)
 
 ## Programming
 
