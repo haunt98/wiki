@@ -63,6 +63,7 @@ t := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
 - [UTF-8 is a Brilliant Design](https://iamvishnu.com/posts/utf8-is-brilliant-design):
 - [The history of UTF-8 as told by Rob Pike](https://doc.cat-v.org/bell_labs/utf-8_history)
 - [Koan 15: The Invisible Ink](https://pythonkoans.substack.com/p/koan-15-the-invisible-ink)
+- [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 
 ## Rate limit
 
