@@ -270,6 +270,8 @@ const EoA = struct {
 - [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
+- [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+- [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
 
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
@@ -318,7 +320,6 @@ const EoA = struct {
 - [A brief history of the User-Agent string](https://nielsleenheer.com/articles/2024/a-brief-history-of-the-user-agent-string/)
 - [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
-- [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - [Dividing an array into fair sized chunks](https://lemire.me/blog/2025/05/22/dividing-an-array-into-fair-sized-chunks/)
 - [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 - [Data types for humans](https://herbcaudill.com/words/20181223-data-types-for-humans)
@@ -352,6 +353,7 @@ const EoA = struct {
 - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
 - [How CRDTs make multiplayer text editing part of Zed's DNA](https://zed.dev/blog/crdts)
 - [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
+- [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
 
 ## C
 
