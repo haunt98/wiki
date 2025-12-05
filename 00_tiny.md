@@ -183,6 +183,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Learned at Figma - what makes a good engineer?](https://digitalfreepen.com/2018/09/29/what-makes-good-engineer.html)
 - [The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/):
 - [Nerd-sniped: Project Search](https://zed.dev/blog/nerd-sniped-project-search)
+- [Zed Has Rainbow Brackets](https://zed.dev/blog/rainbow-brackets#performance)
 
 ## Programming
 
@@ -633,6 +634,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
 - [A love letter to the CSV format](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/):
 - [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
+- [Apple’s attempt at system-wide filtering API — is it good? AdGuard’s research](https://adguard.com/en/blog/apple-url-filter-system-wide-filtering-api.html)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
