@@ -158,6 +158,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Pure and impure software engineering](https://www.seangoedecke.com/pure-and-impure-engineering/)
 - [How projects fail at large tech companies](https://www.seangoedecke.com/how-projects-fail/)
 - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects):
+- [You Want Microservices, But Do You Really Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/):
 
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
@@ -181,9 +182,14 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
 - [Learned at Figma - design tools and multiplicative complexity](https://digitalfreepen.com/2018/09/29/figma-design-tools.html)
 - [Learned at Figma - what makes a good engineer?](https://digitalfreepen.com/2018/09/29/what-makes-good-engineer.html)
+- [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
 - [The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/):
 - [Nerd-sniped: Project Search](https://zed.dev/blog/nerd-sniped-project-search)
 - [Zed Has Rainbow Brackets](https://zed.dev/blog/rainbow-brackets#performance)
+- [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
+- [Goodbye Microservices: From 100s of problem children to 1 superstar](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
+- [Modernizing Reddit's Comment Backend Infrastructure](https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/)
+- [Why I Ignore The Spotlight as a Staff Engineer](Why I Ignore The Spotlight as a Staff Engineer)
 
 ## Programming
 
