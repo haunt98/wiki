@@ -190,6 +190,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Goodbye Microservices: From 100s of problem children to 1 superstar](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
 - [Modernizing Reddit's Comment Backend Infrastructure](https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/)
 - [Why I Ignore The Spotlight as a Staff Engineer](Why I Ignore The Spotlight as a Staff Engineer)
+- [How We Rebuilt Settings in Zed](https://zed.dev/blog/settings-ui)
 
 ## Programming
 

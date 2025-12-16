@@ -56,6 +56,7 @@ https://www.airs.com/blog/feed
 https://www.engineersneedart.com/rss.xml
 https://www.imperialviolet.org/iv-rss.xml
 https://www.seangoedecke.com/rss.xml
+https://www.somethingsimilar.com/feed
 https://xenodium.com/feed
 https://xn--gckvb8fzb.com/index.xml
 
