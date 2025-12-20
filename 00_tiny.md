@@ -642,6 +642,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [A love letter to the CSV format](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/):
 - [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
 - [Apple’s attempt at system-wide filtering API — is it good? AdGuard’s research](https://adguard.com/en/blog/apple-url-filter-system-wide-filtering-api.html)
+- [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
