@@ -126,6 +126,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 
 ### References
 
+- Tier 1
 - [Factors in authentication](https://apenwarr.ca/log/20190114)
 - [Forget privacy: you're terrible at targeting anyway](https://apenwarr.ca/log/20190201)
 - [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227)
@@ -134,16 +135,10 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [The evasive evitability of enshittification](https://apenwarr.ca/log/20250530)
 - [Systems design 3: LLMs and the semantic revolution](https://apenwarr.ca/log/20251120)
 
-- [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
-- [Rewrite, refactor, or reinvent?](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent)
-- [Stop saying “technical debt”](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
-- [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
-- [Paying down tech debt: further learnings](https://blog.pragmaticengineer.com/paying-down-tech-debt-further-learnings/)
-- [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
-- [Egoless Engineering](https://egoless.engineering/)
-- [Slime Mold](https://komoroske.com/slime-mold/)
-- [Every Line Is a Potential Bug](https://www.teamten.com/lawrence/writings/every_line_is_a_potential_bug.html)
+- Tier 2
 - [How to peacefully grow your service](https://rakyll.medium.com/how-to-peacefully-grow-your-service-c40c25fe097f)
+- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects):
+- [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 - [Trying to impress people you don't respect](https://www.seangoedecke.com/impressing-people/):
 - [How to become passionate about delivering shareholder value](https://www.seangoedecke.com/shareholder-value/):
 - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
@@ -157,16 +152,25 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 - [Pure and impure software engineering](https://www.seangoedecke.com/pure-and-impure-engineering/)
 - [How projects fail at large tech companies](https://www.seangoedecke.com/how-projects-fail/)
-- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects):
-- [You Want Microservices, But Do You Really Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/):
 
-- [A List of Post-mortems!](https://github.com/danluu/post-mortems)
+- [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
+- [Nerd-sniped: Project Search](https://zed.dev/blog/nerd-sniped-project-search)
+- [Zed Has Rainbow Brackets](https://zed.dev/blog/rainbow-brackets#performance)
+- [How We Rebuilt Settings in Zed](https://zed.dev/blog/settings-ui)
+- [Stop saying “technical debt”](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
+- [You Want Microservices, But Do You Really Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/):
+- [Goodbye Microservices: From 100s of problem children to 1 superstar](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
+- [Modernizing Reddit's Comment Backend Infrastructure](https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/)
+- [Keeping Figma fast](https://www.figma.com/blog/keeping-figma-fast/)
+- [Mastermind: Using Uber Engineering to Combat Fraud in Real Time](https://www.uber.com/en-VN/blog/mastermind/)
+- [Stopping Uber Fraudsters Through Risk Challenges](https://www.uber.com/en-VN/blog/stopping-uber-fraudsters-through-risk-challenges/)
+- [How Uber Processes Early Chargeback Signals](https://www.uber.com/en-VN/blog/how-uber-processes-early-chargeback-signals/)
+
+- Story
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
 - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 - [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
 - [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
-- [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
-- [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 - [7 Things I've learned building a modern TUI Framework](https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/)
 - [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
 - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
@@ -174,23 +178,24 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [The Ingredients of a Productive Monorepo](https://blog.swgillespie.me/posts/monorepo-ingredients/)
 - [Notes from Figma I: How We Succeeded In Design](https://andrewkchan.dev/posts/figma.html)
 - [Notes From Figma II: Engineering Learnings](https://andrewkchan.dev/posts/figma2.html)
-- [Reflections on OpenAI](https://calv.info/openai-reflections)
-- [Keeping Figma fast](https://www.figma.com/blog/keeping-figma-fast/)
-- [Mastermind: Using Uber Engineering to Combat Fraud in Real Time](https://www.uber.com/en-VN/blog/mastermind/)
-- [Stopping Uber Fraudsters Through Risk Challenges](https://www.uber.com/en-VN/blog/stopping-uber-fraudsters-through-risk-challenges/)
-- [How Uber Processes Early Chargeback Signals](https://www.uber.com/en-VN/blog/how-uber-processes-early-chargeback-signals/)
-- [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
 - [Learned at Figma - design tools and multiplicative complexity](https://digitalfreepen.com/2018/09/29/figma-design-tools.html)
 - [Learned at Figma - what makes a good engineer?](https://digitalfreepen.com/2018/09/29/what-makes-good-engineer.html)
+- [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
+- [Rewrite, refactor, or reinvent?](https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent)
+- [Paying down tech debt: further learnings](https://blog.pragmaticengineer.com/paying-down-tech-debt-further-learnings/)
+- [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
+- [Egoless Engineering](https://egoless.engineering/)
+- [Slime Mold](https://komoroske.com/slime-mold/)
+- [Every Line Is a Potential Bug](https://www.teamten.com/lawrence/writings/every_line_is_a_potential_bug.html)
+- [Reflections on OpenAI](https://calv.info/openai-reflections)
+- [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
+- [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
+
+- Incident
+- [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
 - [The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/):
-- [Nerd-sniped: Project Search](https://zed.dev/blog/nerd-sniped-project-search)
-- [Zed Has Rainbow Brackets](https://zed.dev/blog/rainbow-brackets#performance)
 - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
-- [Goodbye Microservices: From 100s of problem children to 1 superstar](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
-- [Modernizing Reddit's Comment Backend Infrastructure](https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/)
-- [Why I Ignore The Spotlight as a Staff Engineer](Why I Ignore The Spotlight as a Staff Engineer)
-- [How We Rebuilt Settings in Zed](https://zed.dev/blog/settings-ui)
 
 ## Programming
 
@@ -268,11 +273,9 @@ const EoA = struct {
 
 ### References
 
-- [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
-    - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- Tier 1
+- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
-- [TCP Fast Open: expediting web services](https://lwn.net/Articles/508865/)
-    - [Multipath TCP](https://www.mptcp.dev/)
 - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
@@ -281,8 +284,19 @@ const EoA = struct {
 - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
 
+- Tier 2
+- [Stripe V2](https://brandur.org/fragments/stripe-v2)
+- [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
+- [Performance tip: avoid unnecessary copies](https://lemire.me/blog/2024/06/22/performance-tip-avoid-unnecessary-copies/)
+- [Dividing an array into fair sized chunks](https://lemire.me/blog/2025/05/22/dividing-an-array-into-fair-sized-chunks/)
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
+- [Inside NGINX: How We Designed for Performance & Scale](https://blog.nginx.org/blog/inside-nginx-how-we-designed-for-performance-scale)
+- [Peeking into VALORANT's Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode)
+- [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+    - https://news.ycombinator.com/item?id=3058327
+- [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
+
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
@@ -291,7 +305,6 @@ const EoA = struct {
 - [The Real Hash Was the Friends We Made along the Way](https://vaibhavsagar.com/blog/2024/02/14/minimal-perfect-hashing/)
 - [Overflow in consistent hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
 - [What is tail recursion?](https://stackoverflow.com/a/37010)
-- [Performance tip: avoid unnecessary copies](https://lemire.me/blog/2024/06/22/performance-tip-avoid-unnecessary-copies/)
 - [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 - [Multi-Threading & Mutation](https://www.rfleury.com/p/multi-threading-and-mutation)
@@ -304,23 +317,17 @@ const EoA = struct {
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 - [ATProto for distributed systems engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
-- [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
 - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
-- [Peeking into VALORANT's Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode)
 - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
-- [Inside NGINX: How We Designed for Performance & Scale](https://blog.nginx.org/blog/inside-nginx-how-we-designed-for-performance-scale)
 - [LMAX Disruptor](https://lmax-exchange.github.io/disruptor/)
     - [The LMAX Architecture](https://martinfowler.com/articles/lmax.html)
     - [LMAX - How to Do 100K TPS at Less than 1ms Latency](https://www.infoq.com/presentations/LMAX/)
     - [How does LMAX's disruptor pattern work?](https://stackoverflow.com/q/6559308)
 - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
-- [Stripe V2](https://brandur.org/fragments/stripe-v2)
 - [How to Secure Webhooks?](https://newsletter.scalablethread.com/p/how-to-secure-the-webhooks)
 - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 - [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://blog.codingconfessions.com/p/bloom-filters-and-beyond)
-- [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
-    - https://news.ycombinator.com/item?id=3058327
 - [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
 - ["A calculator app? Anyone could make that."](https://chadnauseam.com/coding/random/calculator-app)
 - [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
@@ -328,17 +335,16 @@ const EoA = struct {
 - [A brief history of the User-Agent string](https://nielsleenheer.com/articles/2024/a-brief-history-of-the-user-agent-string/)
 - [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
-- [Dividing an array into fair sized chunks](https://lemire.me/blog/2025/05/22/dividing-an-array-into-fair-sized-chunks/)
 - [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 - [Data types for humans](https://herbcaudill.com/words/20181223-data-types-for-humans)
 - [If I hear "design pattern" one more time, I'll go mad](https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/):
 - [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
 - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/)
-- [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
 - [Why UUIDs won't protect your secrets](https://alexsci.com/blog/uuids-and-idor/)
 - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 
+- Time
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
@@ -347,12 +353,14 @@ const EoA = struct {
 - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
 - [Avoid 2:00 and 3:00 am cron jobs!](https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/)
 
+- SIMD
 - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 - [Does "vpmovzxbd" Scare You? Here's Why it Doesn't Have To](https://questdb.io/blog/does-vpmovzxbd-scare-you/#what-exactly-is-a-simd-instruction)
 - [Understanding SIMD: Infinite Complexity of Trivial Problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 - [Fast columnar JSON decoding with arrow-rs](https://www.arroyo.dev/blog/fast-arrow-json-decoding)
 - [Cuckoo hashing improves SIMD hash tables (and other hash table tradeoffs)](https://reiner.org/cuckoo-hashing)
 
+- CRDT
 - [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 - [CRDT: Fractional Indexing](https://madebyevan.com/algos/crdt-fractional-indexing/)
 - [CRDT: Tree-Based Indexing](https://madebyevan.com/algos/crdt-tree-based-indexing/)
@@ -428,6 +436,10 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
 - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
 
+## Rust
+
+### References
+
 - [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
 - [Rust's BufRead, And When To Use It](https://www.brandons.me/blog/bufread-and-when-to-use-it)
 - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
@@ -449,6 +461,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 ### References
 
+- Font
 - [About Chinese Type Design - 1/3](https://www.lisahuang.work/about-chinese-type-design-1-3)
 - [About Chinese Type Design - 2/3](https://www.lisahuang.work/about-chinese-type-design-2-3)
 - [Việtnamese Typography](https://vietnamesetypography.com/introduction/)
@@ -463,6 +476,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Apple’s San Francisco Font](https://designforhackers.com/blog/san-francisco-font/)
 - [Nokia sans character](https://spiekermann.com/en/nokia-sans-character/)
 
+- Design
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 - [The invisible problem](https://jenson.org/text/)
 - [Design can be free](https://jenson.org/free/)
@@ -534,6 +548,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption for any CPU](https://kerkour.com/chacha12-blake3)
 - [Understanding zero-knowledge proofs](https://www.avestura.dev/blog/zero-knowledge-proofs)
 
+- Hack
 - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 - [Preventing (and fixing) parser mismatch vulnerabilities](https://www.brainonfire.net/blog/2022/04/29/preventing-parser-mismatch/)
 - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
@@ -644,6 +659,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Apple’s attempt at system-wide filtering API — is it good? AdGuard’s research](https://adguard.com/en/blog/apple-url-filter-system-wide-filtering-api.html)
 - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 
+- git
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 - [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109)
@@ -652,6 +668,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
 - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
 
+- Linux
 - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 - [Faster and enjoyable ZSH (maybe)](https://htr3n.github.io/2018/07/faster-zsh/)
 - [State of input method](https://dorotac.eu/posts/input_broken/)
@@ -669,6 +686,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 - [Terminal Emulators Battle Royale – Unicode Edition!](https://www.jeffquast.com/post/ucs-detect-test-results/)
 
+- macOS
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
 - [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
@@ -691,6 +709,19 @@ openssl pkey -in private.pem -pubout -out public.pem
 
 ### References
 
+- Tier 1
+- [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
+- [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
+- [MacBook Air M1: the best laptop? (2021)](https://michael.stapelberg.ch/posts/2021-11-28-macbook-air-m1/)
+- [My 2022 high-end Linux PC 🐧 (2022)](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
+- [Can Dell’s 6K monitor beat their 8K monitor? (2023)](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
+- [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
+- [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
+- [Intel 9 285K on ASUS Z890: not stable!](https://michael.stapelberg.ch/posts/2025-03-19-intel-core-ultra-9-285k-on-asus-z890-not-stable/)
+- [My 2025 high-end Linux PC 🐧](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
+- [Bye Intel, hi AMD! I’m done after 2 dead Intels](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
+- [My impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
+
 - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
 - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
 - [Wireless is a trap](https://www.benkuhn.net/wireless/)
@@ -704,7 +735,6 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [How I Designed a Dieter Rams inspired iPhone Dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 - [The challenge of updating InsydeH2O UEFI with Linux](https://thebrokenrail.com/2024/09/29/the-challenge-of-insyde-h2o.html)
 - [DDR4 memory organization and how it affects memory bandwidth](https://blog.cloudflare.com/ddr4-memory-organization-and-how-it-affects-memory-bandwidth/)
-- [Can Dell’s 6K monitor beat their 8K monitor? (2023)](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 - [Using an 8K TV as a monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
 - [Using a Samsung QN700B 8k TV as a Monitor](https://scottstuff.net/posts/2023/10/10/samsung-8k/)
 - [How Do AirTags Work ](https://newsletter.systemdesign.one/p/how-do-airtags-work)
@@ -723,17 +753,6 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
 - [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)
 - [How To Build A Smartwatch: Software - Setting Expectations & Roadmap](https://ericmigi.com/blog/how-to-build-a-smartwatch-software-setting-expectations-and-roadmap#pebble-mobile-app)
-
-- [stapelberg uses this: my 2020 desk setup (2020)](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/)
-- [25 Gigabit Linux internet router PC build (2021)](https://michael.stapelberg.ch/posts/2021-07-10-linux-25gbit-internet-router-pc-build/)
-- [MacBook Air M1: the best laptop? (2021)](https://michael.stapelberg.ch/posts/2021-11-28-macbook-air-m1/)
-- [My 2022 high-end Linux PC 🐧 (2022)](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
-- [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
-- [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
-- [Intel 9 285K on ASUS Z890: not stable!](https://michael.stapelberg.ch/posts/2025-03-19-intel-core-ultra-9-285k-on-asus-z890-not-stable/)
-- [My 2025 high-end Linux PC 🐧](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
-- [Bye Intel, hi AMD! I’m done after 2 dead Intels](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
-- [My impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
 
 ## Kindle
 
