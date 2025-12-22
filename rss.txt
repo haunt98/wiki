@@ -48,6 +48,7 @@ https://raphlinus.github.io/feed.xml
 https://registerspill.thorstenball.com/feed
 https://research.swtch.com/feed.atom
 https://rosenzweig.io/feed.xml
+https://samwho.dev/rss.xml
 https://sirupsen.com/atom.xml
 https://stephango.com/feed.xml
 https://tonsky.me/atom.xml
