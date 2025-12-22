@@ -53,6 +53,7 @@ https://sirupsen.com/atom.xml
 https://stephango.com/feed.xml
 https://tonsky.me/atom.xml
 https://words.filippo.io/rss
+https://world.hey.com/jason/feed.atom
 https://www.airs.com/blog/feed
 https://www.engineersneedart.com/rss.xml
 https://www.imperialviolet.org/iv-rss.xml
