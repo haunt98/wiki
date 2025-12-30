@@ -119,6 +119,7 @@ https://github.com/grpc/grpc-go/tags.atom
 https://github.com/hashicorp/go-version/tags.atom
 https://github.com/hashicorp/golang-lru/tags.atom
 https://github.com/kei2100/protoc-gen-marshal-zap/tags.atom
+https://github.com/klauspost/compress/tags.atom
 https://github.com/looplab/fsm/tags.atom
 https://github.com/makiuchi-d/gozxing/tags.atom
 https://github.com/minio/minio-go/tags.atom
