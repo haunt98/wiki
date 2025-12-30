@@ -140,6 +140,7 @@ For example rate is 1 request per second, burst is 3 requests.
 - [exponential rate limiting](https://dotat.at/@/2024-09-02-ewma.html)
 - [Some notes on (Tony Finch's) exponential rate limiting in practice](https://utcc.utoronto.ca/~cks/space/blog/programming/RatelimitExponentialNotes)
 - [2025-09-14 – a few notes on ratelimiting](https://dotat.at/@/2025-09-14-ratelimit.html)
+- [Sliding window rate limits in distributed systems](https://engineering.grab.com/frequency-capping):
 
 ## OAuth
 

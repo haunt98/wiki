@@ -152,6 +152,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 - [Pure and impure software engineering](https://www.seangoedecke.com/pure-and-impure-engineering/)
 - [How projects fail at large tech companies](https://www.seangoedecke.com/how-projects-fail/)
+- [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/):
 
 - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 - [Nerd-sniped: Project Search](https://zed.dev/blog/nerd-sniped-project-search)
@@ -343,6 +344,7 @@ const EoA = struct {
 - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
 - [Why UUIDs won't protect your secrets](https://alexsci.com/blog/uuids-and-idor/)
 - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
+- [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios):
 
 - Time
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
@@ -427,19 +429,19 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Python Performance: Why 'if not list' is 2x Faster Than Using len()](https://blog.codingconfessions.com/p/python-performance-why-if-not-list)
 - [Sneak peek: A new ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 - [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
+- [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 
 ## Zig/Rust
 
 ### References
 
+- Zig
 - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html#Zig-And-Rust)
 - [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
 - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
+- [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html)
 
-## Rust
-
-### References
-
+- Rust
 - [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
 - [Rust's BufRead, And When To Use It](https://www.brandons.me/blog/bufread-and-when-to-use-it)
 - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
@@ -492,6 +494,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [The Design of the New Swiss Passport](https://kottke.org/25/03/the-design-of-the-new-swiss-passport)
 - [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
 - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
+- [Fifty problems with standard web APIs in 2025](https://zerotrickpony.com/articles/browser-bugs/)
 
 ## Security
 
@@ -547,6 +550,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Encrypting Files with Passkeys and age](https://words.filippo.io/passkey-encryption/)
 - [ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption for any CPU](https://kerkour.com/chacha12-blake3)
 - [Understanding zero-knowledge proofs](https://www.avestura.dev/blog/zero-knowledge-proofs)
+- [Embracing passwordless authentication with Grab’s Passkey](https://engineering.grab.com/embracing-passwordless-authentication-with-passkey)
 
 - Hack
 - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
@@ -574,7 +578,8 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Taming 2,500 compiler warnings with CodeQL, an OpenVPN2 case study](https://blog.trailofbits.com/2025/09/25/taming-2500-compiler-warnings-with-codeql-an-openvpn2-case-study/)
 - [Kể chuyện hack hacker](https://vnhacker.substack.com/p/ke-chuyen-hack-hacker)
 - [A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](https://words.filippo.io/compromise-survey/)
-- [The 2025 Go Cryptography State of the Union ](https://words.filippo.io/2025-state/)
+- [The 2025 Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
+- [MongoBleed explained simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
 
 ## Misc
 
@@ -658,6 +663,8 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
 - [Apple’s attempt at system-wide filtering API — is it good? AdGuard’s research](https://adguard.com/en/blog/apple-url-filter-system-wide-filtering-api.html)
 - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
+- [Road localisation in GrabMaps](https://engineering.grab.com/road-localisation-grabmaps)
+- [Building hyperlocal GrabMaps](https://engineering.grab.com/building-hyperlocal-grabmaps)
 
 - git
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)

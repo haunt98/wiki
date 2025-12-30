@@ -6,6 +6,7 @@ https://aresluna.org/main.rss
 https://ariadne.space/feed.xml
 https://arslan.io/rss
 https://beej.us/blog/rss.xml
+https://bigdata.2minutestreaming.com/feed
 https://blog.arrowtype.com/rss.xml
 https://blog.codinghorror.com/rss/
 https://blog.trailofbits.com/index.xml
@@ -55,6 +56,7 @@ https://tonsky.me/atom.xml
 https://words.filippo.io/rss
 https://world.hey.com/jason/feed.atom
 https://www.airs.com/blog/feed
+https://www.allthingsdistributed.com/atom.xml
 https://www.engineersneedart.com/rss.xml
 https://www.imperialviolet.org/iv-rss.xml
 https://www.seangoedecke.com/rss.xml
