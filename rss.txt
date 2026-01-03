@@ -1,3 +1,4 @@
+https://00f.net/atom.xml
 https://0pointer.net/blog/index.atom
 https://andrewkelley.me/rss.xml
 https://antirez.com/rss
@@ -15,6 +16,7 @@ https://brandur.org/fragments.atom
 https://brooker.co.za/blog/atom.xml
 https://burntsushi.net/index.xml
 https://calv.info/atom.xml
+https://cnr.sh/atom.xml
 https://code.dblock.org/feed.xml
 https://daniel.haxx.se/blog/feed/
 https://dave.cheney.net/feed/atom
@@ -59,6 +61,7 @@ https://www.airs.com/blog/feed
 https://www.allthingsdistributed.com/atom.xml
 https://www.engineersneedart.com/rss.xml
 https://www.imperialviolet.org/iv-rss.xml
+https://www.morling.dev/blog/index.xml
 https://www.seangoedecke.com/rss.xml
 https://www.somethingsimilar.com/feed
 https://xenodium.com/feed
@@ -74,15 +77,17 @@ https://golangweekly.com/rss/
 https://neovim.io/news.xml
 https://zed.dev/blog.rss
 https://lwn.net/headlines/weekly_big
+https://archlinux.org/feeds/news/
 https://devblog.archlinux.page/atom.xml
 https://asahilinux.org/blog/index.xml
 https://tigerbeetle.com/blog/atom.xml
 https://blog.elementary.io/feed.xml
 https://developer.apple.com/news/releases/rss/releases.rss
 https://rsshub.app/amazon/kindle/software-updates
-https://pagedout.institute/atom.xml
 
+https://pagedout.institute/atom.xml
 https://engineering.grab.com/feed.xml
+https://turbopuffer.com/blog/rss.xml
 
 https://kbd.news/rss.php
 https://www.theremingoat.com/blog?format=rss

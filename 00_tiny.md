@@ -665,6 +665,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 - [Road localisation in GrabMaps](https://engineering.grab.com/road-localisation-grabmaps)
 - [Building hyperlocal GrabMaps](https://engineering.grab.com/building-hyperlocal-grabmaps)
+- [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
 
 - git
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
