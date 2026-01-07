@@ -495,6 +495,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
 - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 - [Fifty problems with standard web APIs in 2025](https://zerotrickpony.com/articles/browser-bugs/)
+- [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 
 ## Security
 
@@ -693,6 +694,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [How I maintain release notes for curl](https://daniel.haxx.se/blog/2025/10/01/how-i-maintain-release-notes-for-curl/)
 - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 - [Terminal Emulators Battle Royale – Unicode Edition!](https://www.jeffquast.com/post/ucs-detect-test-results/)
+- [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
 
 - macOS
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
