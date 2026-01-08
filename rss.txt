@@ -94,7 +94,6 @@ https://www.theremingoat.com/blog?format=rss
 https://github.com/qmk/qmk_firmware/tags.atom
 
 https://hnrss.org/threads?id=FiloSottile
-https://hnrss.org/threads?id=antirez
 https://hnrss.org/threads?id=mitchellh
 
 https://github.com/DATA-DOG/go-sqlmock/tags.atom
