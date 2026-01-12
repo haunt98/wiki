@@ -138,6 +138,8 @@ Create a mess to make sure it work, then keep cleaning up later.
 - Tier 2
 - [How to peacefully grow your service](https://rakyll.medium.com/how-to-peacefully-grow-your-service-c40c25fe097f)
 - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects):
+- [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
+- [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 - [Trying to impress people you don't respect](https://www.seangoedecke.com/impressing-people/):
 - [How to become passionate about delivering shareholder value](https://www.seangoedecke.com/shareholder-value/):
@@ -153,6 +155,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Pure and impure software engineering](https://www.seangoedecke.com/pure-and-impure-engineering/)
 - [How projects fail at large tech companies](https://www.seangoedecke.com/how-projects-fail/)
 - [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/):
+- [AWS Lambda turns 10: A rare look at the doc that started it](https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html):
 
 - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 - [Nerd-sniped: Project Search](https://zed.dev/blog/nerd-sniped-project-search)
@@ -345,6 +348,8 @@ const EoA = struct {
 - [Why UUIDs won't protect your secrets](https://alexsci.com/blog/uuids-and-idor/)
 - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 - [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios):
+- [I've been writing ring buffers wrong all these years](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
+- [Optimizing a breadth-first search](https://www.snellman.net/blog/archive/2018-07-23-optimizing-breadth-first-search/)
 
 - Time
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
