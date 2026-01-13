@@ -282,11 +282,13 @@ const EoA = struct {
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
-- [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
+- [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
+- [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
+- [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
 
 - Tier 2
 - [Stripe V2](https://brandur.org/fragments/stripe-v2)
@@ -339,7 +341,6 @@ const EoA = struct {
 - [A brief history of the User-Agent string](https://nielsleenheer.com/articles/2024/a-brief-history-of-the-user-agent-string/)
 - [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
-- [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 - [Data types for humans](https://herbcaudill.com/words/20181223-data-types-for-humans)
 - [If I hear "design pattern" one more time, I'll go mad](https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/):
 - [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
