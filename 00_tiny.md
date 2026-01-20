@@ -587,6 +587,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](https://words.filippo.io/compromise-survey/)
 - [The 2025 Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
 - [MongoBleed explained simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
+- [CodeBreach: Infiltrating the AWS Console Supply Chain and Hijacking AWS GitHub Repositories via CodeBuild](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild)
 
 ## Misc
 

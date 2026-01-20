@@ -1,5 +1,6 @@
 https://00f.net/atom.xml
 https://0pointer.net/blog/index.atom
+https://alexharri.com/rss.xml
 https://andrewkelley.me/rss.xml
 https://antirez.com/rss
 https://apenwarr.ca/log/rss.php
