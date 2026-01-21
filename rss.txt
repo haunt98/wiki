@@ -44,6 +44,7 @@ https://michael.stapelberg.ch/feed.xml
 https://mitchellh.com/feed.xml
 https://notes.eatonphil.com/rss.xml
 https://oppi.li/index.xml
+https://paulstamatiou.com/posts.xml
 https://programmingisterrible.com/rss
 https://rakyll.org/index.xml
 https://randomascii.wordpress.com/feed/
