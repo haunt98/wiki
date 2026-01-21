@@ -76,19 +76,20 @@ https://vuhavan.wordpress.com/feed/
 https://go.dev/blog/feed.atom
 https://golangweekly.com/rss/
 https://neovim.io/news.xml
-https://zed.dev/blog.rss
 https://lwn.net/headlines/weekly_big
 https://archlinux.org/feeds/news/
 https://devblog.archlinux.page/atom.xml
 https://asahilinux.org/blog/index.xml
-https://tigerbeetle.com/blog/atom.xml
-https://blog.elementary.io/feed.xml
-https://developer.apple.com/news/releases/rss/releases.rss
-https://rsshub.app/amazon/kindle/software-updates
 
-https://pagedout.institute/atom.xml
+https://zed.dev/blog.rss
+https://buf.build/blog/rss.xml
+https://tigerbeetle.com/blog/atom.xml
 https://engineering.grab.com/feed.xml
 https://turbopuffer.com/blog/rss.xml
+https://blog.elementary.io/feed.xml
+https://pagedout.institute/atom.xml
+https://developer.apple.com/news/releases/rss/releases.rss
+https://rsshub.app/amazon/kindle/software-updates
 
 https://kbd.news/rss.php
 https://www.theremingoat.com/blog?format=rss
