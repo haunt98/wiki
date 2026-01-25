@@ -286,6 +286,9 @@ const EoA = struct {
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
+- [Tracking Time Without Clock](https://tigerbeetle.com/blog/2025-10-21-clockless-time/)
+- [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
+- [One for the Treble, Two for the Time](https://tigerbeetle.com/blog/2026-01-14-bitemporality/)
 - [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
 - [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 - [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
@@ -442,12 +445,15 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 ### References
 
 - Zig
-- [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html#Zig-And-Rust)
 - [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
-- [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
+- [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html#Zig-And-Rust)
+- [Error Codes for Control Flow](https://matklad.github.io/2025/11/06/error-codes-for-control-flow.html)
 - [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html)
+- [Don't Trip[wire] Yourself: Testing Error Recovery in Zig](https://mitchellh.com/writing)
+- [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
 
 - Rust
+- [Considering Strictly Monotonic Time](https://matklad.github.io/2026/01/23/strictly-monotonic-time.html)
 - [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
 - [Rust's BufRead, And When To Use It](https://www.brandons.me/blog/bufread-and-when-to-use-it)
 - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
@@ -675,6 +681,9 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Building hyperlocal GrabMaps](https://engineering.grab.com/building-hyperlocal-grabmaps)
 - [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
 - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
+- [An introduction to XET, Hugging Face's storage system (part 1)](https://00f.net/2026/01/19/xet-intro-1/)
+- [An introduction to XET, Hugging Face's storage system (part 2)](https://00f.net/2026/01/19/xet-intro-2/)
+- [Introducing go-cdc-chunkers: chunk and deduplicate everything](https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/)
 
 - git
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
@@ -703,7 +712,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 - [Terminal Emulators Battle Royale – Unicode Edition!](https://www.jeffquast.com/post/ucs-detect-test-results/)
 - [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
-
+- [TIL: Number in man page titles (e.g. sleep(3))](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 - macOS
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
