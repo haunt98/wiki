@@ -27,7 +27,6 @@ https://lalitm.com/index.xml
 https://lemire.me/blog/feed/
 https://lucumr.pocoo.org/feed.atom
 https://matklad.github.io/feed.xml
-https://matthewstrom.com/feed.xml
 https://mcyoung.xyz/atom.xml
 https://michael.stapelberg.ch/feed.xml
 https://mitchellh.com/feed.xml
