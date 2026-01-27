@@ -18,6 +18,7 @@ https://daniel.haxx.se/blog/feed/
 https://dave.cheney.net/feed/atom
 https://dotat.at/@/blog.atom
 https://drewdevault.com/blog/index.xml
+https://echasnovski.com/blog.xml
 https://ericmigi.com/rss.xml
 https://gpanders.com/index.xml
 https://jepsen.io/blog.atom
