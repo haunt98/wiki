@@ -68,12 +68,10 @@ https://buf.build/blog/rss.xml
 https://tigerbeetle.com/blog/atom.xml
 https://engineering.grab.com/feed.xml
 https://blog.elementary.io/feed.xml
-https://pagedout.institute/atom.xml
 https://developer.apple.com/news/releases/rss/releases.rss
 https://rsshub.app/amazon/kindle/software-updates
 
 https://kbd.news/rss.php
-https://www.theremingoat.com/blog?format=rss
 https://github.com/qmk/qmk_firmware/tags.atom
 
 https://hnrss.org/threads?id=FiloSottile
