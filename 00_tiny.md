@@ -169,6 +169,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Mastermind: Using Uber Engineering to Combat Fraud in Real Time](https://www.uber.com/en-VN/blog/mastermind/)
 - [Stopping Uber Fraudsters Through Risk Challenges](https://www.uber.com/en-VN/blog/stopping-uber-fraudsters-through-risk-challenges/)
 - [How Uber Processes Early Chargeback Signals](https://www.uber.com/en-VN/blog/how-uber-processes-early-chargeback-signals/)
+- [Forecasting Models to Improve Driver Availability at Airports](https://www.uber.com/en-DE/blog/forecasting-models-to-improve-availability-at-airports/):
 
 - Story
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
@@ -300,6 +301,7 @@ const EoA = struct {
 - [Dividing an array into fair sized chunks](https://lemire.me/blog/2025/05/22/dividing-an-array-into-fair-sized-chunks/)
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
+- [Building resilience in Spokes](https://github.blog/engineering/infrastructure/building-resilience-in-spokes/):
 - [Inside NGINX: How We Designed for Performance & Scale](https://blog.nginx.org/blog/inside-nginx-how-we-designed-for-performance-scale)
 - [Peeking into VALORANT's Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode)
 - [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
