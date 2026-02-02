@@ -280,9 +280,14 @@ const EoA = struct {
 
 - Tier 1
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
-- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+- [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems):
+- [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
+- [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
+- [Let’s Consign CAP to the Cabinet of Curiosities](https://brooker.co.za/blog/2024/07/25/cap-again.html):
+- [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
@@ -290,9 +295,6 @@ const EoA = struct {
 - [Tracking Time Without Clock](https://tigerbeetle.com/blog/2025-10-21-clockless-time/)
 - [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
 - [One for the Treble, Two for the Time](https://tigerbeetle.com/blog/2026-01-14-bitemporality/)
-- [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
-- [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
-- [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
 
 - Tier 2
 - [Stripe V2](https://brandur.org/fragments/stripe-v2)
