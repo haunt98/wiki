@@ -718,6 +718,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Terminal Emulators Battle Royale – Unicode Edition!](https://www.jeffquast.com/post/ucs-detect-test-results/)
 - [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
 - [TIL: Number in man page titles (e.g. sleep(3))](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
+
 - macOS
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
@@ -725,6 +726,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 - [Automatic dark mode for terminal applications](https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/)
 - [Automatic dark mode for Terminal Apps, Revisited](https://arslan.io/2025/06/06/automatic-dark-mode-for-terminal-apps-revisited/)
+- [Randomness on Apple Platforms](https://blog.xoria.org/randomness-on-apple-platforms/)
 
 - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 - [How do I run a docker instance from a DockerFile?](https://stackoverflow.com/a/36076856)
