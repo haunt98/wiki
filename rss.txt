@@ -47,6 +47,7 @@ https://transactional.blog/feed.xml
 https://words.filippo.io/rss
 https://www.airs.com/blog/feed
 https://www.allthingsdistributed.com/atom.xml
+https://www.jmduke.com/feed.xml
 https://www.morling.dev/blog/index.xml
 https://www.seangoedecke.com/rss.xml
 https://xn--gckvb8fzb.com/index.xml

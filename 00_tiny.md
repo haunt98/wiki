@@ -204,40 +204,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 
 ## Programming
 
-[Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
-
-Design URI/URL path to livelong. Keep out:
-
-- Author name (author can change name)
-- Status (wip, draft, …)
-- Filename extensions (.html, …)
-
-Good example: `http://www.w3.org/1998/12/01/chairs`
-
-[Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
-
-> The other problem is logs are such a stupid thing to have to store. 99.9999% of them are never useful, the ones that
-> are look exactly like the rest of them and you end up sticking them in object storage forever at some point where no
-> human being will ever interact with them until the end of time. The number of times I've written some variation on
-> "take terabytes of logs nobody has ever looked at from A and move to B" scripts is too high.
-
-[Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
-
-> Use prefixed tokens This took me years to stumble upon, but use a short prefix for each type of random ID you create.
-> Instead of generating an API token of Mk7vuCg9eptiV8qid4mn, make it appMk7vuCg9eptiV8qid4mn. Instead of a user key of
-> zo2iD3x3J9, use userzo2iD3x3J9. Pushover uses a for API tokens, u for user keys, g for group keys, s for subscribed
-> user keys, etc. This makes it easier for users to keep multiple keys/tokens straight when they all look like gibberish
-> and it makes it possible to automate helpful API error responses like "your token parameter has a user key instead of
-> an API token".
-
-- [When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
-- [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
-
-> This scenario is not new to the world of distributed computing and even has a name you may have heard of before:
-> **“The Thundering Herd” problem**. Large distributed systems like Facebook have dealt with far more extreme thundering
-> herds than the Taylor Swift fans. What happened to Ticketmaster is not an unsolved problem.
-
-[Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
+[Always use an enum for your status field](https://www.jmduke.com/posts/enums.html)
 
 > Shift is_active to something more generic: a status field, so we can expand it down the line for other parts of the
 > state space.
@@ -275,6 +242,39 @@ const EoA = struct {
    }
 }
 ```
+
+[Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
+
+Design URI/URL path to livelong. Keep out:
+
+- Author name (author can change name)
+- Status (wip, draft, …)
+- Filename extensions (.html, …)
+
+Good example: `http://www.w3.org/1998/12/01/chairs`
+
+[Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
+
+> The other problem is logs are such a stupid thing to have to store. 99.9999% of them are never useful, the ones that
+> are look exactly like the rest of them and you end up sticking them in object storage forever at some point where no
+> human being will ever interact with them until the end of time. The number of times I've written some variation on
+> "take terabytes of logs nobody has ever looked at from A and move to B" scripts is too high.
+
+[Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
+
+> Use prefixed tokens This took me years to stumble upon, but use a short prefix for each type of random ID you create.
+> Instead of generating an API token of Mk7vuCg9eptiV8qid4mn, make it appMk7vuCg9eptiV8qid4mn. Instead of a user key of
+> zo2iD3x3J9, use userzo2iD3x3J9. Pushover uses a for API tokens, u for user keys, g for group keys, s for subscribed
+> user keys, etc. This makes it easier for users to keep multiple keys/tokens straight when they all look like gibberish
+> and it makes it possible to automate helpful API error responses like "your token parameter has a user key instead of
+> an API token".
+
+- [When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
+- [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
+
+> This scenario is not new to the world of distributed computing and even has a name you may have heard of before:
+> **“The Thundering Herd” problem**. Large distributed systems like Facebook have dealt with far more extreme thundering
+> herds than the Taylor Swift fans. What happened to Ticketmaster is not an unsolved problem.
 
 ### References
 
