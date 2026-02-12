@@ -135,7 +135,6 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [The evasive evitability of enshittification](https://apenwarr.ca/log/20250530)
 - [Systems design 3: LLMs and the semantic revolution](https://apenwarr.ca/log/20251120)
 
-- Tier 2
 - [How to peacefully grow your service](https://rakyll.medium.com/how-to-peacefully-grow-your-service-c40c25fe097f)
 - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects):
 - [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
@@ -171,7 +170,6 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [How Uber Processes Early Chargeback Signals](https://www.uber.com/en-VN/blog/how-uber-processes-early-chargeback-signals/)
 - [Forecasting Models to Improve Driver Availability at Airports](https://www.uber.com/en-DE/blog/forecasting-models-to-improve-availability-at-airports/):
 
-- Story
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
 - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 - [Lessons learned from 15 years of SumatraPDF, an open source Windows app](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
@@ -195,6 +193,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Reflections on OpenAI](https://calv.info/openai-reflections)
 - [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
 - [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
+- [Accidental or Essential? Understanding Complexity in Software Design](https://www.iankduncan.com/engineering/2025-05-26-when-is-complexity-accidental):
 
 - Incident
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
@@ -309,6 +308,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
     - https://news.ycombinator.com/item?id=3058327
 - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
+- [A new hash table](https://valkey.io/blog/new-hash-table/)
 
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
@@ -358,6 +358,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios):
 - [I've been writing ring buffers wrong all these years](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
 - [Optimizing a breadth-first search](https://www.snellman.net/blog/archive/2018-07-23-optimizing-breadth-first-search/)
+- [Rendering 100k trace events faster with exponential search](https://lalitm.com/post/exponential-search/)
 
 - Time
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
@@ -569,6 +570,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption for any CPU](https://kerkour.com/chacha12-blake3)
 - [Understanding zero-knowledge proofs](https://www.avestura.dev/blog/zero-knowledge-proofs)
 - [Embracing passwordless authentication with Grab’s Passkey](https://engineering.grab.com/embracing-passwordless-authentication-with-passkey)
+- [Don't pass on small block ciphers](https://00f.net/2026/02/10/small-block-ciphers/)
 
 - Hack
 - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
@@ -689,6 +691,8 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [An introduction to XET, Hugging Face's storage system (part 1)](https://00f.net/2026/01/19/xet-intro-1/)
 - [An introduction to XET, Hugging Face's storage system (part 2)](https://00f.net/2026/01/19/xet-intro-2/)
 - [Introducing go-cdc-chunkers: chunk and deduplicate everything](https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/)
+- [Punycode: My New Favorite Algorithm](https://www.iankduncan.com/engineering/2025-12-01-punycode)
+- [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
 
 - git
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
