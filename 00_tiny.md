@@ -203,7 +203,8 @@ Create a mess to make sure it work, then keep cleaning up later.
 
 ## Programming
 
-[Always use an enum for your status field](https://www.jmduke.com/posts/enums.html)
+- [Always use an enum for your status field](https://www.jmduke.com/posts/enums.html)
+- [One status field per model](https://www.jmduke.com/posts/one-status-field-per-model.html):
 
 > Shift is_active to something more generic: a status field, so we can expand it down the line for other parts of the
 > state space.
