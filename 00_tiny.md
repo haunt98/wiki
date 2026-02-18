@@ -500,23 +500,25 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Nokia sans character](https://spiekermann.com/en/nokia-sans-character/)
 
 - Design
-- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 - [The invisible problem](https://jenson.org/text/)
 - [Design can be free](https://jenson.org/free/)
 - [Design can be free (part 2)](https://jenson.org/free2/)
 - [Design can be free (part 3)](https://jenson.org/free3/)
 - [Tactile Controls In A Digital World](https://jenson.org/airpod/)
-- [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
 - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
+- [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
+- [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
+- [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
+- [Justifying text-wrap: pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)
 - [Heart of dark mode: done, and still in progress](https://tailscale.com/blog/heart-of-dark-mode)
+
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 - [The polish paradox](https://matthewstrom.com/writing/the-polish-paradox/)
+- [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
 - [The Design of the New Swiss Passport](https://kottke.org/25/03/the-design-of-the-new-swiss-passport)
-- [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
-- [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 - [Fifty problems with standard web APIs in 2025](https://zerotrickpony.com/articles/browser-bugs/)
-- [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 
 ## Security
 
