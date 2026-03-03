@@ -709,6 +709,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [The Myers diff algorithm: part 2](https://blog.jcoglan.com/2017/02/15/the-myers-diff-algorithm-part-2/)
 - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
 - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
+- [Git's Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
 
 - Linux
 - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
