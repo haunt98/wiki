@@ -267,6 +267,7 @@ sequenceDiagram
 - [A beginner's guide to OAuth 2.0](https://pilcrowonpaper.com/blog/oauth-guide/)
 - [Dear OAuth providers](https://pilcrowonpaper.com/blog/dear-oauth-providers/)
 - [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
+- [What is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
 
 ## [RAFT Consensus Algorithm](https://raft.github.io/)
 
