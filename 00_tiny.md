@@ -311,6 +311,8 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
     - https://news.ycombinator.com/item?id=3058327
 - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 - [A new hash table](https://valkey.io/blog/new-hash-table/)
+- [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios):
+- [Reclaiming Terabytes: Optimizing Android image caching with TLRU](https://engineering.grab.com/reclaiming-tetabytes-optimizing-android-image-caching-with-tlru)
 
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
@@ -357,7 +359,6 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
 - [Why UUIDs won't protect your secrets](https://alexsci.com/blog/uuids-and-idor/)
 - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
-- [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios):
 - [I've been writing ring buffers wrong all these years](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
 - [Optimizing a breadth-first search](https://www.snellman.net/blog/archive/2018-07-23-optimizing-breadth-first-search/)
 - [Rendering 100k trace events faster with exponential search](https://lalitm.com/post/exponential-search/)
@@ -666,6 +667,17 @@ openssl pkey -in private.pem -pubout -out public.pem
 
 ### References
 
+- [Searchable Linux Syscall Table](https://filippo.io/linux-syscall-table/)
+- [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
+- [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
+- [An introduction to XET, Hugging Face's storage system (part 1)](https://00f.net/2026/01/19/xet-intro-1/)
+- [An introduction to XET, Hugging Face's storage system (part 2)](https://00f.net/2026/01/19/xet-intro-2/)
+- [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
+- [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
+- [Apple’s attempt at system-wide filtering API — is it good? AdGuard’s research](https://adguard.com/en/blog/apple-url-filter-system-wide-filtering-api.html)
+- [Road localisation in GrabMaps](https://engineering.grab.com/road-localisation-grabmaps)
+- [Building hyperlocal GrabMaps](https://engineering.grab.com/building-hyperlocal-grabmaps)
+
 - [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
 - [Hello, PNG!](https://www.da.vidbuchanan.co.uk/blog/hello-png.html)
@@ -674,32 +686,23 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Fun with IP address parsing](https://blog.dave.tf/post/ip-addr-parsing/)
 - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 - [The Fastest, Safest PNG Decoder in the World](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html)
-- [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)
 - [getaddrinfo sucks. everything else is much worse](https://valentin.gosu.se/blog/2025/02/getaddrinfo-sucks-everything-else-is-much-worse)
 - [The mistakes and missed opportunities in the design of IPv6 - episode 1](https://ipv6.hanazo.no/posts/ipv6-missed-opportunities-1/)
 - [100 years to solve an integral](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
 - [Prototyping a Smoother Map](https://medium.com/google-design/google-maps-cb0326d165f5)
-- [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
-- [Searchable Linux Syscall Table](https://filippo.io/linux-syscall-table/)
 - [Security Standards and Name Changes in the Browser Wars](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 - [Why JPEGs Still Rule the Web](https://spectrum.ieee.org/jpeg-image-format-history)
 - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
 - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
 - [A love letter to the CSV format](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/):
-- [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
-- [Apple’s attempt at system-wide filtering API — is it good? AdGuard’s research](https://adguard.com/en/blog/apple-url-filter-system-wide-filtering-api.html)
 - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
-- [Road localisation in GrabMaps](https://engineering.grab.com/road-localisation-grabmaps)
-- [Building hyperlocal GrabMaps](https://engineering.grab.com/building-hyperlocal-grabmaps)
-- [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
 - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
-- [An introduction to XET, Hugging Face's storage system (part 1)](https://00f.net/2026/01/19/xet-intro-1/)
-- [An introduction to XET, Hugging Face's storage system (part 2)](https://00f.net/2026/01/19/xet-intro-2/)
 - [Introducing go-cdc-chunkers: chunk and deduplicate everything](https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/)
 - [Punycode: My New Favorite Algorithm](https://www.iankduncan.com/engineering/2025-12-01-punycode)
 - [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
+- [Put the ZIP code first.](https://zipcodefirst.com/)
 
 - git
 - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
@@ -713,6 +716,8 @@ openssl pkey -in private.pem -pubout -out public.pem
 
 - Linux
 - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
+- [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
+- [How I maintain release notes for curl](https://daniel.haxx.se/blog/2025/10/01/how-i-maintain-release-notes-for-curl/)
 - [Faster and enjoyable ZSH (maybe)](https://htr3n.github.io/2018/07/faster-zsh/)
 - [State of input method](https://dorotac.eu/posts/input_broken/)
 - [systemd by example](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
@@ -725,10 +730,8 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Curate your shell history](https://esham.io/2025/05/shell-history)
 - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
 - [Why is my Raspberry Pi 4 too slow as a server?](https://ergaster.org/posts/2025/06/24-why-restore-raspi-slow/)
-- [How I maintain release notes for curl](https://daniel.haxx.se/blog/2025/10/01/how-i-maintain-release-notes-for-curl/)
 - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 - [Terminal Emulators Battle Royale – Unicode Edition!](https://www.jeffquast.com/post/ucs-detect-test-results/)
-- [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
 - [TIL: Number in man page titles (e.g. sleep(3))](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 
 - macOS
@@ -740,13 +743,13 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Automatic dark mode for Terminal Apps, Revisited](https://arslan.io/2025/06/06/automatic-dark-mode-for-terminal-apps-revisited/)
 - [Randomness on Apple Platforms](https://blog.xoria.org/randomness-on-apple-platforms/)
 
+- [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
 - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 - [How do I run a docker instance from a DockerFile?](https://stackoverflow.com/a/36076856)
 - [Understanding DNS resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
 - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [Adding GeoIP alerting to your SSH logins](https://ivo.palli.nl/2024/07/18/adding-geoip-alerting-to-your-ssh-logins/)
-- [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
 - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
 - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 - [Building Container Images FROM Scratch: 6 Pitfalls That Are Often Overlooked](https://labs.iximiuz.com/tutorials/pitfalls-of-from-scratch-images)
