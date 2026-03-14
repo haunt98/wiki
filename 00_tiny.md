@@ -380,15 +380,16 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Cuckoo hashing improves SIMD hash tables (and other hash table tradeoffs)](https://reiner.org/cuckoo-hashing)
 
 - CRDT
-- [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 - [CRDT: Fractional Indexing](https://madebyevan.com/algos/crdt-fractional-indexing/)
 - [CRDT: Tree-Based Indexing](https://madebyevan.com/algos/crdt-tree-based-indexing/)
 - [CRDT: Mutable Tree Hierarchy](https://madebyevan.com/algos/crdt-mutable-tree-hierarchy/)
 - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
-- [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
+- [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 - [How CRDTs make multiplayer text editing part of Zed's DNA](https://zed.dev/blog/crdts)
-- [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
+- [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
+- [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
+- [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
 
 ## C
 

@@ -88,6 +88,8 @@ https://github.com/hashicorp/golang-lru/tags.atom
 https://github.com/kei2100/protoc-gen-marshal-zap/tags.atom
 https://github.com/klauspost/compress/tags.atom
 https://github.com/minio/minio-go/tags.atom
+https://github.com/minio/minlz/tags.atom
+https://github.com/pgavlin/aho-corasick/tags.atom
 https://github.com/prometheus/client_golang/tags.atom
 https://github.com/protocolbuffers/protobuf-go/tags.atom
 https://github.com/redis/go-redis/tags.atom
