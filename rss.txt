@@ -62,6 +62,7 @@ https://lwn.net/headlines/weekly_big
 https://archlinux.org/feeds/news/
 https://devblog.archlinux.page/atom.xml
 https://asahilinux.org/blog/index.xml
+https://cachyos.org/rss.xml
 
 https://zed.dev/blog.rss
 https://buf.build/blog/rss.xml

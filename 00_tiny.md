@@ -481,6 +481,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 - [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
 - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
+- [The 2FA app that tells you when you get `314159`](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns)
 
 ## Design/Typography
 
