@@ -135,7 +135,6 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [The evasive evitability of enshittification](https://apenwarr.ca/log/20250530)
 - [Systems design 3: LLMs and the semantic revolution](https://apenwarr.ca/log/20251120)
 
-- [How to peacefully grow your service](https://rakyll.medium.com/how-to-peacefully-grow-your-service-c40c25fe097f)
 - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects):
 - [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
 - [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
@@ -269,8 +268,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 > and it makes it possible to automate helpful API error responses like "your token parameter has a user key instead of
 > an API token".
 
-- [When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
-- [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
+[When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://learningdaily.dev/when-taylor-swift-crashed-ticketmaster-a-lesson-on-scaling-for-spikes-9931e2c888e9)
 
 > This scenario is not new to the world of distributed computing and even has a name you may have heard of before:
 > **“The Thundering Herd” problem**. Large distributed systems like Facebook have dealt with far more extreme thundering
@@ -595,7 +593,6 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 - [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
 - [The Six Dumbest Ideas in Computer Security](https://www.ranum.com/security/computer_security/editorials/dumb/)
-- [How I hacked hundreds of companies through their helpdesk](https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c)
 - [1 bug, $50,000+ in bounties, how Zendesk intentionally left a backdoor in hundreds of Fortune 500 companies](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 - [How we Outsmarted CSGO Cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
 - [Hacking 700 Million Electronic Arts Accounts](https://battleda.sh/blog/ea-account-takeover)
@@ -693,7 +690,6 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [getaddrinfo sucks. everything else is much worse](https://valentin.gosu.se/blog/2025/02/getaddrinfo-sucks-everything-else-is-much-worse)
 - [The mistakes and missed opportunities in the design of IPv6 - episode 1](https://ipv6.hanazo.no/posts/ipv6-missed-opportunities-1/)
 - [100 years to solve an integral](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
-- [Prototyping a Smoother Map](https://medium.com/google-design/google-maps-cb0326d165f5)
 - [Security Standards and Name Changes in the Browser Wars](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 - [Why JPEGs Still Rule the Web](https://spectrum.ieee.org/jpeg-image-format-history)
 - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
@@ -831,7 +827,6 @@ touch /Volumes/Kindle/system/._.assets
 - [My Guide To Writing A Killer Cover Letter](https://www.reddit.com/r/datascience/comments/tag8l5/my_guide_to_writing_a_killer_cover_letter/)
 - [NDAs and Contracts That You Should Never Sign](https://www.joelonsoftware.com/2000/03/28/ndas-and-contracts-that-you-should-never-sign/)
 - [Contracts you should never sign](https://vadimkravcenko.com/about-me/)
-- [This is how we make slides at Apple.](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d)
 - [Do Things that Don't Scale](https://paulgraham.com/ds.html)
 
 ## Money
