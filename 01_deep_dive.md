@@ -60,7 +60,7 @@ t := transform.Chain(norm.NFD, transform.RemoveFunc(isMn), norm.NFC)
 - [Flexible and Economical UTF-8 Decoder](https://bjoern.hoehrmann.de/utf-8/decoder/dfa/)
 - [Decoding UTF8 with Parallel Extract](https://nrk.neocities.org/articles/utf8-pext)
 - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
-- [UTF-8 is a Brilliant Design](https://iamvishnu.com/posts/utf8-is-brilliant-design):
+- [UTF-8 is a Brilliant Design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
 - [The history of UTF-8 as told by Rob Pike](https://doc.cat-v.org/bell_labs/utf-8_history)
 - [Koan 15: The Invisible Ink](https://pythonkoans.substack.com/p/koan-15-the-invisible-ink)
 - [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
@@ -142,7 +142,7 @@ For example rate is 1 request per second, burst is 3 requests.
 - [Some notes on (Tony Finch's) exponential rate limiting in practice](https://utcc.utoronto.ca/~cks/space/blog/programming/RatelimitExponentialNotes)
 
 - [Scaling Our Rate Limits to Prepare for a Billion Active Certificates](https://letsencrypt.org/2025/01/30/scaling-rate-limits/)
-- [Sliding window rate limits in distributed systems](https://engineering.grab.com/frequency-capping):
+- [Sliding window rate limits in distributed systems](https://engineering.grab.com/frequency-capping)
 - [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
 - [Designing and implementing a sliding window based rate limiter](https://arpitbhayani.me/blogs/sliding-window-ratelimiter)
 

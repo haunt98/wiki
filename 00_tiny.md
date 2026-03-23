@@ -135,39 +135,40 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [The evasive evitability of enshittification](https://apenwarr.ca/log/20250530)
 - [Systems design 3: LLMs and the semantic revolution](https://apenwarr.ca/log/20251120)
 
-- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects):
+- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 - [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
 - [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
-- [Trying to impress people you don't respect](https://www.seangoedecke.com/impressing-people/):
-- [How to become passionate about delivering shareholder value](https://www.seangoedecke.com/shareholder-value/):
+- [Trying to impress people you don't respect](https://www.seangoedecke.com/impressing-people/)
+- [How to become passionate about delivering shareholder value](https://www.seangoedecke.com/shareholder-value/)
 - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 - [Finding the low-hanging fruit](https://www.seangoedecke.com/low-hanging-fruit/)
 - ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)
 - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
-- [Protecting your time from predators in large tech companies](https://www.seangoedecke.com/predators/):
+- [Protecting your time from predators in large tech companies](https://www.seangoedecke.com/predators/)
 - [Senior engineers should make side bets](https://www.seangoedecke.com/side-bets/)
 - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
 - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
 - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 - [Pure and impure software engineering](https://www.seangoedecke.com/pure-and-impure-engineering/)
 - [How projects fail at large tech companies](https://www.seangoedecke.com/how-projects-fail/)
-- [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/):
-- [AWS Lambda turns 10: A rare look at the doc that started it](https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html):
+- [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/)
+- [AWS Lambda turns 10: A rare look at the doc that started it](https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html)
 
 - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 - [Nerd-sniped: Project Search](https://zed.dev/blog/nerd-sniped-project-search)
 - [Zed Has Rainbow Brackets](https://zed.dev/blog/rainbow-brackets#performance)
 - [How We Rebuilt Settings in Zed](https://zed.dev/blog/settings-ui)
 - [Stop saying “technical debt”](https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/)
-- [You Want Microservices, But Do You Really Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/):
+- [You Want Microservices, But Do You Really Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
 - [Goodbye Microservices: From 100s of problem children to 1 superstar](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
 - [Modernizing Reddit's Comment Backend Infrastructure](https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/)
 - [Keeping Figma fast](https://www.figma.com/blog/keeping-figma-fast/)
 - [Mastermind: Using Uber Engineering to Combat Fraud in Real Time](https://www.uber.com/en-VN/blog/mastermind/)
 - [Stopping Uber Fraudsters Through Risk Challenges](https://www.uber.com/en-VN/blog/stopping-uber-fraudsters-through-risk-challenges/)
 - [How Uber Processes Early Chargeback Signals](https://www.uber.com/en-VN/blog/how-uber-processes-early-chargeback-signals/)
-- [Forecasting Models to Improve Driver Availability at Airports](https://www.uber.com/en-DE/blog/forecasting-models-to-improve-availability-at-airports/):
+- [Forecasting Models to Improve Driver Availability at Airports](https://www.uber.com/en-DE/blog/forecasting-models-to-improve-availability-at-airports/)
+- [Building High Throughput Payment Account Processing](https://www.uber.com/en-EG/blog/high-throughput-processing/)
 
 - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/en/posts/redis/)
 - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
@@ -192,18 +193,18 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Reflections on OpenAI](https://calv.info/openai-reflections)
 - [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
 - [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
-- [Accidental or Essential? Understanding Complexity in Software Design](https://www.iankduncan.com/engineering/2025-05-26-when-is-complexity-accidental):
+- [Accidental or Essential? Understanding Complexity in Software Design](https://www.iankduncan.com/engineering/2025-05-26-when-is-complexity-accidental)
 
 - Incident
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
 - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
-- [The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/):
+- [The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/)
 - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
 
 ## Programming
 
 - [Always use an enum for your status field](https://www.jmduke.com/posts/enums.html)
-- [One status field per model](https://www.jmduke.com/posts/one-status-field-per-model.html):
+- [One status field per model](https://www.jmduke.com/posts/one-status-field-per-model.html)
 
 > Shift is_active to something more generic: a status field, so we can expand it down the line for other parts of the
 > state space.
@@ -280,10 +281,10 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
-- [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems):
+- [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
 - [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
 - [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
-- [Let’s Consign CAP to the Cabinet of Curiosities](https://brooker.co.za/blog/2024/07/25/cap-again.html):
+- [Let’s Consign CAP to the Cabinet of Curiosities](https://brooker.co.za/blog/2024/07/25/cap-again.html)
 - [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
@@ -302,14 +303,14 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Dividing an array into fair sized chunks](https://lemire.me/blog/2025/05/22/dividing-an-array-into-fair-sized-chunks/)
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
-- [Building resilience in Spokes](https://github.blog/engineering/infrastructure/building-resilience-in-spokes/):
+- [Building resilience in Spokes](https://github.blog/engineering/infrastructure/building-resilience-in-spokes/)
 - [Inside NGINX: How We Designed for Performance & Scale](https://blog.nginx.org/blog/inside-nginx-how-we-designed-for-performance-scale)
 - [Peeking into VALORANT's Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode)
 - [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
     - https://news.ycombinator.com/item?id=3058327
 - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 - [A new hash table](https://valkey.io/blog/new-hash-table/)
-- [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios):
+- [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios)
 - [Reclaiming Terabytes: Optimizing Android image caching with TLRU](https://engineering.grab.com/reclaiming-tetabytes-optimizing-android-image-caching-with-tlru)
 
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
@@ -351,7 +352,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 - [Data types for humans](https://herbcaudill.com/words/20181223-data-types-for-humans)
-- [If I hear "design pattern" one more time, I'll go mad](https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/):
+- [If I hear "design pattern" one more time, I'll go mad](https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/)
 - [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
 - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/)
 - [If all the world were a monorepo](https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo)
@@ -694,7 +695,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Why JPEGs Still Rule the Web](https://spectrum.ieee.org/jpeg-image-format-history)
 - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
 - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
-- [A love letter to the CSV format](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/):
+- [A love letter to the CSV format](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
 - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 - [Introducing go-cdc-chunkers: chunk and deduplicate everything](https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/)
