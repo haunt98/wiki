@@ -291,10 +291,12 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
+- [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
 - [Tracking Time Without Clock](https://tigerbeetle.com/blog/2025-10-21-clockless-time/)
 - [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
 - [One for the Treble, Two for the Time](https://tigerbeetle.com/blog/2026-01-14-bitemporality/)
 - [Index, Count, Offset, Size](https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/)
+- [A Trillion Transactions](https://tigerbeetle.com/blog/2026-03-19-a-trillion-transactions/)
 
 - Tier 2
 - [Stripe V2](https://brandur.org/fragments/stripe-v2)

@@ -22,10 +22,7 @@ https://echasnovski.com/blog.xml
 https://ericmigi.com/rss.xml
 https://gpanders.com/index.xml
 https://jepsen.io/blog.atom
-https://jvns.ca/atom.xml
 https://kristoff.it/index.xml
-https://lalitm.com/index.xml
-https://lemire.me/blog/feed/
 https://lucumr.pocoo.org/feed.atom
 https://matklad.github.io/feed.xml
 https://mcyoung.xyz/atom.xml
@@ -49,11 +46,6 @@ https://www.allthingsdistributed.com/atom.xml
 https://www.morling.dev/blog/index.xml
 https://www.seangoedecke.com/rss.xml
 https://xn--gckvb8fzb.com/index.xml
-
-https://5xublog.com/feed/
-https://ngobaochau.wordpress.com/feed/
-https://vnhacker.substack.com/feed
-https://vuhavan.wordpress.com/feed/
 
 https://go.dev/blog/feed.atom
 https://golangweekly.com/rss/
