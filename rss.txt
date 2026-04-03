@@ -3,7 +3,6 @@ https://0pointer.net/blog/index.atom
 https://andrewkelley.me/rss.xml
 https://antirez.com/rss
 https://apenwarr.ca/log/rss.php
-https://ariadne.space/feed.xml
 https://arslan.io/rss
 https://beej.us/blog/rss.xml
 https://bigdata.2minutestreaming.com/feed
@@ -43,7 +42,6 @@ https://transactional.blog/feed.xml
 https://words.filippo.io/rss
 https://www.airs.com/blog/feed
 https://www.allthingsdistributed.com/atom.xml
-https://www.morling.dev/blog/index.xml
 https://www.seangoedecke.com/rss.xml
 https://xn--gckvb8fzb.com/index.xml
 
