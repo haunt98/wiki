@@ -612,6 +612,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Kể chuyện hack hacker](https://vnhacker.substack.com/p/ke-chuyen-hack-hacker)
 - [MongoBleed explained simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
 - [CodeBreach: Infiltrating the AWS Console Supply Chain and Hijacking AWS GitHub Repositories via CodeBuild](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild)
+- [We Found a Ticking Time Bomb in macOS TCP Networking - It Detonates After Exactly 49 Days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
 
 ## Misc
 
