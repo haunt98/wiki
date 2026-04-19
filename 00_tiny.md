@@ -138,6 +138,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 - [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
 - [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
+- [Simdutf Can Now Be Used Without libc++ or libc++abi](https://mitchellh.com/writing/simdutf-no-libcxx)
 - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 - [Trying to impress people you don't respect](https://www.seangoedecke.com/impressing-people/)
 - [How to become passionate about delivering shareholder value](https://www.seangoedecke.com/shareholder-value/)
@@ -297,6 +298,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [One for the Treble, Two for the Time](https://tigerbeetle.com/blog/2026-01-14-bitemporality/)
 - [Index, Count, Offset, Size](https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/)
 - [A Trillion Transactions](https://tigerbeetle.com/blog/2026-03-19-a-trillion-transactions/)
+- [Automation That Screams Joy](https://tigerbeetle.com/blog/2026-04-14-automation-screams-joy/)
 
 - Tier 2
 - [Stripe V2](https://brandur.org/fragments/stripe-v2)
