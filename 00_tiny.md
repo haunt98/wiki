@@ -276,6 +276,50 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 > **“The Thundering Herd” problem**. Large distributed systems like Facebook have dealt with far more extreme thundering
 > herds than the Taylor Swift fans. What happened to Ticketmaster is not an unsolved problem.
 
+- [Stripe’s payments APIs: The first 10 years](https://stripe.dev/blog/payment-api-design)
+- [Stripe V2](https://brandur.org/fragments/stripe-v2)
+
+> Sources and Charges were still more complex for other payment methods—and integration issues could lead to lost
+> revenue. For example, with iDEAL, the predominant payment solution in the Netherlands, the customer initiates the
+> payment after they’re redirected to their bank’s website or mobile app. If the client-side application creates a
+> Source and the browser then loses connectivity with the server, the next request to create a Charge wouldn’t make it
+> through, even though the customer believes they paid. (The browser could lose connectivity for any number of reasons:
+> the customer closes their tab after they pay on their bank’s site, the payment method requires a redirect that the
+> customer never returns from, or the customer has a flaky internet connection.) Because the server never created a
+> Charge, we’d refund the money associated with the Source after a few hours. This is a conversion nightmare.
+>
+> PaymentMethods, like the original Tokens, represent static information about the payment method that the customer
+> wants to use. It includes the payment scheme and the credentials needed to move money, like card information or the
+> customer’s name or email. For some methods, like Alipay, only the payment method name is required because the payment
+> method itself handles collecting further information after you redirect to their site. Unlike a Source, there is no
+> state or data specific to the particular transaction type captured on a PaymentMethod object—you can think of it as an
+> object that specifies how to process a payment request.
+>
+> PaymentIntents, on the other hand, capture transaction-specific data such as how much to charge and is the stateful
+> object that tracks the customer’s attempt to pay with various payment methods. Combine a PaymentMethod (the “how”) and
+> a PaymentIntent (the “what”) and payment can be attempted. If one payment attempt fails, the customer can try again
+> with a different PaymentMethod.
+>
+> With PaymentIntents and PaymentMethods, the integration is the same across all payment method types: start by creating
+> a PaymentIntent on your server for the amount and currency to collect for an order. Pass the secret embedded on the
+> PaymentIntent to the client. Collect the customer’s preferred payment method and confirm the PaymentIntent using the
+> secret and payment method information. The PaymentIntent instructs what to do next when it’s in the requires_action
+> state. Actions are standardized and predictable per payment method; for example, the 3D Secure authentication flow is
+> managed via a set of actions. Lastly, listen for the payment_intent.succeeded webhook or wait for the PaymentIntent to
+> enter the succeeded state to know when funds are guaranteed and when to fulfill a customer’s order. This is wholly
+> managed by one predictable state machine. Importantly for conversion, the sole webhook handler that users must
+> implement isn’t in the critical path to collecting money.
+>
+> The way this conceptual packaging actually manifests in the API is a special parameter called
+> error_on_requires_action. This parameter tells the PaymentIntent to error if further action is required to complete
+> the payment. A user who wants a simple payment flow like Charges won’t be able handle any actions required by the
+> PaymentIntent state machine.
+>
+> By far the best and biggest change is that request bodies are sent as JSON instead of
+> application/x-www-form-urlencoded. Form encoding isn’t the worst thing in the world, but it falls flat on its face
+> when encoding complex data types like arrays and maps (or worse, nested arrays and maps). It’s also just weird and out
+> of place in 2024. This change should’ve happened ten years ago.
+
 ### References
 
 - Tier 1
@@ -301,7 +345,6 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Automation That Screams Joy](https://tigerbeetle.com/blog/2026-04-14-automation-screams-joy/)
 
 - Tier 2
-- [Stripe V2](https://brandur.org/fragments/stripe-v2)
 - [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
 - [Performance tip: avoid unnecessary copies](https://lemire.me/blog/2024/06/22/performance-tip-avoid-unnecessary-copies/)
 - [Dividing an array into fair sized chunks](https://lemire.me/blog/2025/05/22/dividing-an-array-into-fair-sized-chunks/)
