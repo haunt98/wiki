@@ -505,18 +505,21 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Error Codes for Control Flow](https://matklad.github.io/2025/11/06/error-codes-for-control-flow.html)
 - [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html)
 - [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html)
-- [Don't Trip[wire] Yourself: Testing Error Recovery in Zig](https://mitchellh.com/writing)
+- [Don't Tripwire Yourself: Testing Error Recovery in Zig](https://mitchellh.com/writing/tripwire)
 - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
 
 - Rust
 - [Considering Strictly Monotonic Time](https://matklad.github.io/2026/01/23/strictly-monotonic-time.html)
+- [Using unwrap() in Rust is Okay](https://burntsushi.net/unwrap/)
+- [Leveraging Rust and the GPU to render user interfaces at 120 FPS](https://zed.dev/blog/videogame)
+- [Ownership and data flow in GPUI](https://zed.dev/blog/gpui-ownership)
 - [Rust Coreutils: Fixing Low-Hanging Performance Fruit](https://jackson.dev/post/rust-coreutils-dd/)
 - [Rust's BufRead, And When To Use It](https://www.brandons.me/blog/bufread-and-when-to-use-it)
 - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 - [Trimming down a rust binary in half](https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/)
 - [Maybe the Fastest Disk Usage Program on macOS](https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos)
-- [Using unwrap() in Rust is Okay](https://burntsushi.net/unwrap/)
 - [2026-02-16 – One page of async Rust](https://dotat.at/@/2026-02-16-async.html)
+- [Bugs Rust Won't Catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
 
 ## macOS
 
