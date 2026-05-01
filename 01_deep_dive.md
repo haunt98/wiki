@@ -375,10 +375,9 @@ TODO
 
 #### References
 
-- [CppCon 2017: Matt Kulukundis “Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step”](https://www.youtube.com/watch?v=ncHmEUmJZf4&t=1449s)
-- [Swiss Tables Design Notes](https://abseil.io/about/design/swisstables)
-- [Swisstable, a Quick and Dirty Description](https://faultlore.com/blah/hashbrown-tldr/)
-- [GopherCon 2016: Keith Randall - Inside the Map Implementation](https://www.youtube.com/watch?v=Tl7mi9QmLns&t=596s)
-- [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
 - [Faster Go maps with Swiss Tables](https://go.dev/blog/swisstable)
     - https://github.com/golang/go/issues/54766
+- [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
+- [Swiss Tables Design Notes](https://abseil.io/about/design/swisstables)
+- [Swisstable, a Quick and Dirty Description](https://faultlore.com/blah/hashbrown-tldr/)
+- [Swissing a table](https://philpearl.github.io/post/swissing_a_table/)
