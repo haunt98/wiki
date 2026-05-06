@@ -357,6 +357,8 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
     - https://news.ycombinator.com/item?id=3058327
 - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 - [A new hash table](https://valkey.io/blog/new-hash-table/)
+- [Ledger: Stripe’s system for tracking and validating money movement ](https://stripe.dev/blog/ledger-stripe-system-for-tracking-and-validating-money-movement)
+- [Because nobody likes being charged twice](https://stripe.dev/blog/because-nobody-likes-being-charged-twice):
 - [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios)
 - [Reclaiming Terabytes: Optimizing Android image caching with TLRU](https://engineering.grab.com/reclaiming-tetabytes-optimizing-android-image-caching-with-tlru)
 
