@@ -326,6 +326,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+- [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
 - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
 - [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
 - [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
@@ -347,6 +348,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - Tier 2
 - [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
 - [Performance tip: avoid unnecessary copies](https://lemire.me/blog/2024/06/22/performance-tip-avoid-unnecessary-copies/)
+- [Counting the digits of 64-bit integers](https://lemire.me/blog/2025/01/07/counting-the-digits-of-64-bit-integers/)
 - [Dividing an array into fair sized chunks](https://lemire.me/blog/2025/05/22/dividing-an-array-into-fair-sized-chunks/)
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
@@ -361,6 +363,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Because nobody likes being charged twice](https://stripe.dev/blog/because-nobody-likes-being-charged-twice):
 - [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios)
 - [Reclaiming Terabytes: Optimizing Android image caching with TLRU](https://engineering.grab.com/reclaiming-tetabytes-optimizing-android-image-caching-with-tlru)
+- [OpenAI’s WebRTC Problem](https://moq.dev/blog/webrtc-is-the-problem/)
 
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
@@ -378,7 +381,6 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
 - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 - [ETag and HTTP caching](https://rednafi.com/misc/etag_and_http_caching/)
-- [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
 - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 - [ATProto for distributed systems engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
@@ -396,7 +398,6 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
 - ["A calculator app? Anyone could make that."](https://chadnauseam.com/coding/random/calculator-app)
 - [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
-- [Counting the digits of 64-bit integers](https://lemire.me/blog/2025/01/07/counting-the-digits-of-64-bit-integers/)
 - [A brief history of the User-Agent string](https://nielsleenheer.com/articles/2024/a-brief-history-of-the-user-agent-string/)
 - [Dirty tricks 6502 programmers use](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html)
 - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
