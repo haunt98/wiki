@@ -318,6 +318,10 @@ Server exchange server using 2 RPC:
 - RequestVote
 - AppendEntries
 
+### References
+
+- [Raftly: Building a Production-Grade Raft Implementation from Scratch](https://anirudhology.com/blog/building-raftly-reproducing-production-failures)
+
 ## Load balancer
 
 ### Round-Robin

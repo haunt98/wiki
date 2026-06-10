@@ -195,6 +195,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
 - [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 - [Accidental or Essential? Understanding Complexity in Software Design](https://www.iankduncan.com/engineering/2025-05-26-when-is-complexity-accidental)
+- [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
 
 - Incident
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
@@ -335,6 +336,8 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
+- [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html)
+- [Unit and Integration Tests](https://matklad.github.io/2022/07/04/unit-and-integration-tests.html)
 - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
 - [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
@@ -411,6 +414,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [I've been writing ring buffers wrong all these years](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
 - [Optimizing a breadth-first search](https://www.snellman.net/blog/archive/2018-07-23-optimizing-breadth-first-search/)
 - [Rendering 100k trace events faster with exponential search](https://lalitm.com/post/exponential-search/)
+- [anomaly detection with nothing but math and a key-value store](https://uriv.me/blog/anomaly-detection-with-welford-and-kv)
 
 - Time
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
@@ -435,6 +439,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
 - [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
 - [How CRDTs make multiplayer text editing part of Zed's DNA](https://zed.dev/blog/crdts)
+- [How we made Notion available offline](https://www.notion.com/blog/how-we-made-notion-available-offline)
 - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
 - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
