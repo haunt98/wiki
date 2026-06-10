@@ -324,21 +324,10 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 ### References
 
 - Tier 1
-- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
-- [You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
-- [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
-- [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
-- [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
-- [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
-- [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
-- [Let’s Consign CAP to the Cabinet of Curiosities](https://brooker.co.za/blog/2024/07/25/cap-again.html)
-- [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
-- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
-- [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
-- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 - [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html)
 - [Unit and Integration Tests](https://matklad.github.io/2022/07/04/unit-and-integration-tests.html)
 - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+- [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html)
 - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
 - [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
 - [Tracking Time Without Clock](https://tigerbeetle.com/blog/2025-10-21-clockless-time/)
@@ -347,6 +336,17 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Index, Count, Offset, Size](https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/)
 - [A Trillion Transactions](https://tigerbeetle.com/blog/2026-03-19-a-trillion-transactions/)
 - [Automation That Screams Joy](https://tigerbeetle.com/blog/2026-04-14-automation-screams-joy/)
+- [Circuit Breakers](https://sirupsen.com/napkin/problem-11-circuit-breakers)
+- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+- [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
+- [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
+- [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
+- [Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
+- [Let’s Consign CAP to the Cabinet of Curiosities](https://brooker.co.za/blog/2024/07/25/cap-again.html)
+- [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
+- [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
+- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
 
 - Tier 2
 - [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
@@ -364,10 +364,12 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [A new hash table](https://valkey.io/blog/new-hash-table/)
 - [Ledger: Stripe’s system for tracking and validating money movement ](https://stripe.dev/blog/ledger-stripe-system-for-tracking-and-validating-money-movement)
 - [Because nobody likes being charged twice](https://stripe.dev/blog/because-nobody-likes-being-charged-twice):
+- [Your Circuit Breaker is Misconfigured](https://shopify.engineering/circuit-breaker-misconfigured)
 - [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios)
 - [Reclaiming Terabytes: Optimizing Android image caching with TLRU](https://engineering.grab.com/reclaiming-tetabytes-optimizing-android-image-caching-with-tlru)
 - [OpenAI’s WebRTC Problem](https://moq.dev/blog/webrtc-is-the-problem/)
 
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
