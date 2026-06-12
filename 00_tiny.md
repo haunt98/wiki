@@ -510,6 +510,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 ### References
 
 - Zig
+- [You Must Fix Your Asserts](https://kristoff.it/blog/fix-your-asserts/)
 - [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
 - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html#Zig-And-Rust)
 - [Error Codes for Control Flow](https://matklad.github.io/2025/11/06/error-codes-for-control-flow.html)
@@ -574,6 +575,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
 - [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
 - [Justifying text-wrap: pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)
+- [CSS: Unavoidable Bad Parts](https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html)
 - [Heart of dark mode: done, and still in progress](https://tailscale.com/blog/heart-of-dark-mode)
 
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
