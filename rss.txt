@@ -51,7 +51,6 @@ https://zed.dev/blog.rss
 https://buf.build/blog/rss.xml
 https://tigerbeetle.com/blog/atom.xml
 https://engineering.grab.com/feed.xml
-https://blog.elementary.io/feed.xml
 https://rsshub.app/amazon/kindle/software-updates
 
 https://kbd.news/rss.php
@@ -104,5 +103,3 @@ https://github.com/tidwall/gjson/tags.atom
 https://github.com/tidwall/sjson/tags.atom
 https://github.com/uber-go/goleak/tags.atom
 https://github.com/uber-go/zap/tags.atom
-
-https://github.com/earendil-works/pi-review/tags.atom
