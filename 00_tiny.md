@@ -365,6 +365,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Ledger: Stripe’s system for tracking and validating money movement ](https://stripe.dev/blog/ledger-stripe-system-for-tracking-and-validating-money-movement)
 - [Because nobody likes being charged twice](https://stripe.dev/blog/because-nobody-likes-being-charged-twice):
 - [Your Circuit Breaker is Misconfigured](https://shopify.engineering/circuit-breaker-misconfigured)
+- [The feedback loops behind Kubernetes](https://planetscale.com/blog/the-feedback-loops-behind-kubernetes)
 - [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios)
 - [Reclaiming Terabytes: Optimizing Android image caching with TLRU](https://engineering.grab.com/reclaiming-tetabytes-optimizing-android-image-caching-with-tlru)
 - [OpenAI’s WebRTC Problem](https://moq.dev/blog/webrtc-is-the-problem/)
