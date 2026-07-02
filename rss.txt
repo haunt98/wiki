@@ -68,8 +68,6 @@ https://github.com/gabriel-vasile/mimetype/tags.atom
 https://github.com/gin-gonic/gin/tags.atom
 https://github.com/go-gorm/gorm/tags.atom
 https://github.com/go-gorm/mysql/tags.atom
-https://github.com/go-redis/cache/tags.atom
-https://github.com/go-redsync/redsync/tags.atom
 https://github.com/go-sql-driver/mysql/tags.atom
 https://github.com/google/go-querystring/tags.atom
 https://github.com/google/uuid/tags.atom
