@@ -477,6 +477,7 @@ cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
 - [Object-oriented design patterns](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 - [pthread_cancel - It's always DNS!](https://eissing.org/icing/posts/pthread_cancel/)
 - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
+- [C’s Biggest Mistake](https://digitalmars.com/articles/C-biggest-mistake.html)
 
 ## Python
 
@@ -520,6 +521,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html)
 - [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html)
 - [Minimal Viable Zig Error Contexts](https://matklad.github.io/2026/05/03/zig-error-context.html)
+- [Memory Safety’s Hardest Problem](https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html)
 - [Don't Tripwire Yourself: Testing Error Recovery in Zig](https://mitchellh.com/writing/tripwire)
 - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
 
