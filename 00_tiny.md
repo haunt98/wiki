@@ -18,9 +18,10 @@
 > where.
 
 - [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
-- [Write code that’s easy to delete, and easy to debug too.](https://programmingisterrible.com/post/173883533613/code-to-debug)
 - [How do you cut a monolith in half?](https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half)
+- [Write code that’s easy to delete, and easy to debug too.](https://programmingisterrible.com/post/173883533613/code-to-debug)
 - [Repeat yourself, do more than one thing, and rewrite everything](https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and)
+- [Scaling in the presence of errors—don’t ignore them](https://programmingisterrible.com/post/188942142748/scaling-in-the-presence-of-errorsdont-ignore)
 
 Create a mess to make sure it work, then keep cleaning up later.
 
@@ -331,6 +332,8 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html)
 - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
 - [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
+- [A short tale of a read overflow](https://antirez.com/news/117)
+- [Writing system software: code comments.](https://antirez.com/news/124)
 - [Tracking Time Without Clock](https://tigerbeetle.com/blog/2025-10-21-clockless-time/)
 - [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
 - [One for the Treble, Two for the Time](https://tigerbeetle.com/blog/2026-01-14-bitemporality/)
@@ -421,10 +424,11 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [anomaly detection with nothing but math and a key-value store](https://uriv.me/blog/anomaly-detection-with-welford-and-kv)
 
 - Time
+- [mtime comparison considered harmful](https://apenwarr.ca/log/20181113/mtime-comparison-considered-harmful)
+- [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
-- [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
 - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
 - [Avoid 2:00 and 3:00 am cron jobs!](https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/)
