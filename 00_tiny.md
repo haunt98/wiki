@@ -520,6 +520,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 ### References
 
 - Zig
+- [Introduction to the Zig Programming Language](https://andrewkelley.me/post/intro-to-zig.html)
 - [You Must Fix Your Asserts](https://kristoff.it/blog/fix-your-asserts/)
 - [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
 - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html#Zig-And-Rust)
@@ -528,6 +529,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html)
 - [Minimal Viable Zig Error Contexts](https://matklad.github.io/2026/05/03/zig-error-context.html)
 - [Memory Safety’s Hardest Problem](https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html)
+- [Zig’s Io.Threaded is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
 - [Don't Tripwire Yourself: Testing Error Recovery in Zig](https://mitchellh.com/writing/tripwire)
 - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
 
