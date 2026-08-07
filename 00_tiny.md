@@ -483,6 +483,7 @@ cc -g3 -Wall -Wextra -Wconversion -Wdouble-promotion \
 - [pthread_cancel - It's always DNS!](https://eissing.org/icing/posts/pthread_cancel/)
 - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
 - [C’s Biggest Mistake](https://digitalmars.com/articles/C-biggest-mistake.html)
+- [A Tale of Two HTTP/2 Codecs](https://apoxy.dev/blog/oghttp2-vs-nghttp2)
 
 ## Python
 
