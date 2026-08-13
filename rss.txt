@@ -62,6 +62,7 @@ https://github.com/cenkalti/backoff/tags.atom
 https://github.com/disintegration/imaging/tags.atom
 https://github.com/gabriel-vasile/mimetype/tags.atom
 https://github.com/gin-gonic/gin/tags.atom
+https://github.com/go-co-op/gocron/tags.atom
 https://github.com/go-gorm/gorm/tags.atom
 https://github.com/go-gorm/mysql/tags.atom
 https://github.com/go-sql-driver/mysql/tags.atom

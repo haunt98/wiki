@@ -454,6 +454,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
 - [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
+- [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt)
 
 ## C
 
