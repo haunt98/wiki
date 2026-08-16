@@ -374,10 +374,10 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Reclaiming Terabytes: Optimizing Android image caching with TLRU](https://engineering.grab.com/reclaiming-tetabytes-optimizing-android-image-caching-with-tlru)
 - [OpenAI’s WebRTC Problem](https://moq.dev/blog/webrtc-is-the-problem/)
 
+- [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
-- [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
 - [0.1 + 0.2](https://rtfeldman.com/0.1-plus-0.2)
 - [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
 - [The Real Hash Was the Friends We Made along the Way](https://vaibhavsagar.com/blog/2024/02/14/minimal-perfect-hashing/)
@@ -522,6 +522,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 - Zig
 - [Introduction to the Zig Programming Language](https://andrewkelley.me/post/intro-to-zig.html)
+- [Asynchrony is not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
 - [You Must Fix Your Asserts](https://kristoff.it/blog/fix-your-asserts/)
 - [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
 - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html#Zig-And-Rust)
@@ -795,14 +796,15 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Git's Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
 
 - Linux
-- [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 - [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
+- [Tracking down a Zsh history data loss bug 🐞](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/#bug-root-cause)
+- [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 - [How I maintain release notes for curl](https://daniel.haxx.se/blog/2025/10/01/how-i-maintain-release-notes-for-curl/)
+- [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 - [Faster and enjoyable ZSH (maybe)](https://htr3n.github.io/2018/07/faster-zsh/)
 - [State of input method](https://dorotac.eu/posts/input_broken/)
 - [systemd by example](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
 - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
-- [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 - [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 - [SVG cursors: everything that you need to know about them](https://blog.vladzahorodnii.com/2024/10/06/svg-cursors-everything-that-you-need-to-know-about-them/)
 - [zmv](https://onethingwell.org/post/24608988305/zmv)
@@ -815,12 +817,12 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [TIL: Number in man page titles (e.g. sleep(3))](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 
 - macOS
+- [Automatic dark mode for terminal applications](https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/)
+- [Automatic dark mode for Terminal Apps, Revisited](https://arslan.io/2025/06/06/automatic-dark-mode-for-terminal-apps-revisited/)
 - [Copying with Super+C](https://whynothugo.nl/journal/2022/11/04/copying-with-super-c/)
 - [Handy macOS QuickLook configurations](https://htr3n.github.io/2018/07/handy-quicklook/)
 - [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 - [Ideal monitor rotation for programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
-- [Automatic dark mode for terminal applications](https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/)
-- [Automatic dark mode for Terminal Apps, Revisited](https://arslan.io/2025/06/06/automatic-dark-mode-for-terminal-apps-revisited/)
 - [Randomness on Apple Platforms](https://blog.xoria.org/randomness-on-apple-platforms/)
 
 - [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
@@ -845,13 +847,14 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [My 2022 high-end Linux PC 🐧 (2022)](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/)
 - [Can Dell’s 6K monitor beat their 8K monitor? (2023)](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
-- [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 - [Intel 9 285K on ASUS Z890: not stable!](https://michael.stapelberg.ch/posts/2025-03-19-intel-core-ultra-9-285k-on-asus-z890-not-stable/)
 - [My 2025 high-end Linux PC 🐧](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
 - [Bye Intel, hi AMD! I’m done after 2 dead Intels](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 - [My impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
 - [Time to upgrade your monitor](https://tonsky.me/blog/monitors/)
 - [Macs and 4K 120Hz displays compatibility list](https://tonsky.me/blog/monitors-mac/)
+- [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
+- [How I Designed a Dieter Rams inspired iPhone Dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 
 - [Installing a payphone in my house](https://bert.org/2022/06/02/payphone/)
 - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
@@ -859,11 +862,9 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
 - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 - ["What the heck is a Yubikey and why did I buy one?": A user guide](https://gist.github.com/sm-Fifteen/df1a94b6b6e0670e0b5a0c362ef2faa2)
-- [Erasure Coding For The Masses/More Math, Less Money To Keep Your Data Safe](https://towardsdatascience.com/erasure-coding-for-the-masses-2c23c74bf87e)
 - [DO NOT BUY HISENSE TV'S LOL (Or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 - [Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 - [Why you should fall in love with the RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350)
-- [How I Designed a Dieter Rams inspired iPhone Dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 - [The challenge of updating InsydeH2O UEFI with Linux](https://thebrokenrail.com/2024/09/29/the-challenge-of-insyde-h2o.html)
 - [DDR4 memory organization and how it affects memory bandwidth](https://blog.cloudflare.com/ddr4-memory-organization-and-how-it-affects-memory-bandwidth/)
 - [Using an 8K TV as a monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
@@ -884,6 +885,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
 - [Librebooting the ThinkPad T480](https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/)
 - [How To Build A Smartwatch: Software - Setting Expectations & Roadmap](https://ericmigi.com/blog/how-to-build-a-smartwatch-software-setting-expectations-and-roadmap#pebble-mobile-app)
+- [Reverse engineering the Attack Shark keyboard protocol](https://dnim.dev/blog/royuan-keyboard-protocol)
 
 ## Kindle
 
@@ -902,16 +904,6 @@ touch /Volumes/Kindle/system/._.assets
 - https://github.com/mariopepe/KindleAdRemover
 - https://github.com/innocenat/kindle-epub-fix
 - https://github.com/treetrum/amazon-kindle-bulk-downloader
-
-## Soft skill
-
-### References
-
-- [The Pragmatic Engineer's Resume Template](https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/)
-- [My Guide To Writing A Killer Cover Letter](https://www.reddit.com/r/datascience/comments/tag8l5/my_guide_to_writing_a_killer_cover_letter/)
-- [NDAs and Contracts That You Should Never Sign](https://www.joelonsoftware.com/2000/03/28/ndas-and-contracts-that-you-should-never-sign/)
-- [Contracts you should never sign](https://vadimkravcenko.com/about-me/)
-- [Do Things that Don't Scale](https://paulgraham.com/ds.html)
 
 ## Money
 
