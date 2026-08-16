@@ -426,6 +426,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - Time
 - [mtime comparison considered harmful](https://apenwarr.ca/log/20181113/mtime-comparison-considered-harmful)
 - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
+- [Counting the days, revisited](https://dotat.at/@/2026-08-09-rata-die.html)
 - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [chrono-Compatible Low-Level Date Algorithms](https://howardhinnant.github.io/date_algorithms.html)
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
@@ -522,6 +523,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 - Zig
 - [Introduction to the Zig Programming Language](https://andrewkelley.me/post/intro-to-zig.html)
+- [Zig: Already More Knowable Than C](https://andrewkelley.me/post/zig-already-more-knowable-than-c.html)
 - [Asynchrony is not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
 - [You Must Fix Your Asserts](https://kristoff.it/blog/fix-your-asserts/)
 - [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)

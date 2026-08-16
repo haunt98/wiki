@@ -7,7 +7,6 @@ https://arslan.io/rss
 https://blog.arrowtype.com/rss.xml
 https://brandur.org/articles.atom
 https://brandur.org/fragments.atom
-https://brooker.co.za/blog/atom.xml
 https://burntsushi.net/index.xml
 https://code.dblock.org/feed.xml
 https://daniel.haxx.se/blog/feed/
@@ -32,7 +31,6 @@ https://transactional.blog/feed.xml
 https://words.filippo.io/rss
 https://www.airs.com/blog/feed
 https://www.allthingsdistributed.com/atom.xml
-https://www.seangoedecke.com/rss.xml
 https://xn--gckvb8fzb.com/index.xml
 
 https://go.dev/blog/feed.atom
