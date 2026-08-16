@@ -4,8 +4,6 @@ https://arslan.io/rss
 https://brandur.org/articles.atom
 https://burntsushi.net/index.xml
 https://dave.cheney.net/feed/atom
-https://drewdevault.com/blog/index.xml
-https://jepsen.io/blog.atom
 https://kristoff.it/index.xml
 https://matklad.github.io/feed.xml
 https://mcyoung.xyz/atom.xml
@@ -24,7 +22,6 @@ https://go.dev/blog/feed.atom
 https://golangweekly.com/rss/
 https://lwn.net/headlines/weekly_big
 
-https://zed.dev/blog.rss
 https://buf.build/blog/rss.xml
 
 https://kbd.news/rss.php
