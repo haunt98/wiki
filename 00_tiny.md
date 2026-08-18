@@ -364,15 +364,16 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Peeking into VALORANT's Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode)
 - [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
     - https://news.ycombinator.com/item?id=3058327
-- [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 - [A new hash table](https://valkey.io/blog/new-hash-table/)
 - [Ledger: Stripe’s system for tracking and validating money movement ](https://stripe.dev/blog/ledger-stripe-system-for-tracking-and-validating-money-movement)
 - [Because nobody likes being charged twice](https://stripe.dev/blog/because-nobody-likes-being-charged-twice):
 - [Your Circuit Breaker is Misconfigured](https://shopify.engineering/circuit-breaker-misconfigured)
 - [The feedback loops behind Kubernetes](https://planetscale.com/blog/the-feedback-loops-behind-kubernetes)
+- [OpenAI’s WebRTC Problem](https://moq.dev/blog/webrtc-is-the-problem/)
+- [Git at any scale](https://cursor.com/blog/git-at-any-scale):
 - [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios)
 - [Reclaiming Terabytes: Optimizing Android image caching with TLRU](https://engineering.grab.com/reclaiming-tetabytes-optimizing-android-image-caching-with-tlru)
-- [OpenAI’s WebRTC Problem](https://moq.dev/blog/webrtc-is-the-problem/)
+- [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
@@ -817,6 +818,9 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 - [Terminal Emulators Battle Royale – Unicode Edition!](https://www.jeffquast.com/post/ucs-detect-test-results/)
 - [TIL: Number in man page titles (e.g. sleep(3))](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
+- [Fixing AMDGPU's VRAM management for low-end GPUs](https://pixelcluster.dev/VRAM-Mgmt-fixed/)
+- [VRAM Management Part 2: Beyond the Limits of Physical VRAM](https://pixelcluster.dev/VRAM-Overcommit/)
+- [The Maturing of QUIC](https://www.fastly.com/blog/maturing-of-quic)
 
 - macOS
 - [Automatic dark mode for terminal applications](https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/)
