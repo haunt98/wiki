@@ -822,6 +822,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Fixing AMDGPU's VRAM management for low-end GPUs](https://pixelcluster.dev/VRAM-Mgmt-fixed/)
 - [VRAM Management Part 2: Beyond the Limits of Physical VRAM](https://pixelcluster.dev/VRAM-Overcommit/)
 - [The Maturing of QUIC](https://www.fastly.com/blog/maturing-of-quic)
+- [Fornax's Guide To Ridiculously Fast Ethernet](https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/)
 
 - macOS
 - [Automatic dark mode for terminal applications](https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/)
