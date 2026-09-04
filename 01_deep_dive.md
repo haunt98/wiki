@@ -384,6 +384,7 @@ TODO
 - [Faster Go maps with Swiss Tables](https://go.dev/blog/swisstable)
     - https://github.com/golang/go/issues/54766
 - [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
+- [How Swiss Tables Work in Go’s Built-in Map](https://victoriametrics.com/blog/go-swiss-table-map/)
 - [Swiss Tables Design Notes](https://abseil.io/about/design/swisstables)
 - [Swisstable, a Quick and Dirty Description](https://faultlore.com/blah/hashbrown-tldr/)
 - [Swissing a table](https://philpearl.github.io/post/swissing_a_table/)
