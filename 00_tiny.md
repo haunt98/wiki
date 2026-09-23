@@ -333,6 +333,7 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html)
 - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
 - [Consensus Board Game](https://matklad.github.io/2026/03/19/consensus-board-game.html)
+- [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html)
 - [A short tale of a read overflow](https://antirez.com/news/117)
 - [Writing system software: code comments.](https://antirez.com/news/124)
 - [Tracking Time Without Clock](https://tigerbeetle.com/blog/2025-10-21-clockless-time/)
