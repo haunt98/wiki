@@ -760,6 +760,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
 - [An introduction to XET, Hugging Face's storage system (part 1)](https://00f.net/2026/01/19/xet-intro-1/)
 - [An introduction to XET, Hugging Face's storage system (part 2)](https://00f.net/2026/01/19/xet-intro-2/)
+- [Userspace isn't slow, some kernel interfaces are!](https://tailscale.com/blog/throughput-improvements)
 - [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 - [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/)
 - [Apple’s attempt at system-wide filtering API — is it good? AdGuard’s research](https://adguard.com/en/blog/apple-url-filter-system-wide-filtering-api.html)
