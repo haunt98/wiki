@@ -507,6 +507,9 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 
 ### References
 
+- [Python's two modules for random numbers](https://lwn.net/Articles/1097468/)
+- [Sneak peek: A new ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
+
 - [Breaking the Snake: How Python went from 2 to 3](https://www.deusinmachina.net/p/breaking-the-snake-how-python-went)
 - [Thoughts on the Python packaging ecosystem](https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/)
 - [Why not tell people to "simply" use pyenv, poetry or anaconda](https://www.bitecode.dev/p/why-not-tell-people-to-simply-use)
@@ -516,7 +519,6 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [UV tricks](https://www.bitecode.dev/p/uv-tricks)
 - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
 - [Python Performance: Why 'if not list' is 2x Faster Than Using len()](https://blog.codingconfessions.com/p/python-performance-why-if-not-list)
-- [Sneak peek: A new ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 - [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 
@@ -650,6 +652,7 @@ dt_ts = datetime.fromtimestamp(1571595618.0, tz=timezone.utc)
 - [A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](https://words.filippo.io/compromise-survey/)
 - [The 2025 Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
 - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
+- [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
 - [Adventures in password hashing + migrating to Argon2id](https://brandur.org/fragments/password-hashing)
 - [Migrating weaker password hashes by nesting them in an outer hash](https://brandur.org/fragments/password-hash-nesting)
 - [Don't pass on small block ciphers](https://00f.net/2026/02/10/small-block-ciphers/)
@@ -847,6 +850,7 @@ openssl pkey -in private.pem -pubout -out public.pem
 - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
 - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 - [Building Container Images FROM Scratch: 6 Pitfalls That Are Often Overlooked](https://labs.iximiuz.com/tutorials/pitfalls-of-from-scratch-images)
+- [The hidden design compromises of Docker layers](https://loige.co/hidden-design-compromises-of-docker-layers/)
 
 ## Hardware
 
