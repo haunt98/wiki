@@ -199,6 +199,7 @@ Create a mess to make sure it work, then keep cleaning up later.
 - [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 - [Accidental or Essential? Understanding Complexity in Software Design](https://www.iankduncan.com/engineering/2025-05-26-when-is-complexity-accidental)
 - [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)
+- [Early DigitalOcean Was Scared of Its Hypervisors](https://aybabt.me/blog/early-digitalocean-was-scared-of-its-hypervisors/)
 
 - Incident
 - [A List of Post-mortems!](https://github.com/danluu/post-mortems)
