@@ -352,7 +352,8 @@ Good example: `http://www.w3.org/1998/12/01/chairs`
 - [Your Circuit Breaker is Misconfigured](https://shopify.engineering/circuit-breaker-misconfigured)
 - [The feedback loops behind Kubernetes](https://planetscale.com/blog/the-feedback-loops-behind-kubernetes)
 - [OpenAI’s WebRTC Problem](https://moq.dev/blog/webrtc-is-the-problem/)
-- [Git at any scale](https://cursor.com/blog/git-at-any-scale):
+- [Git at any scale](https://cursor.com/blog/git-at-any-scale)
+- [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
 - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 - [How Grab is accelerating growth with real-time personalization using Customer Data Platform scenarios](https://engineering.grab.com/cdp-scenarios)
 - [Reclaiming Terabytes: Optimizing Android image caching with TLRU](https://engineering.grab.com/reclaiming-tetabytes-optimizing-android-image-caching-with-tlru)
